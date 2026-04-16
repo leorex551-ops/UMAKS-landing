@@ -884,13 +884,23 @@
 
         .reveal {
             opacity: 0;
-            transform: translateY(32px);
-            transition: opacity 0.6s ease, transform 0.6s ease;
+            transform: translateY(50px);
+            transition: opacity 0.8s cubic-bezier(0.4, 0, 0.2, 1), transform 0.8s cubic-bezier(0.4, 0, 0.2, 1);
         }
 
         .reveal.visible {
             opacity: 1;
             transform: translateY(0);
+        }
+
+        .dev-link {
+            color: #FFD700 !important;
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        .dev-link:hover {
+            text-decoration: underline;
         }
 
         @media (max-width: 768px) {
@@ -1307,7 +1317,7 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                © 2026 ЮМАКС — Сеть шиномонтажей, г. Пенза | <a href="#" onclick="openPrivacyModal()">Политика конфиденциальности</a> | Все права защищены
+                © 2026 ЮМАКС — Сеть шиномонтажей, г. Пенза | <a href="#" onclick="openPrivacyModal()">Политика конфиденциальности</a> | <a href="https://neuro-mark.ru/" target="_blank" class="dev-link">Разработано: neuro-mark.ru</a> | Все права защищены
             </div>
         </div>
     </footer>
