@@ -59,18 +59,26 @@
         }
 
         header {
-            position: fixed;
-            top: 20px;
-            left: 50%;
-            transform: translateX(-50%);
-            width: calc(100% - 48px);
-            max-width: 1200px;
+            position: sticky;
+            top: 0;
             z-index: 1000;
-            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            background: rgba(13, 27, 46, 0.92);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid rgba(255,255,255,0.08);
+            padding: 16px 0;
+            transition: background 0.3s, backdrop-filter 0.3s, border-color 0.3s;
         }
 
         header.scrolled {
-            padding: 0 20px;
+            background: rgba(13, 27, 46, 0.92);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid rgba(255,255,255,0.08);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 24px;
         }
 
         nav {
@@ -366,6 +374,9 @@
             .hero-usp-row { grid-template-columns: 1fr; }
             .reviews-grid { grid-template-columns: 1fr; }
             .counter-plate { flex-direction: column; gap: 15px; border-radius: 20px; width: 100%; }
+            .advantages-grid { grid-template-columns: 1fr; }
+            .pricing-table-wrapper { overflow-x: auto; }
+            .footer-cols { grid-template-columns: 1fr; }
         }
 
         .btn-close-modal {
@@ -934,21 +945,8 @@
                             <svg viewBox="0 0 24 24"><path d="M20.665 3.717l-17.73 6.837c-1.21.486-1.203 1.161-.222 1.462l4.552 1.42 10.532-6.645c.498-.303.953-.14.579.192l-8.533 7.701v3.165c.31 0 .447-.142.621-.312l1.488-1.445 3.1 2.292c.57.313.98.152 1.123-.527l2.035-9.6c.207-.83-.314-1.206-.855-.976z"/></svg>
                         </a>
                     </div>
-                    <div class="burger" onclick="toggleMenu()">
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                    </div>
                 </div>
             </nav>
-            <div class="mobile-menu" id="mobileMenu">
-                <a href="#pricing" onclick="toggleMenu()">Цены</a>
-                <a href="#form" onclick="toggleMenu()">Записаться</a>
-                <a href="#map" onclick="toggleMenu()">Точки</a>
-                <a href="#storage" onclick="toggleMenu()">Хранение</a>
-                <a href="#reviews" onclick="toggleMenu()">Отзывы</a>
-                <a href="tel:+78412999901" style="color: var(--brand-amber); margin-top: 20px;">8 (8412) 99-99-01</a>
-            </div>
         </div>
     </header>
 
