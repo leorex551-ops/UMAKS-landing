@@ -179,14 +179,14 @@
         }
 
         .hero {
-            padding: 40px 0 60px;
+            padding: 40px 0 140px;
             position: relative;
             overflow: hidden;
             display: flex;
             align-items: center;
             min-height: 60vh;
-            background: var(--bg-dark);
-            border-bottom: 1px solid var(--bg-section);
+            background: linear-gradient(to bottom, var(--bg-dark) 0%, var(--bg-dark) calc(100% - 140px), #0F2240 calc(100% - 140px), #0F2240 100%);
+            border-bottom: none;
         }
 
         .hero-video {
@@ -608,10 +608,11 @@
         }
 
         .locations-grid {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 20px;
+            display: flex !important;
+            flex-direction: row !important;
+            flex-wrap: wrap !important;
+            justify-content: center !important;
+            gap: 24px !important;
             margin-bottom: 40px;
             width: 100%;
         }
@@ -621,11 +622,12 @@
             backdrop-filter: blur(10px);
             border: 1px solid var(--glass-border);
             border-radius: 12px;
-            padding: 20px;
+            padding: 24px;
             text-align: left;
             transition: transform 0.3s;
-            flex: 0 1 270px;
-            min-width: 260px;
+            flex: 0 0 270px !important;
+            width: 270px !important;
+            min-width: 270px !important;
         }
 
         .location-card:hover {
