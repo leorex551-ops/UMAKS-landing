@@ -608,21 +608,10 @@
 
         .locations-grid {
             display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
             gap: 20px;
-            overflow-x: auto;
-            padding-bottom: 20px;
             margin-bottom: 40px;
-            scrollbar-width: thin;
-            scrollbar-color: var(--brand-amber) transparent;
-        }
-
-        .locations-grid::-webkit-scrollbar {
-            height: 6px;
-        }
-
-        .locations-grid::-webkit-scrollbar-thumb {
-            background: var(--brand-amber);
-            border-radius: 10px;
         }
 
         .location-card {
@@ -633,7 +622,8 @@
             padding: 20px;
             text-align: left;
             transition: transform 0.3s;
-            flex: 0 0 280px;
+            flex: 0 1 calc(25% - 15px);
+            min-width: 260px;
         }
 
         .location-card:hover {
