@@ -668,30 +668,11 @@
             display: block;
         }
 
-        @media (max-width: 900px) {
-            .locations-grid {
-                grid-template-columns: repeat(2, 1fr);
-            }
-        }
-
-        @media (max-width: 600px) {
-            .locations-grid {
-                grid-template-columns: 1fr;
-            }
-        }
-
         .map-subtitle {
             text-align: center;
             color: var(--text-muted);
             margin-bottom: 60px;
             font-size: 1.1rem;
-        }
-
-        .map-container {
-            display: grid;
-            grid-template-columns: 1fr 2fr;
-            gap: 40px;
-            align-items: start;
         }
 
         .locations-list {
@@ -982,6 +963,112 @@
             text-decoration: underline;
         }
 
+        .burger {
+            display: none;
+            cursor: pointer;
+            width: 30px;
+            height: 20px;
+            position: relative;
+            z-index: 1001;
+            margin-left: 16px;
+        }
+
+        .burger span {
+            display: block;
+            width: 100%;
+            height: 2px;
+            background: var(--brand-amber);
+            position: absolute;
+            transition: all 0.3s;
+            border-radius: 2px;
+        }
+
+        .burger span:nth-child(1) { top: 0; }
+        .burger span:nth-child(2) { top: 9px; }
+        .burger span:nth-child(3) { bottom: 0; }
+
+        .burger.active span {
+            background: var(--brand-red);
+        }
+
+        .burger.active span:nth-child(1) {
+            transform: rotate(45deg);
+            top: 9px;
+        }
+        .burger.active span:nth-child(2) {
+            opacity: 0;
+        }
+        .burger.active span:nth-child(3) {
+            transform: rotate(-45deg);
+            top: 9px;
+        }
+
+        .mobile-menu {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100vh;
+            background: rgba(13, 27, 46, 0.98);
+            backdrop-filter: blur(10px);
+            z-index: 1000;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.3s ease;
+        }
+
+        .mobile-menu.active {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .mobile-menu ul {
+            list-style: none;
+            text-align: center;
+            margin-bottom: 30px;
+            padding: 0;
+        }
+
+        .mobile-menu ul li {
+            margin-bottom: 24px;
+        }
+
+        .mobile-menu ul li a {
+            font-size: 1.5rem;
+            color: var(--text-white);
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        .mobile-menu ul li a:hover {
+            color: var(--brand-amber);
+        }
+
+        .mobile-menu .phone {
+            font-size: 1.5rem;
+            margin-bottom: 24px;
+            display: block;
+            color: var(--brand-amber);
+            font-weight: 700;
+            text-decoration: none;
+        }
+
+        .mobile-menu .social-icons {
+            margin-bottom: 30px;
+            gap: 24px;
+        }
+        
+        .mobile-menu .social-icons svg {
+            width: 32px;
+            height: 32px;
+        }
+
+        /* Improved mobile responsive styles */
+
         @media (max-width: 768px) {
             .hero { padding-top: 120px; min-height: auto; }
             .hero-content h1 { font-size: 2.2rem; }
@@ -991,16 +1078,42 @@
             .hero-grid { grid-template-columns: 1fr; gap: 30px; }
             .hero-usp-row { grid-template-columns: 1fr; }
             
-            nav ul, .header-actions .btn, .header-actions .phone, .header-actions .social-icons { display: none; }
+            nav ul, .header-actions .btn, .header-actions .social-icons { display: none; }
+            .header-actions .phone { display: none; } /* keep header clean, use menu */
             .burger { display: block; }
             .header-actions { gap: 0; }
             
-            .price-table-wrapper { overflow-x: auto; -webkit-overflow-scrolling: touch; }
-            .price-table { min-width: 600px; font-size: 0.85rem; }
+            .price-table { overflow-x: auto; -webkit-overflow-scrolling: touch; display: block; }
+            .price-table table { min-width: 600px; font-size: 0.85rem; }
             
             .footer-cols { grid-template-columns: 1fr; gap: 30px; }
             .footer-cta h3 { font-size: 1.2rem; }
             .footer-bottom { font-size: 0.8rem; }
+            
+            .form-row { flex-direction: column; gap: 16px; margin-bottom: 16px; }
+            .modal-content { padding: 24px 16px; margin: 15% auto; width: 92%; }
+            .modal h3 { font-size: 1.3rem; }
+            .advantages { padding: 50px 0; }
+            .pricing { padding: 50px 0; }
+            .form-section { padding: 50px 0; }
+            .storage { padding: 50px 0; }
+            .reviews { padding: 50px 0; }
+            .map-section { padding: 50px 0; }
+            .advantages h2, .pricing h2, .form-section h2, .storage h2, .reviews h2, .map-section h2 { font-size: 1.8rem; margin-bottom: 30px;}
+            
+            form button, .hero button, .modal button { font-size: 1rem; padding: 14px 20px; }
+        }
+
+        @media (max-width: 600px) {
+            .locations-grid {
+                grid-template-columns: 1fr;
+            }
+            .location-card {
+                flex: 1 1 100% !important;
+                width: 100% !important;
+                min-width: 100% !important;
+                box-sizing: border-box;
+            }
         }
 
         @media (min-width: 768px) and (max-width: 1200px) {
@@ -1034,9 +1147,33 @@
                         </a>
                     </div>
                 </div>
+                <div class="burger" onclick="toggleMenu()">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
             </nav>
         </div>
     </header>
+
+    <div class="mobile-menu" id="mobileMenu">
+        <ul>
+            <li><a href="#pricing" onclick="toggleMenu()">Цены</a></li>
+            <li><a href="#map" onclick="toggleMenu()">Точки</a></li>
+            <li><a href="#storage" onclick="toggleMenu()">Хранение</a></li>
+            <li><a href="#reviews" onclick="toggleMenu()">Отзывы</a></li>
+        </ul>
+        <a href="tel:+78412999901" class="phone">8 (8412) 99-99-01</a>
+        <div class="social-icons">
+            <a href="https://wa.me/79063956222" target="_blank" title="WhatsApp">
+                <svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L0 24l6.335-1.662c1.72.937 3.659 1.432 5.626 1.432h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>
+            </a>
+            <a href="https://t.me/79063956222" target="_blank" title="Telegram">
+                <svg viewBox="0 0 24 24"><path d="M20.665 3.717l-17.73 6.837c-1.21.486-1.203 1.161-.222 1.462l4.552 1.42 10.532-6.645c.498-.303.953-.14.579.192l-8.533 7.701v3.165c.31 0 .447-.142.621-.312l1.488-1.445 3.1 2.292c.57.313.98.152 1.123-.527l2.035-9.6c.207-.83-.314-1.206-.855-.976z"/></svg>
+            </a>
+        </div>
+        <button class="btn btn-primary" onclick="toggleMenu(); openBookingModal();">Записаться онлайн</button>
+    </div>
 
     <section class="hero">
         <video autoplay muted loop playsinline class="hero-video">
@@ -1438,7 +1575,7 @@
                 </table>
             </div>
 
-            <div style="margin-top: 30px; display: grid; grid-template-columns: 1fr 1fr; gap: 40px;">
+            <div style="margin-top: 30px; display: flex; flex-direction: column; gap: 30px;">
                 <div>
                     <h4 style="margin-bottom: 12px; color: var(--brand-amber);">Дополнительные услуги:</h4>
                     <ul style="list-style: none; font-size: 0.9rem;">
@@ -1460,9 +1597,9 @@
                 </div>
             </div>
 
-            <div class="modal-footer">
-                <button class="btn btn-secondary" onclick="closeModal('fullPriceModal')">Назад на главную</button>
-                <button class="btn btn-primary" onclick="closeModal('fullPriceModal'); openBookingModal();">Записаться</button>
+            <div class="modal-footer" style="flex-wrap: wrap; flex-direction: column;">
+                <button class="btn btn-primary" style="width: 100%; margin-bottom: 8px;" onclick="closeModal('fullPriceModal'); openBookingModal();">Записаться</button>
+                <button class="btn btn-secondary" style="width: 100%; border: none;" onclick="closeModal('fullPriceModal')">Назад на главную</button>
             </div>
         </div>
     </div>
