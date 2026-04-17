@@ -179,13 +179,13 @@
         }
 
         .hero {
-            padding: 80px 0 120px;
+            padding: 40px 0 60px;
             position: relative;
             overflow: hidden;
             display: flex;
             align-items: center;
-            min-height: 80vh;
-            background: #000;
+            min-height: 60vh;
+            background: var(--bg-dark);
         }
 
         .hero-video {
@@ -195,7 +195,7 @@
             width: 100%;
             height: 100%;
             object-fit: contain;
-            background: #000;
+            background: var(--bg-dark);
             z-index: 0;
             opacity: 1;
         }
@@ -483,7 +483,8 @@
             border: 1px solid var(--glass-border);
             border-radius: 16px;
             overflow: hidden;
-            margin-bottom: 32px;
+            margin: 0 auto 32px;
+            max-width: 800px;
         }
 
         .price-table table {
@@ -597,6 +598,92 @@
             font-weight: 800;
             text-align: center;
             margin-bottom: 16px;
+        }
+
+        .map-container {
+            display: flex;
+            flex-direction: column;
+            gap: 40px;
+        }
+
+        .locations-grid {
+            display: flex;
+            gap: 20px;
+            overflow-x: auto;
+            padding-bottom: 20px;
+            margin-bottom: 40px;
+            scrollbar-width: thin;
+            scrollbar-color: var(--brand-amber) transparent;
+        }
+
+        .locations-grid::-webkit-scrollbar {
+            height: 6px;
+        }
+
+        .locations-grid::-webkit-scrollbar-thumb {
+            background: var(--brand-amber);
+            border-radius: 10px;
+        }
+
+        .location-card {
+            background: var(--bg-card);
+            backdrop-filter: blur(10px);
+            border: 1px solid var(--glass-border);
+            border-radius: 12px;
+            padding: 20px;
+            text-align: left;
+            transition: transform 0.3s;
+            flex: 0 0 280px;
+        }
+
+        .location-card:hover {
+            transform: translateY(-5px);
+            border-color: var(--brand-amber);
+        }
+
+        .location-card .address {
+            font-weight: 700;
+            margin-bottom: 8px;
+            display: block;
+        }
+
+        .location-card .phone {
+            color: var(--brand-amber);
+            text-decoration: none;
+            font-size: 0.9rem;
+            display: block;
+            margin-bottom: 4px;
+        }
+
+        .location-card .hours {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            margin-bottom: 12px;
+            display: block;
+        }
+
+        .map-wrapper {
+            background: var(--bg-card);
+            border: 1px solid var(--glass-border);
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+        }
+
+        .map-iframe iframe {
+            display: block;
+        }
+
+        @media (max-width: 900px) {
+            .locations-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media (max-width: 600px) {
+            .locations-grid {
+                grid-template-columns: 1fr;
+            }
         }
 
         .map-subtitle {
@@ -933,11 +1020,10 @@
         <div class="container">
             <nav>
                 <div class="logo">
-                    <img src="logo.png" alt="ЮМАКС" style="height: 40px;">
+                    <img src="logo.png" alt="ЮМАКС" style="height: 80px;">
                 </div>
                 <ul>
                     <li><a href="#pricing">Цены</a></li>
-                    <li><a href="#form">Записаться</a></li>
                     <li><a href="#map">Точки</a></li>
                     <li><a href="#storage">Хранение</a></li>
                     <li><a href="#reviews">Отзывы</a></li>
@@ -965,9 +1051,9 @@
         <div class="container" style="position: relative; z-index: 3;">
             <div class="hero-grid">
                 <div class="hero-content">
-                    <div class="hero-badge">🏆 7 точек в Пензе • Работаем с 8:00 до 21:00</div>
-                    <h1 class="reveal" style="text-shadow: 0 4px 12px rgba(0,0,0,0.4);">Шиномонтаж в Пензе —<br>7 точек, 40 минут, от 240 ₽</h1>
-                    <p class="subtitle">Меняем резину без очереди. 8 лет в городе, 50 000 довольных клиентов.</p>
+                    <div class="hero-badge">Работаем с 8:00–21:00 без выходных</div>
+                    <h1 class="reveal" style="text-shadow: 0 4px 12px rgba(0,0,0,0.4);">Шиномонтаж в Пензе —<br>быстро, честно, рядом</h1>
+                    <p class="subtitle">50 000 клиентов уже сменили резину у нас. Без очереди — за 40 минут.</p>
                     <div class="hero-buttons">
                         <a href="javascript:void(0)" onclick="openBookingModal()" class="btn btn-primary">Записаться онлайн</a>
                         <a href="#pricing" class="btn btn-secondary" style="backdrop-filter: blur(5px); background: rgba(255,255,255,0.1);">Узнать цены</a>
@@ -978,14 +1064,14 @@
                         <span class="material-symbols-outlined hero-usp-icon">bolt</span>
                         <div class="hero-usp-text">
                             <div class="hero-usp-title">40 минут</div>
-                            <div class="hero-usp-desc">Стандартный комплект. Без ожидания.</div>
+                            <div class="hero-usp-desc">Стандартный комплект — без ожидания.</div>
                         </div>
                     </div>
                     <div class="hero-usp-card">
                         <span class="material-symbols-outlined hero-usp-icon">payments</span>
                         <div class="hero-usp-text">
                             <div class="hero-usp-title">От 240 ₽</div>
-                            <div class="hero-usp-desc">Честная цена. Озвучим до начала работ.</div>
+                            <div class="hero-usp-desc">Цену называем до работы.</div>
                         </div>
                     </div>
                     <div class="hero-usp-card">
@@ -1007,17 +1093,17 @@
                 <div class="advantage-card">
                     <span class="material-symbols-outlined advantage-icon">bolt</span>
                     <div class="advantage-title">40 минут</div>
-                    <div class="advantage-desc">Стандартный комплект. Без ожидания.</div>
+                    <div class="advantage-desc">Пока один мастер снимает, второй уже балансирует.</div>
                 </div>
                 <div class="advantage-card">
                     <span class="material-symbols-outlined advantage-icon">payments</span>
-                    <div class="advantage-title">От 240 ₽</div>
-                    <div class="advantage-desc">Честная цена. Озвучим до начала работ.</div>
+                    <div class="advantage-title">Прозрачные цены</div>
+                    <div class="advantage-desc">Прайс на сайте = цена в кассе.</div>
                 </div>
                 <div class="advantage-card">
                     <span class="material-symbols-outlined advantage-icon">location_on</span>
-                    <div class="advantage-title">7 точек</div>
-                    <div class="advantage-desc">Всегда есть ближайшая к вам.</div>
+                    <div class="advantage-title">7 точек в Пензе</div>
+                    <div class="advantage-desc">Южная, Центр, Арбеково, ГПЗ.</div>
                 </div>
                 <div class="advantage-card">
                     <span class="material-symbols-outlined advantage-icon">verified</span>
@@ -1103,10 +1189,6 @@
                                 <option value="Ул. Суворова, 153а">Ул. Суворова, 153а</option>
                             </select>
                         </div>
-                        <div class="form-group">
-                            <label for="datetime">Дата/время</label>
-                            <input type="datetime-local" id="datetime" name="datetime">
-                        </div>
                     </div>
                     <p class="consent-text">
                         Нажимая «Записаться», вы соглашаетесь с
@@ -1121,56 +1203,56 @@
 
     <section id="map" class="map-section">
         <div class="container">
-            <h2 class="reveal">Найдите ближайшую точку</h2>
+            <h2 class="reveal">Выберите ближайшую точку</h2>
             <p class="map-subtitle">7 шиномонтажей по всей Пензе — один из них в паре минут от вас</p>
             <div class="map-container">
-                <div class="locations-list">
-                    <div class="location-item">
-                        <div class="location-address">📍 Пр. Победы, 96а</div>
-                        <a href="tel:+78412999901" class="location-phone">8 (8412) 99-99-01</a>
-                        <div class="location-hours">8:00–21:00, без выходных</div>
-                        <a href="https://yandex.ru/maps/?text=Пенза, пр. Победы, 96а" class="location-route" target="_blank">Маршрут</a>
+                <div class="locations-grid">
+                    <div class="location-card">
+                        <span class="address">📍 Пр. Победы, 96а</span>
+                        <a href="tel:+78412999901" class="phone">8 (8412) 99-99-01</a>
+                        <span class="hours">8:00–21:00, без выходных</span>
+                        <a href="https://yandex.ru/maps/?text=Пенза, пр. Победы, 96а" class="btn btn-secondary" style="padding: 8px 16px; font-size: 0.8rem;" target="_blank">Маршрут</a>
                     </div>
-                    <div class="location-item">
-                        <div class="location-address">📍 Ул. Калинина, 158</div>
-                        <a href="tel:+78412999901" class="location-phone">8 (8412) 99-99-01</a>
-                        <div class="location-hours">8:00–21:00, без выходных</div>
-                        <a href="https://yandex.ru/maps/?text=Пенза, ул. Калинина, 158" class="location-route" target="_blank">Маршрут</a>
+                    <div class="location-card">
+                        <span class="address">📍 Ул. Калинина, 158</span>
+                        <a href="tel:+78412999901" class="phone">8 (8412) 99-99-01</a>
+                        <span class="hours">8:00–21:00, без выходных</span>
+                        <a href="https://yandex.ru/maps/?text=Пенза, ул. Калинина, 158" class="btn btn-secondary" style="padding: 8px 16px; font-size: 0.8rem;" target="_blank">Маршрут</a>
                     </div>
-                    <div class="location-item">
-                        <div class="location-address">📍 Пр. Победы, 67</div>
-                        <a href="tel:+78412999901" class="location-phone">8 (8412) 99-99-01</a>
-                        <div class="location-hours">8:00–21:00, без выходных</div>
-                        <a href="https://yandex.ru/maps/?text=Пенза, пр. Победы, 67" class="location-route" target="_blank">Маршрут</a>
+                    <div class="location-card">
+                        <span class="address">📍 Пр. Победы, 67</span>
+                        <a href="tel:+78412999901" class="phone">8 (8412) 99-99-01</a>
+                        <span class="hours">8:00–21:00, без выходных</span>
+                        <a href="https://yandex.ru/maps/?text=Пенза, пр. Победы, 67" class="btn btn-secondary" style="padding: 8px 16px; font-size: 0.8rem;" target="_blank">Маршрут</a>
                     </div>
-                    <div class="location-item">
-                        <div class="location-address">📍 Ул. Гагарина, 3а</div>
-                        <a href="tel:+78412999901" class="location-phone">8 (8412) 99-99-01</a>
-                        <div class="location-hours">8:00–21:00, без выходных</div>
-                        <a href="https://yandex.ru/maps/?text=Пенза, ул. Гагарина, 3а" class="location-route" target="_blank">Маршрут</a>
+                    <div class="location-card">
+                        <span class="address">📍 Ул. Гагарина, 3а</span>
+                        <a href="tel:+78412999901" class="phone">8 (8412) 99-99-01</a>
+                        <span class="hours">8:00–21:00, без выходных</span>
+                        <a href="https://yandex.ru/maps/?text=Пенза, ул. Гагарина, 3а" class="btn btn-secondary" style="padding: 8px 16px; font-size: 0.8rem;" target="_blank">Маршрут</a>
                     </div>
-                    <div class="location-item">
-                        <div class="location-address">📍 Пр. Строителей, 21а/2</div>
-                        <a href="tel:+78412999901" class="location-phone">8 (8412) 99-99-01</a>
-                        <div class="location-hours">8:00–21:00, без выходных</div>
-                        <a href="https://yandex.ru/maps/?text=Пенза, пр. Строителей, 21а/2" class="location-route" target="_blank">Маршрут</a>
+                    <div class="location-card">
+                        <span class="address">📍 Пр. Строителей, 21а/2</span>
+                        <a href="tel:+78412999901" class="phone">8 (8412) 99-99-01</a>
+                        <span class="hours">8:00–21:00, без выходных</span>
+                        <a href="https://yandex.ru/maps/?text=Пенза, пр. Строителей, 21а/2" class="btn btn-secondary" style="padding: 8px 16px; font-size: 0.8rem;" target="_blank">Маршрут</a>
                     </div>
-                    <div class="location-item">
-                        <div class="location-address">📍 Ул. Антонова, 52а</div>
-                        <a href="tel:+78412999901" class="location-phone">8 (8412) 99-99-01</a>
-                        <div class="location-hours">8:00–21:00, без выходных</div>
-                        <a href="https://yandex.ru/maps/?text=Пенза, ул. Антонова, 52а" class="location-route" target="_blank">Маршрут</a>
+                    <div class="location-card">
+                        <span class="address">📍 Ул. Антонова, 52а</span>
+                        <a href="tel:+78412999901" class="phone">8 (8412) 99-99-01</a>
+                        <span class="hours">8:00–21:00, без выходных</span>
+                        <a href="https://yandex.ru/maps/?text=Пенза, ул. Антонова, 52а" class="btn btn-secondary" style="padding: 8px 16px; font-size: 0.8rem;" target="_blank">Маршрут</a>
                     </div>
-                    <div class="location-item">
-                        <div class="location-address">📍 Ул. Суворова, 153а</div>
-                        <a href="tel:+78412999901" class="location-phone">8 (8412) 99-99-01</a>
-                        <div class="location-hours">8:00–21:00, без выходных</div>
-                        <a href="https://yandex.ru/maps/?text=Пенза, ул. Суворова, 153а" class="location-route" target="_blank">Маршрут</a>
+                    <div class="location-card">
+                        <span class="address">📍 Ул. Суворова, 153а</span>
+                        <a href="tel:+78412999901" class="phone">8 (8412) 99-99-01</a>
+                        <span class="hours">8:00–21:00, без выходных</span>
+                        <a href="https://yandex.ru/maps/?text=Пенза, ул. Суворова, 153а" class="btn btn-secondary" style="padding: 8px 16px; font-size: 0.8rem;" target="_blank">Маршрут</a>
                     </div>
                 </div>
-                <div class="map-iframe">
-                    <iframe src="https://yandex.ru/map-widget/v1/?ll=44.9700%2C53.2000&z=12&pt=44.948235,53.225997,pm2rdm~44.989609,53.157599,pm2rdm~44.955545,53.225349,pm2rdm~44.999412,53.217386,pm2rdm~44.923899,53.223623,pm2rdm~45.065436,53.183230,pm2rdm~44.989295,53.201512,pm2rdm" width="100%" height="450" frameborder="0"></iframe>
-                </div>
+            </div>
+            <div class="map-wrapper">
+                <iframe src="https://yandex.ru/map-widget/v1/?ll=44.9700%2C53.2000&z=12&pt=44.948235,53.225997,pm2rdm~44.989609,53.157599,pm2rdm~44.955545,53.225349,pm2rdm~44.999412,53.217386,pm2rdm~44.923899,53.223623,pm2rdm~45.065436,53.183230,pm2rdm~44.989295,53.201512,pm2rdm" width="100%" height="500" frameborder="0"></iframe>
             </div>
         </div>
     </section>
