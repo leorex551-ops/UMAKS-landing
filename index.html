@@ -1293,7 +1293,7 @@
                     <input type="hidden" name="_subject" value="Запись на шиномонтаж ЮМАКС">
                     <input type="hidden" name="_template" value="table">
                     <input type="hidden" name="_captcha" value="false">
-                    <input type="hidden" name="_next" value="https://leorex551-ops.github.io/UMAKS-landing/">
+                    <input type="hidden" name="_next" value="https://leorex551-ops.github.io/UMAKS-landing/?success=true">
                     <div class="form-row">
                         <div class="form-group">
                             <label for="name">Ваше имя*</label>
@@ -1618,7 +1618,7 @@
                 <input type="hidden" name="_subject" value="Запись на шиномонтаж ЮМАКС (Модал)">
                 <input type="hidden" name="_template" value="table">
                 <input type="hidden" name="_captcha" value="false">
-                <input type="hidden" name="_next" value="https://leorex551-ops.github.io/UMAKS-landing/">
+                <input type="hidden" name="_next" value="https://leorex551-ops.github.io/UMAKS-landing/?success=true">
                 
                 <div class="form-group" style="margin-bottom: 20px;">
                     <label for="modal_name">Ваше имя*</label>
@@ -1842,6 +1842,50 @@
 
         const counterPlate = document.querySelector('.counter-plate');
         if (counterPlate) counterObserver.observe(counterPlate);
+
+        // Success Form Toast
+        const urlParams = new URLSearchParams(window.location.search);
+        if (urlParams.get('success') === 'true') {
+            const toast = document.createElement('div');
+            toast.innerHTML = '✅ <strong>Ваша заявка успешно отправлена!</strong><br><span style="font-size: 0.9em; font-weight: normal;">Мы перезвоним вам в течение нескольких минут.</span>';
+            Object.assign(toast.style, {
+                position: 'fixed',
+                bottom: '30px',
+                right: '30px',
+                backgroundColor: 'var(--brand-amber)',
+                color: '#1a1a1a',
+                padding: '16px 24px',
+                borderRadius: '8px',
+                boxShadow: '0 8px 24px rgba(239, 172, 33, 0.4)',
+                fontFamily: 'DIN Pro, sans-serif',
+                fontWeight: 'bold',
+                zIndex: '10000',
+                opacity: '0',
+                transition: 'opacity 0.4s ease, transform 0.4s cubic-bezier(0.18, 0.89, 0.32, 1.28)',
+                transform: 'translateY(30px) scale(0.95)'
+            });
+            document.body.appendChild(toast);
+            
+            // Show toast
+            requestAnimationFrame(() => {
+                setTimeout(() => {
+                    toast.style.opacity = '1';
+                    toast.style.transform = 'translateY(0) scale(1)';
+                }, 50);
+            });
+
+            // Hide after 6 seconds
+            setTimeout(() => {
+                toast.style.opacity = '0';
+                toast.style.transform = 'translateY(20px) scale(0.95)';
+                setTimeout(() => toast.remove(), 400);
+            }, 6000);
+
+            // Clean URL
+            const url = new URL(window.location);
+            url.searchParams.delete('success');
+            window.history.replaceState({}, document.title, url);
+        }
     </script>
 </body>
 </html>
