@@ -185,7 +185,7 @@
             display: flex;
             align-items: center;
             min-height: 60vh;
-            background: linear-gradient(to bottom, var(--bg-dark) 0%, var(--bg-dark) calc(100% - 140px), #0F2240 calc(100% - 140px), #0F2240 100%);
+            background: var(--bg-dark);
             border-bottom: none;
         }
 
@@ -282,6 +282,9 @@
             gap: 24px;
             margin-top: 40px;
             width: 100%;
+            transform: translateY(-50px);
+            position: relative;
+            z-index: 10;
         }
 
         .hero-usp-card {
@@ -370,10 +373,11 @@
             .hero-grid { grid-template-columns: 1fr; text-align: center; }
             .hero-content .subtitle { margin: 0 auto 32px; }
             .hero-buttons { justify-content: center; }
-            .hero-usp-row { grid-template-columns: 1fr; }
+            .hero-usp-row { grid-template-columns: 1fr; transform: translateY(-30px); }
             .reviews-grid { grid-template-columns: 1fr; }
             .counter-plate { flex-direction: column; gap: 15px; border-radius: 20px; width: 100%; }
-            .advantages-grid { grid-template-columns: 1fr; }
+            .advantages-grid { grid-template-columns: repeat(2, 1fr); gap: 16px; }
+            .storage-grid { grid-template-columns: 1fr; }
             .pricing-table-wrapper { overflow-x: auto; }
             .footer-cols { grid-template-columns: 1fr; }
         }
@@ -1142,8 +1146,8 @@
                         <a href="https://wa.me/79063956222" target="_blank" title="WhatsApp">
                             <svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L0 24l6.335-1.662c1.72.937 3.659 1.432 5.626 1.432h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>
                         </a>
-                        <a href="https://t.me/79063956222" target="_blank" title="Telegram">
-                            <svg viewBox="0 0 24 24"><path d="M20.665 3.717l-17.73 6.837c-1.21.486-1.203 1.161-.222 1.462l4.552 1.42 10.532-6.645c.498-.303.953-.14.579.192l-8.533 7.701v3.165c.31 0 .447-.142.621-.312l1.488-1.445 3.1 2.292c.57.313.98.152 1.123-.527l2.035-9.6c.207-.83-.314-1.206-.855-.976z"/></svg>
+                        <a href="https://vk.com/umakspnz" target="_blank" title="ВКонтакте">
+                            <svg viewBox="0 0 24 24"><path d="M15.077 2H8.923C3.385 2 2 3.385 2 8.923v6.154C2 20.615 3.385 22 8.923 22h6.154C20.615 22 22 20.615 22 15.077V8.923C22 3.385 20.615 2 15.077 2zm3.308 13.974c.269.269.538.538.538.538.415.415.654.67.654 1.17 0 .5-1.023.5-1.023.5h-1.892c-.523 0-.892-.269-1.285-.73-.554-.646-1.092-1.285-1.63-1.285-.5 0-.83.185-.97.715-.092.362-.115.823-.115 1.115 0 .285-.185.492-.615.492-3.138.008-5.323-1.654-7.23-5.262-1.392-2.615-2.03-5.63-2.015-6.023.015-.362.408-.6.762-.6h1.923c.315 0 .592.146.777.492 1.17 2.23 2.508 4.677 3.323 4.677.308 0 .438-.146.438-.938v-2.73c-.046-.862-.515-1.146-1.123-1.215-.223-.023-.215-.223-.123-.323.223-.23.63-.338 1.162-.338h1.492c.423.023.638.192.738.508v3.477c0 .592.277.7.438.7.538 0 1.63-2.185 2.508-4.43.146-.385.423-.592.762-.592h2.23c.338 0 .485.423.408.846-.223 1.254-2.154 3.738-2.608 4.262-.408.469-.477.585 0 1.054z"/></svg>
                         </a>
                     </div>
                 </div>
@@ -1168,8 +1172,8 @@
             <a href="https://wa.me/79063956222" target="_blank" title="WhatsApp">
                 <svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L0 24l6.335-1.662c1.72.937 3.659 1.432 5.626 1.432h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>
             </a>
-            <a href="https://t.me/79063956222" target="_blank" title="Telegram">
-                <svg viewBox="0 0 24 24"><path d="M20.665 3.717l-17.73 6.837c-1.21.486-1.203 1.161-.222 1.462l4.552 1.42 10.532-6.645c.498-.303.953-.14.579.192l-8.533 7.701v3.165c.31 0 .447-.142.621-.312l1.488-1.445 3.1 2.292c.57.313.98.152 1.123-.527l2.035-9.6c.207-.83-.314-1.206-.855-.976z"/></svg>
+            <a href="https://vk.com/umakspnz" target="_blank" title="ВКонтакте">
+                <svg viewBox="0 0 24 24"><path d="M15.077 2H8.923C3.385 2 2 3.385 2 8.923v6.154C2 20.615 3.385 22 8.923 22h6.154C20.615 22 22 20.615 22 15.077V8.923C22 3.385 20.615 2 15.077 2zm3.308 13.974c.269.269.538.538.538.538.415.415.654.67.654 1.17 0 .5-1.023.5-1.023.5h-1.892c-.523 0-.892-.269-1.285-.73-.554-.646-1.092-1.285-1.63-1.285-.5 0-.83.185-.97.715-.092.362-.115.823-.115 1.115 0 .285-.185.492-.615.492-3.138.008-5.323-1.654-7.23-5.262-1.392-2.615-2.03-5.63-2.015-6.023.015-.362.408-.6.762-.6h1.923c.315 0 .592.146.777.492 1.17 2.23 2.508 4.677 3.323 4.677.308 0 .438-.146.438-.938v-2.73c-.046-.862-.515-1.146-1.123-1.215-.223-.023-.215-.223-.123-.323.223-.23.63-.338 1.162-.338h1.492c.423.023.638.192.738.508v3.477c0 .592.277.7.438.7.538 0 1.63-2.185 2.508-4.43.146-.385.423-.592.762-.592h2.23c.338 0 .485.423.408.846-.223 1.254-2.154 3.738-2.608 4.262-.408.469-.477.585 0 1.054z"/></svg>
             </a>
         </div>
         <button class="btn btn-primary" onclick="toggleMenu(); openBookingModal();">Записаться онлайн</button>
@@ -1253,26 +1257,26 @@
                     <thead>
                         <tr>
                             <th>Размер</th>
-                            <th>Снять/надеть (4 кол.)</th>
-                            <th>Балансировка (4 кол.)</th>
+                            <th>Снять/надеть (1 кол.)</th>
+                            <th>Балансировка (1 кол.)</th>
                             <th>Итого</th>
                         </tr>
                     </thead>
                     <tbody>
-                        <tr><td>R13</td><td>560 ₽</td><td>320 ₽</td><td class="price">880 ₽</td></tr>
-                        <tr><td>R14</td><td>600 ₽</td><td>360 ₽</td><td class="price">960 ₽</td></tr>
-                        <tr><td>R15</td><td>640 ₽</td><td>400 ₽</td><td class="price">1040 ₽</td></tr>
-                        <tr><td>R16</td><td>720 ₽</td><td>440 ₽</td><td class="price">1160 ₽</td></tr>
-                        <tr><td>R17</td><td>840 ₽</td><td>480 ₽</td><td class="price">1320 ₽</td></tr>
-                        <tr><td>R18</td><td>960 ₽</td><td>520 ₽</td><td class="price">1480 ₽</td></tr>
-                        <tr><td>R19</td><td>1080 ₽</td><td>560 ₽</td><td class="price">1640 ₽</td></tr>
-                        <tr><td>R20</td><td>1200 ₽</td><td>600 ₽</td><td class="price">1800 ₽</td></tr>
+                        <tr><td>R13</td><td>180 ₽</td><td>230 ₽</td><td class="price">410 ₽</td></tr>
+                        <tr><td>R14</td><td>220 ₽</td><td>260 ₽</td><td class="price">480 ₽</td></tr>
+                        <tr><td>R15</td><td>240 ₽</td><td>280 ₽</td><td class="price">520 ₽</td></tr>
+                        <tr><td>R16</td><td>250 ₽</td><td>360 ₽</td><td class="price">610 ₽</td></tr>
+                        <tr><td>R17</td><td>260 ₽</td><td>370 ₽</td><td class="price">630 ₽</td></tr>
+                        <tr><td>R18</td><td>290 ₽</td><td>390 ₽</td><td class="price">680 ₽</td></tr>
+                        <tr><td>R19</td><td>310 ₽</td><td>450 ₽</td><td class="price">760 ₽</td></tr>
+                        <tr><td>R20</td><td>330 ₽</td><td>485 ₽</td><td class="price">815 ₽</td></tr>
                     </tbody>
                 </table>
             </div>
-            <p class="pricing-note">Цена за комплект из 4 колёс. R21+ и нестандартные размеры — по кнопке ниже.</p>
+            <p class="pricing-note">Цена указана за комплексный шиномонтаж: Снятие, Установка, Балансировка комплекта из 4 колёс.</p>
             <div style="text-align: center;">
-                <button class="btn btn-secondary" onclick="openFullPriceModal()">Полный прайс (R21+, run-flat, грузовые)</button>
+                <button class="btn btn-secondary" onclick="openFullPriceModal()">Полный прайс</button>
             </div>
             <div style="text-align: center; margin-top: 40px;">
                 <button class="btn btn-primary" onclick="openBookingModal()">Записаться на шиномонтаж</button>
@@ -1505,8 +1509,8 @@
                         <a href="https://wa.me/79063956222" target="_blank" title="WhatsApp">
                             <svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L0 24l6.335-1.662c1.72.937 3.659 1.432 5.626 1.432h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/></svg>
                         </a>
-                        <a href="https://t.me/79063956222" target="_blank" title="Telegram">
-                            <svg viewBox="0 0 24 24"><path d="M20.665 3.717l-17.73 6.837c-1.21.486-1.203 1.161-.222 1.462l4.552 1.42 10.532-6.645c.498-.303.953-.14.579.192l-8.533 7.701v3.165c.31 0 .447-.142.621-.312l1.488-1.445 3.1 2.292c.57.313.98.152 1.123-.527l2.035-9.6c.207-.83-.314-1.206-.855-.976z"/></svg>
+                        <a href="https://vk.com/umakspnz" target="_blank" title="ВКонтакте">
+                            <svg viewBox="0 0 24 24"><path d="M15.077 2H8.923C3.385 2 2 3.385 2 8.923v6.154C2 20.615 3.385 22 8.923 22h6.154C20.615 22 22 20.615 22 15.077V8.923C22 3.385 20.615 2 15.077 2zm3.308 13.974c.269.269.538.538.538.538.415.415.654.67.654 1.17 0 .5-1.023.5-1.023.5h-1.892c-.523 0-.892-.269-1.285-.73-.554-.646-1.092-1.285-1.63-1.285-.5 0-.83.185-.97.715-.092.362-.115.823-.115 1.115 0 .285-.185.492-.615.492-3.138.008-5.323-1.654-7.23-5.262-1.392-2.615-2.03-5.63-2.015-6.023.015-.362.408-.6.762-.6h1.923c.315 0 .592.146.777.492 1.17 2.23 2.508 4.677 3.323 4.677.308 0 .438-.146.438-.938v-2.73c-.046-.862-.515-1.146-1.123-1.215-.223-.023-.215-.223-.123-.323.223-.23.63-.338 1.162-.338h1.492c.423.023.638.192.738.508v3.477c0 .592.277.7.438.7.538 0 1.63-2.185 2.508-4.43.146-.385.423-.592.762-.592h2.23c.338 0 .485.423.408.846-.223 1.254-2.154 3.738-2.608 4.262-.408.469-.477.585 0 1.054z"/></svg>
                         </a>
                     </div>
                 </div>
@@ -1534,72 +1538,70 @@
     </footer>
 
     <div id="fullPriceModal" class="modal">
-        <div class="modal-content" style="max-width: 900px; padding-top: 60px;">
+        <div class="modal-content" style="max-width: 1000px; padding-top: 60px; position: relative;">
             <button class="btn-close-modal" onclick="closeModal('fullPriceModal')">&times;</button>
-            <h3 style="text-align: center;">Полный прайс-лист на услуги шиномонтажа</h3>
+            <div style="display: flex; align-items: center; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid var(--glass-border);">
+                <img src="logo.png" alt="ЮМАКС" style="height: 60px; margin-right: 24px;">
+                <h3 style="margin: 0; font-size: 1.8rem;">Полный прайс-лист</h3>
+            </div>
             
-            <div style="overflow-x: auto;">
-                <table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
-                    <tr style="background: var(--bg-dark);">
-                        <th style="padding: 12px; text-align: left; border: 1px solid var(--glass-border);">Услуга / Размер</th>
-                        <th style="padding: 12px; text-align: center; border: 1px solid var(--glass-border);">R13-14</th>
-                        <th style="padding: 12px; text-align: center; border: 1px solid var(--glass-border);">R15-16</th>
-                        <th style="padding: 12px; text-align: center; border: 1px solid var(--glass-border);">R17-18</th>
-                        <th style="padding: 12px; text-align: center; border: 1px solid var(--glass-border);">R19-20</th>
-                        <th style="padding: 12px; text-align: center; border: 1px solid var(--glass-border);">R21-22</th>
+            <h4 style="color: var(--brand-amber); margin-bottom: 16px; font-size: 1.2rem;">Комплексный шиномонтаж (Снятие, Установка, Балансировка 4 шт.)</h4>
+            <div style="overflow-x: auto; margin-bottom: 30px;">
+                <table style="width: 100%; border-collapse: collapse; background: var(--bg-dark);">
+                    <tr style="background: rgba(255,255,255,0.05);">
+                        <th style="padding: 12px; border: 1px solid var(--glass-border);">Размер</th>
+                        <th style="padding: 12px; border: 1px solid var(--glass-border);">Цена</th>
                     </tr>
-                    <tr>
-                        <td style="padding: 12px; border: 1px solid var(--glass-border);">Монтаж/Демонтаж (за 1 шт)</td>
-                        <td style="padding: 12px; text-align: center; border: 1px solid var(--glass-border);">190 - 220 ₽</td>
-                        <td style="padding: 12px; text-align: center; border: 1px solid var(--glass-border);">230 - 255 ₽</td>
-                        <td style="padding: 12px; text-align: center; border: 1px solid var(--glass-border);">300 - 315 ₽</td>
-                        <td style="padding: 12px; text-align: center; border: 1px solid var(--glass-border);">330 - 350 ₽</td>
-                        <td style="padding: 12px; text-align: center; border: 1px solid var(--glass-border);">460 - 520 ₽</td>
-                    </tr>
-                    <tr>
-                        <td style="padding: 12px; border: 1px solid var(--glass-border);">Балансировка (за 1 шт)</td>
-                        <td style="padding: 12px; text-align: center; border: 1px solid var(--glass-border);">230 - 260 ₽</td>
-                        <td style="padding: 12px; text-align: center; border: 1px solid var(--glass-border);">280 - 360 ₽</td>
-                        <td style="padding: 12px; text-align: center; border: 1px solid var(--glass-border);">370 - 390 ₽</td>
-                        <td style="padding: 12px; text-align: center; border: 1px solid var(--glass-border);">450 - 485 ₽</td>
-                        <td style="padding: 12px; text-align: center; border: 1px solid var(--glass-border);">540 - 640 ₽</td>
-                    </tr>
-                    <tr>
-                        <td style="padding: 12px; border: 1px solid var(--glass-border);">Снятие/Установка (за 1 шт)</td>
-                        <td style="padding: 12px; text-align: center; border: 1px solid var(--glass-border);">180 - 220 ₽</td>
-                        <td style="padding: 12px; text-align: center; border: 1px solid var(--glass-border);">240 - 250 ₽</td>
-                        <td style="padding: 12px; text-align: center; border: 1px solid var(--glass-border);">260 - 290 ₽</td>
-                        <td style="padding: 12px; text-align: center; border: 1px solid var(--glass-border);">310 - 330 ₽</td>
-                        <td style="padding: 12px; text-align: center; border: 1px solid var(--glass-border);">400 - 490 ₽</td>
-                    </tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">R13</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center; color: var(--brand-amber); font-weight: 700;">2100 руб.</td></tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">R14</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center; color: var(--brand-amber); font-weight: 700;">2100 руб.</td></tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">R15</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center; color: var(--brand-amber); font-weight: 700;">2200 руб.</td></tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">R16</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center; color: var(--brand-amber); font-weight: 700;">2300 руб.</td></tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">R17</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center; color: var(--brand-amber); font-weight: 700;">2500 руб.</td></tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">R18</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center; color: var(--brand-amber); font-weight: 700;">3100 руб.</td></tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">R19</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center; color: var(--brand-amber); font-weight: 700;">3900 руб.</td></tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">R20</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center; color: var(--brand-amber); font-weight: 700;">4900 руб.</td></tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">R21</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center; color: var(--brand-amber); font-weight: 700;">5500 руб.</td></tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">R22</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center; color: var(--brand-amber); font-weight: 700;">6500 руб.</td></tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">R23</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center; color: var(--brand-amber); font-weight: 700;">7500 руб.</td></tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">R24</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center; color: var(--brand-amber); font-weight: 700;">10000 руб.</td></tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">Газель (6 колёс)</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center; color: var(--brand-amber); font-weight: 700;">6500 руб.</td></tr>
                 </table>
             </div>
 
-            <div style="margin-top: 30px; display: flex; flex-direction: column; gap: 30px;">
-                <div>
-                    <h4 style="margin-bottom: 12px; color: var(--brand-amber);">Дополнительные услуги:</h4>
-                    <ul style="list-style: none; font-size: 0.9rem;">
-                        <li style="margin-bottom: 8px;">• Вентиль с установкой — 90 ₽</li>
-                        <li style="margin-bottom: 8px;">• Промазка диска герметиком — 200 ₽</li>
-                        <li style="margin-bottom: 8px;">• Упаковка в пакеты — 65 ₽</li>
-                        <li style="margin-bottom: 8px;">• RUN FLAT — +150-200 ₽/шт</li>
-                        <li style="margin-bottom: 8px;">• Чистка диска от битума — от 300 ₽</li>
-                    </ul>
-                </div>
-                <div>
-                    <h4 style="margin-bottom: 12px; color: var(--brand-amber);">Ремонт и спец. работы:</h4>
-                    <ul style="list-style: none; font-size: 0.9rem;">
-                        <li style="margin-bottom: 8px;">• Ремонт пореза (заплатка) — от 500 ₽</li>
-                        <li style="margin-bottom: 8px;">• Прокатка диска — от 1000 ₽</li>
-                        <li style="margin-bottom: 8px;">• Переходник HAWEK — 100-200 ₽</li>
-                        <li style="margin-bottom: 8px;">• Сварка аргоном — от 2000 ₽</li>
-                    </ul>
-                </div>
+            <h4 style="color: var(--brand-amber); margin-bottom: 16px; font-size: 1.2rem;">Ремонт шин</h4>
+            <div style="overflow-x: auto; margin-bottom: 30px;">
+                <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem; background: var(--bg-dark);">
+                    <tr style="background: rgba(255,255,255,0.05);">
+                        <th style="padding: 10px; border: 1px solid var(--glass-border);">Размер</th>
+                        <th style="padding: 10px; border: 1px solid var(--glass-border);">Ремонт кордовым пластырем</th>
+                        <th style="padding: 10px; border: 1px solid var(--glass-border);">С вулканизацией (без пластыря)</th>
+                    </tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">R12-R14</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">800 руб.</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">800 руб.</td></tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">R15</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">1000 руб.</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">1000 руб.</td></tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">R16</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">1200 руб.</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">1300 руб.</td></tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">R17</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">1500 руб.</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">1400 руб.</td></tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">R18</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">1600 руб.</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">1400 руб.</td></tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">R19</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">1700 руб.</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">1900 руб.</td></tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">R20-R24</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">от 1900 руб.</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: center;">от 2500 руб.</td></tr>
+                </table>
+            </div>
+
+            <h4 style="color: var(--brand-amber); margin-bottom: 16px; font-size: 1.2rem;">Дополнительные услуги</h4>
+            <div style="overflow-x: auto; margin-bottom: 30px;">
+                <table style="width: 100%; border-collapse: collapse; font-size: 0.95rem; background: var(--bg-dark);">
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border);">Сварка аргоном (1 см)</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: right; color: var(--brand-amber);">от 600 руб.</td></tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border);">Доплата за шиномонтаж усиленного корда / RunFlat</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: right; color: var(--brand-amber);">200 руб.</td></tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border);">Подкачка колёс (1 колесо)</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: right; color: var(--brand-amber);">25 руб.</td></tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border);">Вентиль с установкой</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: right; color: var(--brand-amber);">90 руб.</td></tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border);">Нанесение герметика на обод (1 шт)</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: right; color: var(--brand-amber);">200 руб.</td></tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border);">Чистка диска от битума</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: right; color: var(--brand-amber);">от 300 руб.</td></tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border);">Ремонт бескамерной шины (заплатка)</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: right; color: var(--brand-amber);">500 руб.</td></tr>
+                    <tr><td style="padding: 10px; border: 1px solid var(--glass-border);">Ремонт бескамерной шины (грибок)</td><td style="padding: 10px; border: 1px solid var(--glass-border); text-align: right; color: var(--brand-amber);">750 руб.</td></tr>
+                </table>
             </div>
 
             <div class="modal-footer" style="flex-wrap: wrap; flex-direction: column;">
-                <button class="btn btn-primary" style="width: 100%; margin-bottom: 8px;" onclick="closeModal('fullPriceModal'); openBookingModal();">Записаться</button>
-                <button class="btn btn-secondary" style="width: 100%; border: none;" onclick="closeModal('fullPriceModal')">Назад на главную</button>
+                <button class="btn btn-primary" style="width: 100%; margin-bottom: 8px;" onclick="closeModal('fullPriceModal'); openBookingModal();">Записаться на шиномонтаж</button>
             </div>
         </div>
     </div>
@@ -1839,8 +1841,27 @@
         const counterPlate = document.querySelector('.counter-plate');
         if (counterPlate) counterObserver.observe(counterPlate);
 
-        document.getElementById('bookingForm').addEventListener('submit', function(e) { e.preventDefault(); alert('Принято! Мы перезвоним в течение 15 минут.'); });
-        document.getElementById('bookingFormModal').addEventListener('submit', function(e) { e.preventDefault(); alert('Принято! Мы перезвоним в течение 15 минут.'); closeModal('bookingModal'); });
+        function handleFormSubmit(e, modalId) {
+            e.preventDefault();
+            const form = e.target;
+            fetch(form.action, {
+                method: "POST",
+                body: new FormData(form),
+                headers: { 'Accept': 'application/json' }
+            }).then(response => {
+                if (response.ok) {
+                    alert('Принято! Мы перезвоним в течение 15 минут.');
+                    form.reset();
+                    if (modalId) closeModal(modalId);
+                } else {
+                    alert('Ошибка отправки. Пожалуйста, попробуйте позже.');
+                }
+            }).catch(error => {
+                alert('Ошибка отправки. Пожалуйста, проверьте подключение и попробуйте позже.');
+            });
+        }
+        document.getElementById('bookingForm').addEventListener('submit', function(e) { handleFormSubmit(e); });
+        document.getElementById('bookingFormModal').addEventListener('submit', function(e) { handleFormSubmit(e, 'bookingModal'); });
     </script>
 </body>
 </html>
