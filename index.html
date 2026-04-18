@@ -1293,6 +1293,7 @@
                     <input type="hidden" name="_subject" value="Запись на шиномонтаж ЮМАКС">
                     <input type="hidden" name="_template" value="table">
                     <input type="hidden" name="_captcha" value="false">
+                    <input type="hidden" name="_next" value="https://leorex551-ops.github.io/UMAKS-landing/">
                     <div class="form-row">
                         <div class="form-group">
                             <label for="name">Ваше имя*</label>
@@ -1617,6 +1618,7 @@
                 <input type="hidden" name="_subject" value="Запись на шиномонтаж ЮМАКС (Модал)">
                 <input type="hidden" name="_template" value="table">
                 <input type="hidden" name="_captcha" value="false">
+                <input type="hidden" name="_next" value="https://leorex551-ops.github.io/UMAKS-landing/">
                 
                 <div class="form-group" style="margin-bottom: 20px;">
                     <label for="modal_name">Ваше имя*</label>
@@ -1840,28 +1842,6 @@
 
         const counterPlate = document.querySelector('.counter-plate');
         if (counterPlate) counterObserver.observe(counterPlate);
-
-        function handleFormSubmit(e, modalId) {
-            e.preventDefault();
-            const form = e.target;
-            fetch(form.action, {
-                method: "POST",
-                body: new FormData(form),
-                headers: { 'Accept': 'application/json' }
-            }).then(response => {
-                if (response.ok) {
-                    alert('Принято! Мы перезвоним в течение 15 минут.');
-                    form.reset();
-                    if (modalId) closeModal(modalId);
-                } else {
-                    alert('Ошибка отправки. Пожалуйста, попробуйте позже.');
-                }
-            }).catch(error => {
-                alert('Ошибка отправки. Пожалуйста, проверьте подключение и попробуйте позже.');
-            });
-        }
-        document.getElementById('bookingForm').addEventListener('submit', function(e) { handleFormSubmit(e); });
-        document.getElementById('bookingFormModal').addEventListener('submit', function(e) { handleFormSubmit(e, 'bookingModal'); });
     </script>
 </body>
 </html>
