@@ -1,0 +1,2845 @@
+
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link rel="shortcut icon" href="/favicon.png" type="image/png" sizes="any">
+<!--
+    <link rel="shortcut icon" href="/favicon.svg" type="image/svg+xml" sizes="any">
+    <link rel="apple-touch-icon" href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/files/imgs/apple-icon.png">
+    <link rel="android-touch-icon" href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/files/imgs/android-icon.png">
+-->
+    <meta name="google-site-verification" content="KLIjqY9OBHIEpAZAvjXPeD7WibI6em945j0_AvWElxg" />
+    <meta name="yandex-verification" content="7db6f34059d1a813" />
+
+<!--  <script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU&amp;apikey=34bec777-305c-4103-99ff-82bd7b6d0c87" type="text/javascript"></script>-->
+
+<!--  <script src="https://api-maps.yandex.ru/2.1/?apikey=34bec777-305c-4103-99ff-82bd7b6d0c87&lang=ru_RU"-->
+<!--          type="text/javascript">-->
+<!--  </script>-->
+
+
+  <link rel="stylesheet" href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/files/libs/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/ceny.css">
+  <link rel="stylesheet" href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/ceny-btn.css">
+
+		<title>Цены &#x2d; Шиномонтаж</title>
+	<!-- PopupPress Plugin v.2.5.6 - 5.9.13 -->
+<meta name='robots' content='max-image-preview:large' />
+
+<!-- The SEO Framework Создано Сибрэ Вайэр -->
+<meta name="robots" content="max-snippet:-1,max-image-preview:standard,max-video-preview:-1" />
+<meta name="description" content="Для легковых автомобилей Для минивенов и паркетников Для внедорожников Для прочих автосредств Ремонтные шиномонтажные работы Съём и установка + подкачка колеса&#8230;" />
+<meta property="og:image" content="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/uploads/2020/10/favicon.png" />
+<meta property="og:image:width" content="512" />
+<meta property="og:image:height" content="512" />
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Цены" />
+<meta property="og:description" content="Для легковых автомобилей Для минивенов и паркетников Для внедорожников Для прочих автосредств Ремонтные шиномонтажные работы Съём и установка + подкачка колеса Мойка колёс Прокатка дисков&#8230;" />
+<meta property="og:url" content="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/%d1%86%d0%b5%d0%bd%d1%8b-%d1%82%d0%b5%d1%81%d1%82-2/" />
+<meta property="og:site_name" content="Шиномонтаж" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Цены" />
+<meta name="twitter:description" content="Для легковых автомобилей Для минивенов и паркетников Для внедорожников Для прочих автосредств Ремонтные шиномонтажные работы Съём и установка + подкачка колеса Мойка колёс Прокатка дисков&#8230;" />
+<meta name="twitter:image" content="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/uploads/2020/10/favicon.png" />
+<meta name="twitter:image:width" content="512" />
+<meta name="twitter:image:height" content="512" />
+<link rel="canonical" href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/%d1%86%d0%b5%d0%bd%d1%8b-%d1%82%d0%b5%d1%81%d1%82-2/" />
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/","name":"\u0428\u0438\u043d\u043e\u043c\u043e\u043d\u0442\u0430\u0436"}},{"@type":"ListItem","position":2,"item":{"@id":"https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/%d1%86%d0%b5%d0%bd%d1%8b-%d1%82%d0%b5%d1%81%d1%82-2/","name":"\u0426\u0435\u043d\u044b"}}]}</script>
+<!-- / The SEO Framework Создано Сибрэ Вайэр | 101.16ms meta | 23.80ms boot -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Шиномонтаж &raquo; Лента" href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Шиномонтаж &raquo; Лента комментариев" href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/xn----7sbbyikmeibjb7av7f7d.xn--p1ai\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.13"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='font-awesome-css'  href='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/menu-icons/vendor/codeinwp/icon-picker/css/types/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='menu-icons-extra-css'  href='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/menu-icons/css/extra.min.css?ver=0.12.10' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-includes/css/dist/block-library/style.min.css?ver=5.9.13' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-free-css'  href='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/getwid/vendors/fontawesome-free/css/all.min.css?ver=5.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/getwid/vendors/slick/slick/slick.min.css?ver=1.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/getwid/vendors/slick/slick/slick-theme.min.css?ver=1.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/getwid/vendors/fancybox/jquery.fancybox.min.css?ver=3.5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='getwid-blocks-css'  href='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/getwid/assets/css/blocks.style.css?ver=1.8.2' type='text/css' media='all' />
+<style id='getwid-blocks-inline-css' type='text/css'>
+.wp-block-getwid-section .wp-block-getwid-section__wrapper .wp-block-getwid-section__inner-wrapper{max-width: 730px;}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-includes/css/dashicons.min.css?ver=5.9.13' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='pps_style-css'  href='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/popup-press/css/pps_style.css?ver=2.5.6' type='text/css' media='screen' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.1.5' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='math-captcha-frontend-css'  href='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/wp-math-captcha/css/frontend.css?ver=5.9.13' type='text/css' media='all' />
+<link rel='stylesheet' id='own-style-css'  href='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/files/libs/OwlCarousel/assets/owl.carousel.min.css?ver=5.9.13' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/css/bootstrap.css?ver=3.3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='main-style-css'  href='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/styles.css?ver=5.9.13' type='text/css' media='all' />
+<link rel='stylesheet' id='business-press-style-default-css'  href='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/style.css?ver=1.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='business-press-style-core-css'  href='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/css/style.css?ver=1.1.1' type='text/css' media='all' />
+<style id='business-press-style-core-inline-css' type='text/css'>
+
+				.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+					width: 22%;
+					}
+					
+</style>
+<link rel='stylesheet' id='business-press-style-woo-css'  href='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/css/woo-css.css?ver=1.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='kadence-blocks-tabs-css'  href='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/kadence-blocks/dist/blocks/tabs.style.build.css?ver=2.4.21' type='text/css' media='all' />
+<style id='kb-tabs_f3d755-ee-inline-css' type='text/css'>
+.kt-tabs-id_f3d755-ee > .kt-tabs-content-wrap > .wp-block-kadence-tab {border-width:0px 0px 0px 4px;min-height:888px;border-color:#0064a8;background:#ffffff;}.wp-block-kadence-tabs .kt-tabs-id_f3d755-ee > .kt-tabs-title-list li {margin:0px 0px 10px 0px;}.wp-block-kadence-tabs .kt-tabs-id_f3d755-ee > .kt-tabs-title-list li .kt-tab-title, .wp-block-kadence-tabs .kt-tabs-id_f3d755-ee > .kt-tabs-content-wrap > .kt-tabs-accordion-title .kt-tab-title {font-size:1.1em;line-height:1.4em;border-width:4px 0px 4px 4px ;border-radius:10px 0px 0px 10px ;padding:12px 8px 12px 16px ;border-color:#eeeeee;color:#444444;background:#eeeeee;}.wp-block-kadence-tabs .kt-tabs-id_f3d755-ee > .kt-tabs-title-list li .kt-tab-title:hover, .wp-block-kadence-tabs .kt-tabs-id_f3d755-ee > .kt-tabs-content-wrap > .kt-tabs-accordion-title .kt-tab-title:hover {border-color:#e9e9e9;color:#444444;background:#e9e9e9;}.wp-block-kadence-tabs .kt-tabs-id_f3d755-ee > .kt-tabs-title-list li.kt-tab-title-active .kt-tab-title, .wp-block-kadence-tabs .kt-tabs-id_f3d755-ee > .kt-tabs-content-wrap > .kt-tabs-accordion-title.kt-tab-title-active .kt-tab-title  {border-color:#0064a8;color:#ffffff;background:#0064a8;}
+</style>
+<link rel='stylesheet' id='kadence-blocks-rowlayout-css'  href='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/kadence-blocks/dist/blocks/row.style.build.css?ver=2.4.21' type='text/css' media='all' />
+<link rel='stylesheet' id='kadence-blocks-column-css'  href='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/kadence-blocks/dist/blocks/column.style.build.css?ver=2.4.21' type='text/css' media='all' />
+<style id='kb-tabs_4a9e1c-91-inline-css' type='text/css'>
+.kt-tabs-id_4a9e1c-91 > .kt-tabs-content-wrap > .wp-block-kadence-tab {border-width:4px 0px 0px 0px;border-color:#0a6689;background:#ffffff;}.wp-block-kadence-tabs .kt-tabs-id_4a9e1c-91 > .kt-tabs-title-list li {margin:0px 4px 0px 0px;}.wp-block-kadence-tabs .kt-tabs-id_4a9e1c-91 > .kt-tabs-title-list li .kt-tab-title, .wp-block-kadence-tabs .kt-tabs-id_4a9e1c-91 > .kt-tabs-content-wrap > .kt-tabs-accordion-title .kt-tab-title {font-size:1.1em;line-height:1.4em;border-width:0px 0px 0px 0px ;border-radius:4px 4px 0px 0px ;padding:8px 20px 8px 20px ;border-color:#eeeeee;color:#222222;background:#eeeeee;}.wp-block-kadence-tabs .kt-tabs-id_4a9e1c-91 > .kt-tabs-title-list li .kt-tab-title:hover, .wp-block-kadence-tabs .kt-tabs-id_4a9e1c-91 > .kt-tabs-content-wrap > .kt-tabs-accordion-title .kt-tab-title:hover {border-color:#eeeeee;color:#222222;background:#e2e2e2;}.wp-block-kadence-tabs .kt-tabs-id_4a9e1c-91 > .kt-tabs-title-list li.kt-tab-title-active .kt-tab-title, .wp-block-kadence-tabs .kt-tabs-id_4a9e1c-91 > .kt-tabs-content-wrap > .kt-tabs-accordion-title.kt-tab-title-active .kt-tab-title  {border-color:#eeeeee;color:#ffffff;background:#0064a8;}
+</style>
+<style id='kb-tabs_3f7d67-63-inline-css' type='text/css'>
+.kt-tabs-id_3f7d67-63 > .kt-tabs-content-wrap > .wp-block-kadence-tab {border-width:0px 0px 0px 4px;min-height:445px;border-color:#0a6689;background:#ffffff;}.wp-block-kadence-tabs .kt-tabs-id_3f7d67-63 > .kt-tabs-title-list li {margin:0px 0px 0px 0px;}.wp-block-kadence-tabs .kt-tabs-id_3f7d67-63 > .kt-tabs-title-list li .kt-tab-title, .wp-block-kadence-tabs .kt-tabs-id_3f7d67-63 > .kt-tabs-content-wrap > .kt-tabs-accordion-title .kt-tab-title {font-size:1.1em;line-height:1.4em;border-width:0px 0px 0px 0px ;border-radius:4px 0px 0px 4px ;padding:8px 20px 8px 20px ;border-color:#eeeeee;color:#222222;background:#eeeeee;}.wp-block-kadence-tabs .kt-tabs-id_3f7d67-63 > .kt-tabs-title-list li .kt-tab-title:hover, .wp-block-kadence-tabs .kt-tabs-id_3f7d67-63 > .kt-tabs-content-wrap > .kt-tabs-accordion-title .kt-tab-title:hover {border-color:#eeeeee;color:#222222;background:#e2e2e2;}.wp-block-kadence-tabs .kt-tabs-id_3f7d67-63 > .kt-tabs-title-list li.kt-tab-title-active .kt-tab-title, .wp-block-kadence-tabs .kt-tabs-id_3f7d67-63 > .kt-tabs-content-wrap > .kt-tabs-accordion-title.kt-tab-title-active .kt-tab-title  {border-color:#eeeeee;color:#ffffff;background:#0064a8;}
+</style>
+<link rel='stylesheet' id='ari-fancybox-css'  href='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/ari-fancy-lightbox/assets/fancybox/jquery.fancybox.min.css?ver=1.3.9' type='text/css' media='all' />
+<script type='text/javascript' src='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/jquery-updater/js/jquery-3.6.1.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/jquery-updater/js/jquery-migrate-3.4.0.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.1.5' id='tp-tools-js'></script>
+<script type='text/javascript' src='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.1.5' id='revmin-js'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/js/html5shiv.js?ver=3.7.3' id='html5shiv-js'></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/js/respond.js?ver=1.1.1' id='respond-js'></script>
+<![endif]-->
+<script type='text/javascript' src='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/files/libs/OwlCarousel/owl.carousel.min.js?ver=5.9.13' id='owljs-js'></script>
+<script type='text/javascript' src='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/files/libs/bootstrap/js/bootstrap.min.js?ver=5.9.13' id='bootsjs-js'></script>
+<script type='text/javascript' src='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/popup-press/js/libs/bpopup.js?ver=0.10' id='pps_bPopup-js'></script>
+<script type='text/javascript' src='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/popup-press/js/libs/jquery.popupslider.js?ver=2.5.0' id='pps_popupslider-js'></script>
+<script type='text/javascript' src='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/popup-press/js/libs/jquery.cookie.js?ver=1.4.1' id='pps_jCookie-js'></script>
+<script type='text/javascript' src='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/popup-press/js/libs/jquery.easing.1.3.js?ver=1.3' id='pps_easing-js'></script>
+<script type='text/javascript' id='pps_js_script-js-extra'>
+/* <![CDATA[ */
+var PPS = {"ajaxurlPps":"https:\/\/xn----7sbbyikmeibjb7av7f7d.xn--p1ai\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/popup-press/js/pps_script.js?ver=2.5.6' id='pps_js_script-js'></script>
+<script type='text/javascript' id='ari-fancybox-js-extra'>
+/* <![CDATA[ */
+var ARI_FANCYBOX = {"lightbox":{"backFocus":false,"trapFocus":false,"thumbs":{"hideOnClose":false},"touch":{"vertical":true,"momentum":true},"buttons":["slideShow","fullScreen","thumbs","close"],"lang":"custom","i18n":{"custom":{"PREV":"\u041d\u0430\u0437\u0430\u0434","NEXT":"\u0414\u0430\u043b\u0435\u0435","PLAY_START":"\u041d\u0430\u0447\u0430\u0442\u044c \u0441\u043b\u0430\u0439\u0434-\u0448\u043e\u0443 (P)","PLAY_STOP":"\u041e\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0441\u043b\u0430\u0439\u0434-\u0448\u043e\u0443 (P)","FULL_SCREEN":"\u041f\u043e\u043b\u043d\u043e\u044d\u043a\u0440\u0430\u043d\u043d\u044b\u0439 \u0440\u0435\u0436\u0438\u043c (F)","THUMBS":"\u041c\u0438\u043d\u0438\u0430\u0442\u044e\u0440\u044b (G)","CLOSE":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c (Esc)","ERROR":"\u041d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0437\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044c \u0437\u0430\u043f\u0440\u043e\u0448\u0435\u043d\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435. <br\/> \u041f\u043e\u0432\u0442\u043e\u0440\u0438\u0442\u0435 \u043f\u043e\u043f\u044b\u0442\u043a\u0443 \u043f\u043e\u0437\u0436\u0435."}}},"convert":{"images":{"convert":true,"post_grouping":true,"filenameToTitle":true,"convertNameSmart":true}},"viewers":{"pdfjs":{"url":"https:\/\/xn----7sbbyikmeibjb7av7f7d.xn--p1ai\/wp-content\/plugins\/ari-fancy-lightbox\/assets\/pdfjs\/web\/viewer.html"}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/ari-fancy-lightbox/assets/fancybox/jquery.fancybox.min.js?ver=1.3.9' id='ari-fancybox-js'></script>
+<link rel="https://api.w.org/" href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-json/" /><link rel="alternate" type="application/json" href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-json/wp/v2/pages/2266" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-includes/wlwmanifest.xml" /> 
+<link rel="alternate" type="application/json+oembed" href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fxn----7sbbyikmeibjb7av7f7d.xn--p1ai%2F%25d1%2586%25d0%25b5%25d0%25bd%25d1%258b-%25d1%2582%25d0%25b5%25d1%2581%25d1%2582-2%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fxn----7sbbyikmeibjb7av7f7d.xn--p1ai%2F%25d1%2586%25d0%25b5%25d0%25bd%25d1%258b-%25d1%2582%25d0%25b5%25d1%2581%25d1%2582-2%2F&#038;format=xml" />
+
+<style></style>
+    
+    <style type="text/css">BODY .fancybox-container{z-index:200000}BODY .fancybox-is-open .fancybox-bg{opacity:0.87}BODY .fancybox-bg {background-color:#0f0f11}BODY .fancybox-thumbs {background-color:#ffffff}</style><script type="text/javascript">window.wp_data = {"ajax_url":"https:\/\/xn----7sbbyikmeibjb7av7f7d.xn--p1ai\/wp-admin\/admin-ajax.php","is_mobile":false};</script><meta name="generator" content="Powered by Slider Revolution 5.1.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<style id="uagb-style-conditional-extension">@media (min-width: 1025px){body .uag-hide-desktop.uagb-google-map__wrap,body .uag-hide-desktop{display:none}}@media (min-width: 768px) and (max-width: 1024px){body .uag-hide-tab.uagb-google-map__wrap,body .uag-hide-tab{display:none}}@media (max-width: 767px){body .uag-hide-mob.uagb-google-map__wrap,body .uag-hide-mob{display:none}}</style><style id="kirki-inline-styles">body{font-family:inherit;}body h1, .h1{font-family:inherit;font-size:22px;letter-spacing:0px;line-height:1.1;text-transform:uppercase;}body h2, .h2{font-family:inherit;font-size:22px;letter-spacing:0px;line-height:1.1;text-transform:uppercase;}body h3, .h3{font-family:inherit;font-size:22px;letter-spacing:0px;line-height:1.1;text-transform:uppercase;}body h4, .h4{font-family:inherit;font-size:20px;letter-spacing:0px;line-height:1.1;text-transform:inherit;}body h5, .h5{font-family:inherit;font-size:20px;letter-spacing:0px;line-height:1.1;text-transform:inherit;}body h6, .h6{font-family:inherit;font-size:20px;letter-spacing:0px;line-height:1.1;text-transform:inherit;}#maincontainer p{font-family:inherit;font-size:16px;letter-spacing:0px;line-height:1.7;text-transform:inherit;}#topbar{font-family:Roboto;font-size:15px;font-weight:400;letter-spacing:0px;line-height:22px;text-transform:inherit;}#navbar ul.navbar-nav li a{font-family:inherit;font-size:17px;text-transform:uppercase;}.widget_sidebar_main ul li, .widget_sidebar_main ol li, .widgets_footer ul li, .widgets_footer ol li{font-family:inherit;font-size:15px;letter-spacing:0.1px;line-height:1.5;text-transform:inherit;}#footer{font-family:inherit;font-size:15px;letter-spacing:0px;line-height:1.7;text-transform:inherit;}body a, .woocommerce .star-rating span{color:#44C47E;}.widget_sidebar_main ul li::before{color:#44C47E;}body a:hover, body a:focus, .widget_sidebar_main ul li:hover::before{color:#00c44b;}/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/fonts/roboto/font) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/fonts/roboto/font) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/fonts/roboto/font) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/fonts/roboto/font) format('woff');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* math */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/fonts/roboto/font) format('woff');
+  unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/fonts/roboto/font) format('woff');
+  unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/fonts/roboto/font) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/fonts/roboto/font) format('woff');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/fonts/roboto/font) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style>
+    <!--script src="/wp-content/themes/business-press/js/math.min.js~~"></script-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/7.1.0/math.min.js" integrity="sha512-rCvDXOM8HOkDDjC0l9vQPhUg2n0rKlcsCtDjWG0ajYmVfjgtO6egt/RdSbKSzFCIUaE/OQRwmiU/4PmOeK3J+Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!--script src="//rawgit.com/shaunbowe/jquery.visibilityChanged/master/visibilityChanged.js" crossorigin="anonymous"></script-->
+    <script src="/wp-content/themes/business-press/js/visibilityChanged.js"></script>
+    <!--script src="//raw.githubusercontent.com/imakewebthings/waypoints/master/lib/jquery.waypoints.min.js"></script-->
+<!--    <link rel="stylesheet" href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/css/font-awesome.pro.min.css"> -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+<body class="page-template page-template-template-full-width page-template-template-full-width-php page page-id-2266">
+
+
+<header class="header rework" id="header~~">
+
+	<div class="header-top">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3">
+					<span class="header-top__callback header-pop-link">Написать директору</span>
+				</div>
+				<div class="col-4 col-sm-5 col-lg-4 col-xl-4 custom-col-dis">
+					<span class="header-top__adress header-pop-link">
+						Адреса <span class="d-none d-sm-inline">автотехцентров</span><span class="d-none d-md-inline"> на карте</span>
+					</span>
+				</div>
+				<div class="col-2 col-md-2 d-sm-none d-md-block d-lg-none d-sm-block col-sm-3 text-sm-right text-left">
+					<span class="header-top__ceny">
+						<a href="/цены">Цены</a>
+					</span>
+				</div>
+				<div class="col-6 col-md-5 col-lg-2 col-xl-2 custom-col-dis text-right col-sm-4">
+					<span class="header-top__tel">
+						<a href="tel:+78412999901">99-99-01</a>
+						<!--a href="/контакты">Контакты</a-->
+					</span>
+				</div>
+				<div class="col-lg-3 col-xl-3 ml-auto">
+					<div class="header-top__menu">
+						<ul>
+							<li><a href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/%d0%be-%d0%ba%d0%be%d0%bc%d0%bf%d0%b0%d0%bd%d0%b8%d0%b8/">О компании</a></li>
+							<li><a href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/%d0%b2%d0%b0%d0%ba%d0%b0%d0%bd%d1%81%d0%b8%d0%b8/">Вакансии</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="header-bot">
+		<div class="container">
+			<div class="row">
+				<div class="col-8 col-lg-3 col-xl-3">
+					<a href="/" class="header-bot__logo">
+						<img src="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/files/imgs/logo3.svg" alt="" height="40px" width="176px">
+					</a>
+				</div>
+				<div class="col-4 wrap-burger d-lg-none d-flex">
+					<div class="header-bot__burger">
+						<div class="header-bot__burger-link"></div>
+					</div>
+				</div>
+				<div class="col-lg-9 col-xl-9 custom-col menu-mob-wrap">
+					<nav class="header-bot__menu">
+						<ul>
+							<li>
+								<a href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/%d1%83%d1%81%d0%bb%d1%83%d0%b3%d0%b8/">
+									<svg fill="currentColor" width="28" height="29" viewBox="0 0 26 27" xmlns="http://www.w3.org/2000/svg">
+    <path d="M13 0C5.86411 0 0 5.99034 0 13.4417C0 20.8201 5.79345 26.8835 13 26.8835C20.1359 26.8835 26 20.8931 26 13.4417C26 5.99034 20.2065 0 13 0ZM13 23.8883C7.41846 23.8883 2.89672 19.2129 2.89672 13.4417C2.89672 7.67055 7.41846 2.99518 13 2.99518C18.5815 2.99518 23.1032 7.67055 23.1032 13.4417C23.1032 19.2129 18.5815 23.8883 13 23.8883Z"/>
+    <path d="M19.6415 6.57466C17.8752 4.74833 15.5437 3.72559 13.0002 3.72559C10.5274 3.72559 8.12527 4.74833 6.35896 6.57466C4.59266 8.40099 3.60352 10.8118 3.60352 13.4417C3.60352 16.0716 4.59266 18.4824 6.35896 20.3087C8.12527 22.135 10.4568 23.1578 13.0002 23.1578C15.4731 23.1578 17.8752 22.135 19.6415 20.3087C21.4078 18.4824 22.397 16.0716 22.397 13.4417C22.397 10.8118 21.4078 8.40099 19.6415 6.57466ZM4.94592 13.4417C4.94592 11.6153 5.5111 9.9351 6.50023 8.54709C6.85349 8.03572 7.63068 8.03572 8.05459 8.54709L9.89157 11.177C10.4568 11.9806 10.1035 13.0764 9.18505 13.4417L6.21765 14.4644C5.58178 14.5375 4.94592 14.0992 4.94592 13.4417ZM11.7285 20.4548C11.7285 21.1123 11.0926 21.5506 10.5274 21.4045C8.90241 20.8201 7.48936 19.7973 6.50023 18.4093C6.14697 17.8979 6.35894 17.0943 6.99481 16.8752L9.9622 15.8524C10.8807 15.5602 11.7991 16.2177 11.7991 17.2405V20.4548H11.7285ZM11.8698 9.56985L10.0328 6.93993C9.67958 6.42856 9.89154 5.62496 10.5274 5.4058C11.3046 5.11359 12.1524 4.96748 13.0002 4.96748C13.8481 4.96748 14.6959 5.11359 15.4731 5.4058C16.1089 5.62496 16.3209 6.3555 15.9676 6.93993L14.1307 9.56985C13.5655 10.3734 12.435 10.3734 11.8698 9.56985ZM19.5709 18.3363C18.5817 19.7243 17.1687 20.82 15.5437 21.3314C14.9079 21.5506 14.3426 21.0392 14.3426 20.3817V17.1674C14.3426 16.1446 15.2611 15.4872 16.1796 15.7794L19.147 16.8021C19.7122 17.0943 19.9241 17.8249 19.5709 18.3363ZM19.9241 14.3183L16.9568 13.2956C16.0383 13.0033 15.685 11.8345 16.2503 11.0309L18.0872 8.40097C18.4405 7.8896 19.2176 7.8896 19.6415 8.40097C20.6307 9.78899 21.1959 11.4692 21.1959 13.2956C21.1252 14.0991 20.4893 14.5375 19.9241 14.3183Z"/>
+</svg>
+									<span>Услуги</span>
+								</a>
+							</li>
+							<li>
+								<a href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/%d1%83%d1%81%d0%bb%d1%83%d0%b3%d0%b8/%d0%bf%d0%be%d0%ba%d1%80%d0%b0%d1%81%d0%ba%d0%b0-%d0%b4%d0%b8%d1%81%d0%ba%d0%be%d0%b2/">
+									<svg stroke-width="3" stroke="#e3a73c" fill="none" width="32" height="19" version="1.1" viewBox="0 0 135.47 135.47" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-34.116 -47.778)">
+  <path d="m144.05 182.95c3.0254-0.59313 6.1197-3.0796 7.5262-6.0476 0.77276-1.6307 0.82681-1.9478 0.91251-5.353 0.24529-9.7459-2.3539-22.561-6.5903-32.492-0.40247-0.94348-0.67738-1.8034-0.61092-1.9109 0.0665-0.10753 0.62185-0.34359 1.2342-0.52457 0.71292-0.2107 1.6024-0.8151 2.473-1.6804 1.1624-1.1553 1.4064-1.5789 1.682-2.9194 0.17728-0.86241 0.36693-1.7209 0.42145-1.9078 0.0746-0.25556 0.80417-0.32111 2.9449-0.26458l2.8458 0.0751 0.57785 1.2183c1.5718 3.314 5.372 4.5532 8.4433 2.7535 2.5936-1.5198 3.1444-3.6274 2.973-11.375-0.0927-4.1861-0.19182-5.1885-0.58949-5.9587-1.1724-2.2709-3.0043-3.4427-5.3681-3.4338-2.6411 0.01-4.5796 1.3194-5.5523 3.7503l-0.40938 1.0231-5.8481-0.149-0.29916-1.4552c-0.38258-1.861-0.93633-2.8914-2.1058-3.9181-1.8356-1.6117-2.1354-1.6381-18.586-1.6381-8.1955 0-14.901-0.0838-14.901-0.18615 0-0.36243 2.512-4.3053 2.8176-4.4226 0.17066-0.0655 1.3032 0.0612 2.5166 0.28145 5.574 1.0119 12.169-0.53369 17.006-3.9852 3.025-2.1586 4.7892-4.3728 9.7765-12.27l4.713-7.4631 1.2303-2e-3c2.6362-3e-3 4.7234-1.2518 5.938-3.5524 0.7977-1.5109 0.79404-4.3528-8e-3 -5.8717-0.78509-1.4877-1.2455-1.8376-8.0951-6.151-3.2922-2.0732-6.0516-3.8758-6.1319-4.0058-0.0803-0.12996 0.27092-0.78253 0.78053-1.4502 0.50961-0.66763 1.0618-1.7151 1.227-2.3277 1.2994-4.8174-3.4886-9.301-8.2454-7.7211-1.6568 0.5503-3.4655 2.239-3.9409 3.6793-0.23638 0.71624-0.44915 0.95856-0.76839 0.87508-0.24281-0.0635-2.9983-1.7236-6.1233-3.6892-6.901-4.3405-7.0054-4.3952-8.7679-4.5923-2.4957-0.27902-4.8857 0.96787-6.2203 3.2451-0.94247 1.6082-1.0126 4.0927-0.16781 5.9461l0.56434 1.2381-1.2998 2.0584c-1.3857 2.1945-1.5828 3.1421-0.83675 4.0238 1.2065 1.4259 2.5553 0.83466 4.2094-1.8452 0.77678-1.2585 1.1004-1.5731 1.5298-1.4871 0.76039 0.15226 31.369 19.516 31.369 19.845 0 0.42551-8.8513 14.231-9.923 15.477-2.1761 2.5302-5.9712 4.7942-9.6561 5.7606-2.3085 0.60542-6.7248 0.62377-8.9958 0.0374-8.7758-2.266-14.719-10.409-14.219-19.482 0.18232-3.3088 1.0879-5.9932 3.1717-9.4021 2.6061-4.2632 2.7421-4.5833 2.2899-5.3891-0.21095-0.37584-0.68509-0.8526-1.0536-1.0595-1.1431-0.6416-1.9851 0.01397-3.8648 3.009-2.0893 3.329-3.1183 5.4707-3.8609 8.0355-0.78161 2.6995-0.83469 9.0183-0.0981 11.676 0.63012 2.2735 2.4937 6.1705 3.702 7.7414 0.53264 0.69248 0.96698 1.4664 0.96518 1.7198-2e-3 0.2534-1.5811 2.9601-3.5096 6.0149-3.3481 5.3035-3.5658 5.5824-4.8251 6.1802-0.72531 0.34435-1.7657 1.0299-2.312 1.5235l-0.99327 0.89736h-6.7851l-1.5064-1.1698c-1.8027-1.3998-3.1249-1.7406-6.7532-1.7406-5.211 0-7.5536 1.5541-8.3754 5.5562l-0.29881 1.4552-2.8903 0.16068c-3.1907 0.17738-4.3488 0.54472-5.5713 1.7673-1.1516 1.1516-1.7225 2.5122-1.7223 4.105 2.4e-4 2.3727 1.0803 4.2499 3.0295 5.2654 0.88056 0.45874 1.7363 0.60819 4.1519 0.72517l3.0427 0.14733 0.079 0.79375c0.18154 1.8233 0.87682 3.2628 2.1521 4.4556 1.7 1.5902 2.7148 1.8334 7.1474 1.7133 3.8872-0.10535 4.9618-0.42881 6.3441-1.9098 0.63267-0.67782 0.69303-0.68721 4.417-0.68721h3.7756l1.0069 0.92323c1.3608 1.2477 2.8937 1.7226 5.5603 1.7226 1.7004 0 2.2445 0.0897 2.3594 0.38891 0.23419 0.6103-0.3617 5.3511-0.95732 7.6164-0.66196 2.5176-1.562 4.5925-2.8971 6.679-1.34 2.0942-1.7036 3.3153-1.5192 5.102 0.2089 2.024 1.2764 3.6669 3.0889 4.7538 1.2147 0.72841 1.69 0.8599 3.1078 0.8599 2.7716 0 4.2054-0.8641 6.1466-3.7042 3.1742-4.644 5.1759-10.835 5.9026-18.256l0.32383-3.3073h2.8935l1.15 1.9844c0.63248 1.0914 1.7907 3.3018 2.5739 4.9121 1.041 2.1403 1.6089 3.012 2.1118 3.2412 0.95193 0.43373 1.2794 0.39678 2.0826-0.23494 1.0967-0.86265 0.91624-1.7868-1.1561-5.921-1.0177-2.0302-1.7533-3.7883-1.6347-3.9069 0.11859-0.1186 3.5415-0.18394 7.6065-0.14521l7.3908 0.0704 0.85204 1.7198c1.1605 2.3423 3.1022 7.6514 4.1764 11.419 1.8116 6.354 2.7266 12.159 2.9546 18.743 0.15312 4.4209 0.13312 4.6934-0.44249 6.0292-1.0321 2.3951-3.8364 4.2895-6.35 4.2895-2.7713 0-5.7294-2.2035-6.4445-4.8005-0.21464-0.77949-0.46691-2.9651-0.56061-4.8568-0.29255-5.9065-1.0989-10.862-2.622-16.113-0.37567-1.2952-0.86507-2.6328-1.0876-2.9724-0.80404-1.2271-2.7365-1.0602-3.3514 0.28944-0.2469 0.54188-0.15283 1.1865 0.53148 3.6419 1.638 5.8776 2.23 9.5313 2.5626 15.816 0.28838 5.4491 1.0333 7.5294 3.5335 9.8681 2.7214 2.5455 6.1446 3.5256 9.8065 2.8077zm-40.521-25.388c-1.0376-1.0376-0.92024-1.9434 0.55433-4.2783 2.2738-3.6004 3.5529-7.6642 4.0835-12.974l0.32388-3.2412h4.7486l-0.0724 2.1167c-0.2092 6.1194-2.2775 12.796-5.3812 17.372-1.1144 1.6428-1.2808 1.7587-2.5704 1.7893-0.64536 0.0153-1.0953-0.19419-1.6863-0.78513zm-4.5038-25.329c-0.59426-0.59393-0.60368-0.70451-0.68049-7.9941-0.0893-8.4733-0.032-8.7704 1.7835-9.2592 0.7037-0.18948 8.1968-0.25688 23.143-0.20815l22.103 0.072 1.4671 1.4664 0.0782 7.1178c0.0848 7.7212-0.0627 8.7542-1.3232 9.2648-0.36114 0.1463-9.7954 0.22499-23.288 0.19426l-22.681-0.0517zm-22.712 0.0425c-0.31977-0.32018-0.57742-0.94305-0.60194-1.4552l-0.0429-0.89543h8.9958l0.0648 0.79375c0.0357 0.43657-0.0834 0.98099-0.26459 1.2098-0.71896 0.90808-1.3583 1.0471-4.49 0.97666-2.7532-0.062-3.1651-0.13281-3.6613-0.62961zm85.761-1.8117c-0.4117-0.2129-0.8225-0.57983-0.9129-0.81539-0.0904-0.23557-0.16435-2.8433-0.16435-5.7949 0-5.0286 0.0345-5.4105 0.54837-6.0638 0.67092-0.85293 1.8653-0.92931 2.6266-0.16797 0.49687 0.49687 0.52916 0.88194 0.52916 6.309 0 5.1746-0.0485 5.8221-0.46302 6.1832-0.38222 0.33298-0.86598 0.59226-1.336 0.71611-0.0436 0.0115-0.41613-0.15331-0.82784-0.3662zm-72.625-0.30268c-0.36516-0.14012-0.41852-0.95099-0.41852-6.3596v-6.199l5.1594 0.1514 0.0712 6.0667c0.0549 4.6768-6e-3 6.1155-0.26458 6.2798-0.39209 0.24886-3.9339 0.2961-4.5475 0.0606zm61.546-6.1653c-0.0555-1.1776 0.0254-1.7625 0.26458-1.9142 0.49602-0.31461 4.6502-0.27722 5.2566 0.0473 0.41564 0.22245 0.51178 0.56207 0.51178 1.808 0 0.84375-0.0832 1.6173-0.18481 1.7189-0.10164 0.10165-1.4411 0.15126-2.9766 0.11025l-2.7918-0.0746zm-75.407 0.11559c-0.11313-2.2041-6e-3 -2.2564 4.608-2.2564 2.0703 0 3.9526 0.0723 4.1828 0.1606 0.31963 0.12265 0.41852 0.54986 0.41852 1.808 0 0.90606-0.0821 1.7295-0.18256 1.8299-0.10041 0.10041-2.1542 0.15002-4.5641 0.11025l-4.3815-0.0723zm-9.6728 1.164c-0.73496-0.57812-0.90007-1.4885-0.42944-2.3679 0.33921-0.63381 1.8193-1.0492 3.7456-1.051 2.2605-2e-3 2.3367 0.062 2.3367 1.9671 0 0.90606-0.0794 1.7268-0.17639 1.8238-0.097 0.097-1.212 0.17639-2.4779 0.17639-1.9277 0-2.4147-0.089-2.9986-0.54837zm9.7081-7.81c-0.0888-0.23151 0.0292-0.82096 0.26239-1.3099 0.562-1.1785 1.8904-1.5359 5.176-1.3926 2.3171 0.10104 2.5238 0.15669 3.1089 0.83685 0.35235 0.40964 0.62672 1.0696 0.62672 1.5076v0.77899h-4.5062c-3.8759 0-4.5288-0.0589-4.6677-0.42092zm29.018-6.9068c0-0.27292 5.0469-8.2637 5.3296-8.4385 0.13333-0.0824 0.88433 0.27625 1.6689 0.79701 0.78455 0.52076 1.6144 1.019 1.8442 1.1071 0.62751 0.2408 0.51506 0.73372-0.55063 2.4136-0.53259 0.83957-1.3646 2.1516-1.8488 2.9156l-0.88045 1.3891h-2.7814c-1.5298 0-2.7814-0.0828-2.7814-0.18394zm44.029-34.432c-10.119-6.2537-31.251-19.717-31.819-20.271-0.94973-0.92807-0.85972-2.4287 0.20261-3.3779 0.93183-0.83259 1.5598-0.91285 2.6661-0.34074 1.4707 0.76054 34.8 21.871 35.368 22.402 1.5804 1.477 0.5268 4.137-1.6552 4.1788-0.30423 6e-3 -2.4474-1.1601-4.7625-2.5909zm-9.6201-16.854c-1.4365-1.4139-0.34341-3.9333 1.7066-3.9333 1.9429 0 3.1054 2.4201 1.8389 3.8281-1.0734 1.1933-2.4 1.2326-3.5454 0.10522zm-90.406 77.699c5.4834-2.3539 8.6038-3.8344 8.9297-4.2368 0.88552-1.0936 0.54419-2.3753-0.77843-2.9231-0.86382-0.35781-0.89482-0.34638-12.479 4.5985-7.1799 3.0648-7.9979 3.7512-6.5954 5.5343 0.93148 1.1842 1.7732 0.95512 10.923-2.9727zm7.7228-11.796c0.35719-0.35719 0.64943-0.95791 0.64943-1.3349s-0.29224-0.97776-0.64943-1.3349l-0.64943-0.64944h-9.7659c-9.4793 0-9.7864 0.0161-10.463 0.54837-0.91128 0.71681-0.95046 2.0318-0.0848 2.8451 0.60609 0.56939 0.71327 0.57528 10.463 0.57528h9.8507zm1.0583-7.6729c0.81006-0.81005 0.83144-1.8407 0.0541-2.6083-0.7309-0.72178-17.37-7.8547-18.323-7.8547-0.82758 0-1.9838 1.0843-1.9838 1.8604 0 1.1901 1.3698 1.9622 9.98 5.6253 4.6886 1.9947 8.772 3.6268 9.074 3.6268 0.30205 0 0.84143-0.29225 1.1986-0.64944z" fill="#0f0f0f" stroke-width="3"/>
+ </g>
+</svg>
+									<span>Покраска дисков</span>
+								</a>
+							</li>
+							<li>
+								<a href="/услуги/заправка-кондиционеров/">
+									<!--
+<svg width="36" height="32" fill="#0064A8" viewBox="-1 0 19 19" xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg"><path d="M16.417 9.579A7.917 7.917 0 1 1 8.5 1.662a7.917 7.917 0 0 1 7.917 7.917zm-7.13.001 2.293-1.323 1.641.944a.396.396 0 0 0 .395-.686L12.372 7.8l.631-.364a.396.396 0 1 0-.395-.686l-.639.368-.001-1.448a.396.396 0 0 0-.396-.396.396.396 0 0 0-.396.397l.002 1.904-2.287 1.321V6.25l1.644-.95a.396.396 0 0 0-.395-.685l-1.25.72v-.732a.396.396 0 1 0-.791 0v.733L6.85 4.615a.396.396 0 1 0-.396.686l1.645.95v2.644L5.811 7.574l.003-1.904a.396.396 0 0 0-.396-.397.395.395 0 0 0-.396.396L5.02 7.117l-.638-.368a.396.396 0 0 0-.396.686l.632.364-1.245.716a.396.396 0 1 0 .396.686l1.641-.944L7.703 9.58 5.41 10.904 3.769 9.96a.396.396 0 1 0-.396.686l1.245.716-.632.365a.396.396 0 1 0 .396.685l.638-.368.002 1.448a.395.395 0 0 0 .396.395.396.396 0 0 0 .396-.396l-.003-1.904 2.288-1.32v2.644l-1.645.95a.396.396 0 1 0 .396.685l1.25-.72v.732a.396.396 0 0 0 .79 0v-.733l1.25.721a.396.396 0 0 0 .396-.685l-1.645-.95v-2.645l2.287 1.321-.002 1.904a.395.395 0 0 0 .395.396.396.396 0 0 0 .396-.395l.002-1.449.639.37a.396.396 0 1 0 .395-.686l-.631-.365 1.244-.716a.396.396 0 1 0-.395-.686l-1.641.944z"/>
+</svg>
+-->
+<svg fill="#e3a73c" width="32" height="28" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <path d="M28.285 16.575l-4.475 2.49-5.309-3.065 5.305-3.063 4.487 2.488c0.173 0.099 0.38 0.157 0.601 0.157 0.001 0 0.002 0 0.003 0h-0c0.001 0 0.002 0 0.003 0 0.69 0 1.249-0.559 1.249-1.249 0-0.468-0.258-0.876-0.639-1.090l-0.006-0.003-3.174-1.759 2.42-1.397c0.377-0.22 0.625-0.623 0.625-1.083 0-0.691-0.56-1.25-1.25-1.25-0.23 0-0.446 0.062-0.631 0.171l0.006-0.003-2.418 1.396 0.058-3.625c0-0.006 0-0.013 0-0.020 0-0.684-0.549-1.239-1.23-1.25h-0.001c-0.684 0.007-1.24 0.549-1.269 1.227l-0 0.003-0.082 5.124-5.308 3.065v-6.127l4.4-2.636c0.366-0.222 0.607-0.619 0.607-1.072 0-0.69-0.56-1.25-1.25-1.25-0.237 0-0.459 0.066-0.648 0.181l0.006-0.003-3.115 1.866v-2.794c0-0.69-0.56-1.25-1.25-1.25s-1.25 0.56-1.25 1.25v0 2.792l-3.106-1.866c-0.183-0.111-0.404-0.176-0.64-0.176-0.69 0-1.25 0.56-1.25 1.25 0 0.451 0.239 0.846 0.597 1.066l0.005 0.003 4.394 2.639v6.128l-5.306-3.064-0.083-5.126c-0.028-0.682-0.585-1.224-1.27-1.229h-0.001c-0.682 0.012-1.23 0.567-1.23 1.25 0 0.007 0 0.014 0 0.021v-0.001l0.059 3.628-2.418-1.396c-0.179-0.105-0.395-0.167-0.625-0.167-0.691 0-1.25 0.56-1.25 1.25 0 0.46 0.249 0.863 0.619 1.080l0.006 0.003 2.418 1.396-3.172 1.758c-0.388 0.217-0.646 0.626-0.646 1.095 0 0.69 0.56 1.25 1.25 1.25 0.224 0 0.434-0.059 0.616-0.162l-0.006 0.003 4.484-2.486 5.306 3.063-5.306 3.063-4.483-2.493c-0.175-0.099-0.384-0.157-0.607-0.157-0.691 0-1.25 0.56-1.25 1.25 0 0.467 0.257 0.875 0.637 1.090l0.006 0.003 3.175 1.764-2.421 1.398c-0.381 0.219-0.633 0.623-0.633 1.087 0 0.69 0.559 1.25 1.25 1.25 0.234 0 0.452-0.064 0.639-0.176l-0.006 0.003 2.418-1.396-0.063 3.624c-0 0.006-0 0.014-0 0.021 0 0.683 0.548 1.238 1.228 1.251l0.001 0h0.021c0 0 0 0 0 0 0.683 0 1.238-0.547 1.25-1.227v-0.001l0.089-5.125 5.305-3.063v6.124l-4.397 2.642c-0.366 0.223-0.607 0.619-0.607 1.072 0 0.691 0.56 1.251 1.251 1.251 0.238 0 0.46-0.066 0.649-0.181l-0.006 0.003 3.11-1.869v2.792c0 0.69 0.56 1.25 1.25 1.25s1.25-0.56 1.25-1.25v0-2.792l3.111 1.864c0.182 0.112 0.403 0.178 0.639 0.178 0.001 0 0.001 0 0.002 0h-0c0.001 0 0.001 0 0.002 0 0.69 0 1.25-0.56 1.25-1.25 0-0.453-0.241-0.85-0.602-1.069l-0.006-0.003-4.396-2.634v-6.129l5.303 3.062 0.089 5.131c0.012 0.681 0.566 1.229 1.249 1.229 0 0 0.001 0 0.001 0h0.021c0.681-0.012 1.229-0.567 1.229-1.25 0-0.008-0-0.015-0-0.023l0 0.001-0.063-3.63 2.421 1.397c0.177 0.102 0.39 0.163 0.616 0.163 0.69 0 1.25-0.559 1.25-1.25 0-0.456-0.245-0.856-0.61-1.074l-0.006-0.003-2.418-1.396 3.168-1.762c0.384-0.218 0.639-0.625 0.639-1.090 0-0.69-0.56-1.25-1.25-1.25-0.222 0-0.43 0.058-0.61 0.159l0.006-0.003z"></path>
+</svg>
+<!--
+<svg width="36" height="32" fill="#0064A8" viewBox="0 0 256 256" id="Flat" xmlns="http://www.w3.org/2000/svg">
+<path d="M227.80176,148.11035a11.99971,11.99971,0,0,1-8.48584,14.69629l-21.19287,5.67871,5.67871,21.19336a12.0001,12.0001,0,1,1-23.18262,6.21094l-7.498-27.98242L140,148.78491V187.0293l20.48535,20.48535a12.0001,12.0001,0,0,1-16.9707,16.9707L128,208.9707l-15.51465,15.51465a12.0001,12.0001,0,0,1-16.9707-16.9707L116,187.0293V148.78491L82.87891,167.90723l-7.49805,27.98242a12.0001,12.0001,0,0,1-23.18262-6.21094L57.877,168.48535l-21.19287-5.67871A11.99963,11.99963,0,1,1,42.895,139.625l27.98291,7.49756L103.99951,128,70.87793,108.87744,42.895,116.375a11.99963,11.99963,0,1,1-6.21094-23.18164L57.877,87.51465,52.19824,66.32129a12.0001,12.0001,0,0,1,23.18262-6.21094l7.49805,27.98242L116,107.21509V68.9707L95.51465,48.48535a12.0001,12.0001,0,0,1,16.9707-16.9707L128,47.0293l15.51465-15.51465a12.0001,12.0001,0,0,1,16.9707,16.9707L140,68.9707v38.24439l33.12109-19.12232,7.498-27.98242a12.0001,12.0001,0,0,1,23.18262,6.21094l-5.67871,21.19336,21.19287,5.67871A11.99963,11.99963,0,1,1,213.105,116.375l-27.98291-7.49756L152.00049,128l33.12158,19.12256L213.105,139.625A11.9955,11.9955,0,0,1,227.80176,148.11035Z"/>
+</svg>
+-->
+									<span>Автокондиционеры</span>
+								</a>
+							</li>
+							<li>
+								<a href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/%d1%86%d0%b5%d0%bd%d1%8b/">
+									<svg fill="#e3a73c" width="23" height="26" viewBox="0 0 23 26" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0.772713 21.8633H4.90915V25.4092C4.90915 25.5817 4.96435 25.7229 5.07541 25.8333C5.18616 25.9444 5.32775 26 5.50022 26H8.58387C8.74391 26 8.88239 25.9444 8.99936 25.8333C9.11633 25.7229 9.17464 25.5817 9.17464 25.4092V21.8633H18.4999C18.672 21.8633 18.8136 21.8084 18.9247 21.6973C19.0358 21.5863 19.0909 21.445 19.0909 21.2724V18.9087C19.0909 18.7372 19.0358 18.595 18.9247 18.4846C18.814 18.3734 18.672 18.3179 18.4999 18.3179H9.17433V16.1388H15.4527C17.9147 16.1388 19.9241 15.3886 21.4819 13.8861C23.039 12.3852 23.8179 10.4463 23.8179 8.06941C23.8179 5.69411 23.039 3.7552 21.4819 2.25272C19.9244 0.751723 17.9147 0 15.4527 0H5.49992C5.32739 0 5.18611 0.0555038 5.0751 0.165951C4.96435 0.277009 4.90884 0.419209 4.90884 0.590767V12.2061H0.772713C0.600238 12.2061 0.458905 12.2645 0.347897 12.3814C0.237195 12.4983 0.181641 12.6368 0.181641 12.7968V15.548C0.181641 15.7205 0.236839 15.8618 0.347897 15.9728C0.458956 16.0839 0.599932 16.1388 0.772713 16.1388H4.90915V18.3178H0.772713C0.600238 18.3178 0.458905 18.3734 0.347897 18.4845C0.237195 18.5949 0.181641 18.7368 0.181641 18.9087V21.2724C0.181641 21.4449 0.236839 21.5862 0.347897 21.6973C0.458905 21.8084 0.600187 21.8633 0.772713 21.8633ZM9.17433 3.93364H15.0834C16.3882 3.93364 17.4406 4.31513 18.241 5.07837C19.0411 5.84166 19.4413 6.83915 19.4413 8.06972C19.4413 9.30089 19.0411 10.2987 18.241 11.0611C17.4406 11.825 16.3881 12.2065 15.0834 12.2065H9.17433V3.93364Z"/>
+</svg>
+									<span>Цены</span>
+								</a>
+							</li>
+							<li>
+								<a href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/%d0%ba%d0%b0%d0%bb%d1%8c%d0%ba%d1%83%d0%bb%d1%8f%d1%82%d0%be%d1%80/">
+									<svg aria-hidden="true" focusable="false" data-prefix="fal" data-icon="calculator-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 512" class="svg-inline--fa fa-calculator-alt fa-w-15 fa-5x">
+  <path fill="currentColor" d="M72 160h112c4.42 0 8-3.58 8-8v-16c0-4.42-3.58-8-8-8H72c-4.42 0-8 3.58-8 8v16c0 4.42 3.58 8 8 8zm5.09 247.6l11.31 11.31c3.12 3.12 8.19 3.12 11.31 0L128 390.63l28.29 28.29c3.12 3.12 8.19 3.12 11.31 0l11.31-11.31c3.12-3.12 3.12-8.19 0-11.31L150.63 368l28.29-28.29c3.12-3.12 3.12-8.19 0-11.31l-11.31-11.31c-3.12-3.12-8.19-3.12-11.31 0L128 345.37l-28.29-28.29c-3.12-3.12-8.19-3.12-11.31 0L77.09 328.4c-3.12 3.12-3.12 8.19 0 11.31L105.37 368l-28.29 28.28a8.006 8.006 0 0 0 .01 11.32zM448 16H32C14.33 16 0 30.33 0 48v416c0 17.67 14.33 32 32 32h416c17.67 0 32-14.33 32-32V48c0-17.67-14.33-32-32-32zM224 464H32V272h192v192zm0-224H32V48h192v192zm224 224H256V272h192v192zm0-224H256V48h192v192zm-152-80h40v40c0 4.42 3.58 8 8 8h16c4.42 0 8-3.58 8-8v-40h40c4.42 0 8-3.58 8-8v-16c0-4.42-3.58-8-8-8h-40V88c0-4.42-3.58-8-8-8h-16c-4.42 0-8 3.58-8 8v40h-40c-4.42 0-8 3.58-8 8v16c0 4.42 3.58 8 8 8zm0 256h112c4.42 0 8-3.58 8-8v-16c0-4.42-3.58-8-8-8H296c-4.42 0-8 3.58-8 8v16c0 4.42 3.58 8 8 8zm0-64h112c4.42 0 8-3.58 8-8v-16c0-4.42-3.58-8-8-8H296c-4.42 0-8 3.58-8 8v16c0 4.42 3.58 8 8 8z" class="">
+  </path>
+</svg>
+									<span>Калькулятор</span>
+								</a>
+							</li>
+
+							<!--li>
+								<a href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/%d0%b0%d0%ba%d1%86%d0%b8%d0%b8-%d0%b8-%d1%81%d0%ba%d0%b8%d0%b4%d0%ba%d0%b8/">
+									<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M9.54532 11.8785C10.1456 11.8785 10.6321 11.3919 10.6321 10.7917C10.6321 10.1914 10.1456 9.70483 9.54532 9.70483C8.94508 9.70483 8.4585 10.1914 8.4585 10.7917C8.4585 11.3919 8.94508 11.8785 9.54532 11.8785Z" fill="#0D0D0D"/>
+  <path d="M16.4496 16.2897C17.0499 16.2897 17.5364 15.8031 17.5364 15.2029C17.5364 14.6027 17.0499 14.1161 16.4496 14.1161C15.8494 14.1161 15.3628 14.6027 15.3628 15.2029C15.3628 15.8031 15.8494 16.2897 16.4496 16.2897Z" fill="#0D0D0D"/>
+  <path d="M25.4107 14.4358L25.0164 13.8977C24.5902 13.3117 24.5796 12.5178 25.0005 11.9212L25.384 11.3777C25.9701 10.5466 25.6984 9.39056 24.798 8.90575L24.212 8.59142C23.5727 8.25046 23.221 7.53656 23.3436 6.81734L23.4555 6.16205C23.6259 5.16047 22.8748 4.23347 21.8572 4.19085L21.1912 4.16421C20.4667 4.13224 19.838 3.64211 19.6356 2.94419L19.4491 2.30489C19.1668 1.32461 18.0906 0.818492 17.1529 1.22339L16.5403 1.48444C15.8743 1.77213 15.0965 1.60165 14.6117 1.05823L14.1695 0.562769C13.4929 -0.193747 12.3048 -0.188419 11.6336 0.584079L11.1967 1.08487C10.7172 1.63361 9.94473 1.81475 9.27346 1.53771L8.65546 1.28199C7.71248 0.893078 6.64696 1.42051 6.37526 2.40078L6.19944 3.04542C6.00765 3.74866 5.38965 4.24945 4.6651 4.28674L3.99916 4.32404C2.98159 4.38264 2.24638 5.32029 2.43285 6.32188L2.55538 6.97717C2.68857 7.69106 2.34761 8.41029 1.71363 8.76191L1.13292 9.08689C0.243217 9.58235 -0.0125066 10.7438 0.589509 11.5642L0.98375 12.1023C1.40996 12.6883 1.42061 13.4821 0.999732 14.0788L0.616147 14.6222C0.030114 15.4533 0.30182 16.6094 1.20218 17.0942L1.78821 17.4086C2.42752 17.7495 2.77914 18.4634 2.65661 19.1826L2.54473 19.8379C2.37425 20.8395 3.12543 21.7665 4.143 21.8091L4.80895 21.8358C5.5335 21.8677 6.16215 22.3579 6.3646 23.0558L6.55106 23.6951C6.83343 24.6754 7.9096 25.1815 8.84725 24.7766L9.45992 24.5155C10.1259 24.2279 10.9037 24.3983 11.3885 24.9417L11.8307 25.4372C12.5126 26.1937 13.7007 26.1884 14.3666 25.4159L14.8035 24.9151C15.283 24.3664 16.0555 24.1852 16.7267 24.4623L17.3447 24.718C18.2877 25.1069 19.3532 24.5795 19.6249 23.5992L19.8007 22.9546C19.9925 22.2513 20.6105 21.7505 21.3351 21.7132L22.001 21.6759C23.0186 21.6173 23.7538 20.6797 23.5673 19.6781L23.4448 19.0228C23.3116 18.3089 23.6526 17.5897 24.2866 17.2381L24.8673 16.9131C25.757 16.423 26.0127 15.2615 25.4107 14.4358ZM6.91867 10.7917C6.91867 9.34261 8.09073 8.17055 9.53983 8.17055C10.9889 8.17055 12.161 9.34261 12.161 10.7917C12.161 12.2408 10.9889 13.4129 9.53983 13.4129C8.09073 13.4129 6.91867 12.2355 6.91867 10.7917ZM10.046 17.5524C9.8222 17.8241 9.4173 17.8614 9.14559 17.6376C8.87389 17.4139 8.83659 17.009 9.06035 16.7373L15.9383 8.45291C16.162 8.1812 16.5669 8.14391 16.8386 8.36767C17.1103 8.59142 17.1476 8.99632 16.9239 9.26803L10.046 17.5524ZM16.4497 17.8241C15.0006 17.8241 13.8285 16.652 13.8285 15.2029C13.8285 13.7538 15.0006 12.5818 16.4497 12.5818C17.8988 12.5818 19.0709 13.7538 19.0709 15.2029C19.0709 16.652 17.8988 17.8241 16.4497 17.8241Z" fill="#0D0D0D"/>
+</svg>
+									<span>Акции и скидки</span>
+								</a>
+							</li-->
+							<li>
+								<a href="https://юмакс.онлайн/">
+									<svg width="35" height="42" viewBox="0 0 35 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g opacity="1">
+    <path d="M4.59998 28.8189C3.59998 28.1189 1.8 28.0189 0 28.6189V32.5189C2 31.9189 3.89998 32.1189 5.09998 32.9189C5.19998 33.0189 5.29999 33.0189 5.29999 33.1189V30.3189C5.29999 29.6189 5.09998 29.1189 4.59998 28.8189Z" fill="#0064A8"/>
+    <path d="M4.59998 33.6189C3.59998 32.9189 1.8 32.819 0 33.419V37.3189C2 36.7189 3.89998 36.9189 5.09998 37.7189C5.19998 37.8189 5.29999 37.819 5.29999 37.919V35.1189C5.29999 34.5189 5.09998 34.0189 4.59998 33.6189Z" fill="#0064A8"/>
+    <path d="M4.59998 24.0189C3.59998 23.3189 1.8 23.2189 0 23.8189V27.7189C2 27.1189 3.89998 27.3189 5.09998 28.1189C5.19998 28.2189 5.29999 28.2189 5.29999 28.3189V25.5189C5.29999 24.8189 5.09998 24.3189 4.59998 24.0189Z" fill="#0064A8"/>
+    <path d="M4.59998 14.3189C3.59998 13.6189 1.8 13.5189 0 14.1189V18.0189C2 17.4189 3.89998 17.6189 5.09998 18.4189C5.19998 18.5189 5.29999 18.5189 5.29999 18.6189V15.8189C5.29999 15.1189 5.09998 14.6189 4.59998 14.3189Z" fill="#0064A8"/>
+    <path d="M10.7 5.1189H6.19998V41.8189H10.7V5.1189Z" fill="#0064A8"/>
+    <path d="M4.59998 9.51891C3.59998 8.81891 1.8 8.71889 0 9.31889V13.2189C2 12.6189 3.89998 12.8189 5.09998 13.6189C5.19998 13.7189 5.29999 13.7189 5.29999 13.8189V11.0189C5.29999 10.3189 5.09998 9.81891 4.59998 9.51891Z" fill="#0064A8"/>
+    <path d="M4.59998 19.1189C3.59998 18.4189 1.8 18.319 0 18.919V22.8189C2 22.2189 3.89998 22.4189 5.09998 23.2189C5.19998 23.3189 5.29999 23.319 5.29999 23.419V20.6189C5.29999 20.0189 5.09998 19.5189 4.59998 19.1189Z" fill="#0064A8"/>
+    <path d="M12.4 33.6189C11.9 34.0189 11.6 34.4189 11.6 35.1189V37.919C11.7 37.819 11.8 37.8189 11.8 37.7189C13 36.9189 14.9 36.8189 16.9 37.3189V33.419C15.2 32.919 13.4 32.9189 12.4 33.6189Z" fill="#0064A8"/>
+    <path d="M12.4 14.3189C11.9 14.7189 11.6 15.1189 11.6 15.8189V18.6189C11.7 18.5189 11.8 18.5189 11.8 18.4189C13 17.6189 14.9 17.5189 16.9 18.0189V14.1189C15.2 13.5189 13.4 13.6189 12.4 14.3189Z" fill="#0064A8"/>
+    <path d="M12.4 28.8189C11.9 29.2189 11.6 29.6189 11.6 30.3189V33.1189C11.7 33.0189 11.8 33.0189 11.8 32.9189C13 32.1189 14.9 32.0189 16.9 32.5189V28.6189C15.2 28.0189 13.4 28.1189 12.4 28.8189Z" fill="#0064A8"/>
+    <path d="M0 7.51892V8.31891C2 7.71891 3.89998 7.91893 5.09998 8.71893C5.19998 8.81893 5.29999 8.81894 5.29999 8.91895V5.1189H3C1.4 5.1189 0 6.21892 0 7.51892Z" fill="#0064A8"/>
+    <path d="M4.59998 38.5189C3.59998 37.8189 1.8 37.7189 0 38.3189V39.5189C0 40.8189 1.4 41.9189 3 41.9189H5.29999V40.0189C5.29999 39.3189 5.09998 38.8189 4.59998 38.5189Z" fill="#0064A8"/>
+    <path d="M12.4 38.5189C11.9 38.9189 11.6 39.3189 11.6 40.0189V41.9189H13.9C15.6 41.9189 16.9 40.8189 16.9 39.5189V38.3189C15.2 37.7189 13.4 37.8189 12.4 38.5189Z" fill="#0064A8"/>
+    <path d="M13.9 5.1189H11.6V8.91895C11.7 8.81894 11.8 8.81893 11.8 8.71893C13 7.91893 14.9 7.81891 16.9 8.31891V7.51892C17 6.21892 15.6 5.1189 13.9 5.1189Z" fill="#0064A8"/>
+    <path d="M12.4 24.0189C11.9 24.4189 11.6 24.8189 11.6 25.5189V28.3189C11.7 28.2189 11.8 28.2189 11.8 28.1189C13 27.3189 14.9 27.2189 16.9 27.7189V23.8189C15.2 23.2189 13.4 23.3189 12.4 24.0189Z" fill="#0064A8"/>
+    <path d="M12.4 19.1189C11.9 19.5189 11.6 19.9189 11.6 20.6189V23.419C11.7 23.319 11.8 23.3189 11.8 23.2189C13 22.4189 14.9 22.3189 16.9 22.8189V18.919C15.2 18.419 13.4 18.4189 12.4 19.1189Z" fill="#0064A8"/>
+    <path d="M12.4 9.51891C11.9 9.91891 11.6 10.3189 11.6 11.0189V13.8189C11.7 13.7189 11.8 13.7189 11.8 13.6189C13 12.8189 14.9 12.7189 16.9 13.2189V9.31889C15.2 8.71889 13.4 8.81891 12.4 9.51891Z" fill="#0064A8"/>
+    <path d="M32.9 21.4189C31.7 21.2189 30.6 22.0189 30.3 23.2189C30.1 24.4189 30.9 25.5189 32.1 25.8189C33.3 26.0189 34.4 25.2189 34.7 24.0189C34.9 22.8189 34.1 21.6189 32.9 21.4189ZM33.6 23.8189C33.5 24.4189 33 24.8189 32.4 24.6189C31.8 24.5189 31.4 24.0189 31.6 23.4189C31.7 22.8189 32.2 22.4189 32.8 22.6189C33.3 22.7189 33.7 23.2189 33.6 23.8189Z" fill="#0064A8"/>
+    <path d="M32.6 23.0189H32.5C32.4 23.0189 32.3 23.0189 32.2 23.1189C32.1 23.2189 32 23.3189 32 23.5189C32 23.7189 32 23.8189 32.1 23.9189C32.2 24.0189 32.3 24.1189 32.5 24.1189C32.7 24.1189 32.8 24.1189 32.9 24.0189C33 23.9189 33.1 23.8189 33.1 23.6189C33.2 23.4189 33 23.1189 32.6 23.0189Z" fill="#0064A8"/>
+    <path d="M30.2 24.8189C29.9 24.3189 29.8 23.7189 29.9 23.1189C30 22.7189 30.2 22.3189 30.4 21.9189H29V20.6189C29 19.9189 28.8 19.3189 28.4 18.8189C28.4 18.9189 28.4 19.0189 28.4 19.1189C28.3 19.8189 27.9 20.4189 27.3 20.8189C26.8 21.1189 26.3 21.3189 25.8 21.3189C25.6 21.3189 25.5 21.3189 25.3 21.3189C24.6 21.2189 24 20.8189 23.6 20.2189C23.3 19.8189 23.2 19.4189 23.1 18.9189C22.7 19.4189 22.5 20.0189 22.5 20.7189V22.0189H18.5C18.3 22.0189 18.1 22.2189 18.1 22.4189V24.4189C18.1 24.6189 18.3 24.8189 18.5 24.8189H30.2Z" fill="#0064A8"/>
+    <path d="M30.3 25.1189L30.2 25.0189L18.5 29.8189C18.3 29.9189 18.2 30.0189 18.3 30.2189L18.5 30.9189C18.6 31.1189 18.8 31.2189 19 31.1189L31.3999 26.0189C30.9999 25.8189 30.6 25.5189 30.3 25.1189Z" fill="#0064A8"/>
+    <path d="M25.6 19.3189C25.8 19.3189 25.9 19.3189 26 19.2189C26.1 19.1189 26.2 19.0189 26.2 18.8189C26.3 18.5189 26 18.2189 25.7 18.1189H25.6C25.5 18.1189 25.4 18.1189 25.3 18.2189C25.2 18.3189 25.1 18.4189 25.1 18.6189C25.1 18.8189 25.1 18.9189 25.2 19.0189C25.4 19.2189 25.5 19.3189 25.6 19.3189Z" fill="#0064A8"/>
+    <path d="M28.8 11.3189L28.9 10.5189L25.5 10.6189L25.3 11.5189L28.8 11.3189Z" fill="#0064A8"/>
+    <path d="M29.7 6.31891L29.8 5.41895L26.3 5.6189L26.2 6.51892L29.7 6.31891Z" fill="#0064A8"/>
+    <path d="M29.2 8.81891L29.4 7.91895L25.9 8.1189L25.7 9.01892L29.2 8.81891Z" fill="#0064A8"/>
+    <path d="M23.6 17.0189L24.3 17.1189C24 17.4189 23.7 17.8189 23.6 18.3189C23.4 19.5189 24.2 20.6189 25.4 20.9189C26.6 21.1189 27.7 20.3189 28 19.1189C28.1 18.6189 28 18.1189 27.8 17.7189L28.5 17.8189C28.6 17.8189 28.7 17.7189 28.8 17.6189L28.9 17.3189C28.9 17.2189 28.8 17.1189 28.7 17.0189L28 16.9189L28.3 15.4189L24.8 15.6189L24.7 16.3189L24 16.2189C23.9 16.2189 23.8 16.3189 23.7 16.4189L23.6 16.7189C23.4 16.9189 23.5 17.0189 23.6 17.0189ZM24.7 18.5189C24.8 17.9189 25.3 17.5189 25.9 17.7189C26.5 17.8189 26.9 18.3189 26.7 18.9189C26.6 19.5189 26.1 19.9189 25.5 19.7189C25 19.7189 24.6 19.1189 24.7 18.5189Z" fill="#0064A8"/>
+    <path d="M26.1 2.81894L26.8 2.91897L26.6 4.01895L30.1 3.81894L30.2 3.51895L30.9 3.61893C31 3.61893 31.1 3.51897 31.2 3.41897L31.3 3.11893C31.3 3.01893 31.2 2.91894 31.1 2.81894L29.9 2.61893L30.1 1.21896C30.2 0.718963 29.9 0.218926 29.3 0.118926L28.9 0.0189506C28.4 -0.0810494 27.9 0.218938 27.8 0.818938L27.6 2.21896L26.3 2.01895C26.2 2.01895 26.1 2.11896 26 2.21896L25.9 2.51895C25.9 2.61895 26 2.71894 26.1 2.81894Z" fill="#0064A8"/>
+    <path d="M28.3 13.8189L28.5 13.0189L25 13.2189L24.9 14.0189L28.3 13.8189Z" fill="#0064A8"/>
+    <path d="M25.8 5.31891L30.8 5.01892C31.1 5.01892 31.3 4.81892 31.2 4.51892C31.2 4.21892 31 4.1189 30.7 4.1189L25.7 4.41895C25.4 4.41895 25.3 4.61895 25.3 4.91895C25.3 5.11895 25.5 5.31891 25.8 5.31891Z" fill="#0064A8"/>
+    <path d="M25.3 7.81892L30.3 7.51893C30.6 7.51893 30.8 7.31893 30.7 7.01893C30.7 6.71893 30.5 6.51891 30.2 6.61891L25.2 6.91896C24.9 6.91896 24.8 7.11896 24.8 7.41896C24.8 7.61896 25.1 7.81892 25.3 7.81892Z" fill="#0064A8"/>
+    <path d="M24.9 10.3189L29.9 10.0189C30.2 10.0189 30.3 9.81892 30.3 9.51892C30.3 9.21892 30.1 9.1189 29.8 9.1189L24.8 9.41895C24.5 9.41895 24.3 9.61895 24.4 9.91895C24.4 10.1189 24.6 10.3189 24.9 10.3189Z" fill="#0064A8"/>
+    <path d="M24.4 12.8189L29.4 12.5189C29.7 12.5189 29.9 12.3189 29.8 12.0189C29.8 11.7189 29.6 11.5189 29.3 11.6189L24.3 11.919C24 11.919 23.9 12.119 23.9 12.419C24 12.719 24.2 12.8189 24.4 12.8189Z" fill="#0064A8"/>
+    <path d="M24 15.3189L29 15.0189C29.3 15.0189 29.5 14.8189 29.4 14.5189C29.4 14.2189 29.2 14.1189 28.9 14.1189L23.9 14.4189C23.6 14.4189 23.5 14.6189 23.5 14.9189C23.5 15.2189 23.7 15.4189 24 15.3189Z" fill="#0064A8"/>
+  </g>
+</svg>
+									<span>Автотехцентр</span>
+								</a>
+							</li>
+							<li>
+								<a href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/%d0%be-%d0%bd%d0%b0%d1%81/">
+									<svg width="37" height="23" viewBox="0 0 37 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M1.3481 12.7549H14.0198L2.87587 2.15018C2.42653 1.79071 2.51641 1.07175 3.05562 0.802137C3.32523 0.622397 3.59484 0.712267 3.86445 0.802137L23.3662 12.665V14.8219H1.25823V12.7549H1.3481Z" fill="#0D0D0D"></path> <path d="M3.32497 3.40847V4.57677C3.32497 4.75651 3.23511 5.02615 3.05537 5.11602C3.05537 5.11602 3.05538 5.20587 3.14525 5.20587C3.23512 5.29574 3.2351 5.3856 3.32497 5.47547C3.32497 5.47547 3.32498 5.4755 3.41485 5.56537C3.50472 5.56537 3.50473 5.6552 3.5946 5.74507C3.77434 5.9248 3.8642 6.10458 3.95407 6.28432C4.04394 6.46406 4.04395 6.73368 4.04395 6.91342V7.00326V7.09311V7.18302V7.27286C4.04395 7.27286 4.04395 7.2729 4.04395 7.36277C4.04395 7.36277 4.04394 7.36274 3.95407 7.45261C3.8642 7.63235 3.68446 7.72225 3.50472 7.81212C3.32498 7.90198 3.14524 7.99181 2.9655 7.99181C2.9655 7.99181 2.96549 7.99181 2.87562 7.99181H2.78577C2.6959 7.99181 2.60602 7.99183 2.51615 7.90196C2.33641 7.81209 2.24654 7.81208 2.15667 7.72221C2.0668 7.63234 1.88707 7.45264 1.88707 7.36277C1.88707 7.2729 1.7972 7.27286 1.7972 7.27286V7.18302C1.70733 7.09315 1.7972 6.91338 1.88707 6.82351C1.97694 6.73364 2.24655 6.64377 2.33642 6.82351C2.33642 6.82351 2.3364 6.82355 2.42627 6.91342C2.42627 6.91342 2.51615 7.00326 2.60602 7.00326C2.69589 7.00326 2.6959 7.09311 2.78577 7.09311H2.9655C3.05537 7.09311 3.05538 7.09313 3.14525 7.00326C3.14525 7.00326 3.14525 7.00329 3.14525 6.91342V6.82351C3.14525 6.82351 3.14524 6.73367 3.05537 6.73367L2.9655 6.64376L2.87562 6.55392L2.78577 6.46407C2.6959 6.3742 2.69589 6.28428 2.60602 6.19441C2.60602 6.10454 2.51615 6.01469 2.51615 5.92482C2.42628 5.83495 2.42627 5.65524 2.42627 5.56537C2.15666 5.4755 1.97692 5.20588 1.97692 4.93627V3.76797C1.97692 3.40849 2.24654 3.13887 2.60602 3.13887H2.87562C3.05536 2.77939 3.32497 3.04899 3.32497 3.40847Z" fill="#0D0D0D"></path> <path d="M28.6687 17.2484C30.0168 17.2484 31.0952 18.3268 31.0952 19.6749C31.0952 21.0229 30.0168 22.1014 28.6687 22.1014C27.3207 22.1014 26.2422 21.0229 26.2422 19.6749C26.2422 18.3268 27.3207 17.2484 28.6687 17.2484Z" fill="#0D0D0D"></path> <path d="M28.6685 16.1699C30.5557 16.1699 32.0835 17.6977 32.0835 19.585C32.0835 21.4722 30.5557 23 28.6685 23C26.7812 23 25.2534 21.4722 25.2534 19.585C25.2534 17.6977 26.7812 16.1699 28.6685 16.1699ZM28.6685 22.1912C30.1064 22.1912 31.2747 21.0229 31.2747 19.585C31.2747 18.147 30.1064 16.9787 28.6685 16.9787C27.2305 16.9787 26.0622 18.147 26.0622 19.585C26.0622 21.0229 27.2305 22.1912 28.6685 22.1912Z" fill="#0D0D0D"></path> <path d="M6.02126 17.2484C7.3693 17.2484 8.44775 18.3268 8.44775 19.6749C8.44775 21.0229 7.3693 22.1014 6.02126 22.1014C4.67321 22.1014 3.59479 21.0229 3.59479 19.6749C3.68466 18.3268 4.76308 17.2484 6.02126 17.2484Z" fill="#0D0D0D"></path> <path d="M6.02097 16.1699C7.90823 16.1699 9.43604 17.6977 9.43604 19.585C9.43604 21.4722 7.90823 23 6.02097 23C4.1337 23 2.60592 21.4722 2.60592 19.585C2.60592 17.6977 4.1337 16.1699 6.02097 16.1699ZM6.02097 22.1912C7.45888 22.1912 8.62721 21.0229 8.62721 19.585C8.62721 18.147 7.45888 16.9787 6.02097 16.9787C4.58305 16.9787 3.41475 18.147 3.41475 19.585C3.41475 21.0229 4.58305 22.1912 6.02097 22.1912Z" fill="#0D0D0D"></path> <path d="M1.07844 15.3611H23.9952V6.73367C23.9952 6.01471 24.6243 5.38562 25.3433 5.38562H31.4545C32.443 5.38562 33.3417 5.92482 33.7012 6.82352L35.4087 10.7778C35.7682 11.6765 36.0378 12.6651 36.0378 13.5638V17.3383H36.3973C36.6669 17.3383 36.9365 17.6079 36.9365 17.8775V19.1357C36.9365 19.4053 36.6669 19.6749 36.3973 19.6749H34.9594H34.2404H32.6228C32.6228 19.585 32.6228 19.5851 32.6228 19.4952C32.6228 17.3383 30.9152 15.6307 28.7584 15.6307C26.6015 15.6307 24.8939 17.3383 24.8939 19.4952C24.8939 19.5851 24.8939 19.585 24.8939 19.6749H9.97557C9.97557 19.585 9.97557 19.5851 9.97557 19.4952C9.97557 17.3383 8.26803 15.6307 6.11116 15.6307C3.95428 15.6307 2.24677 17.3383 2.24677 19.4952C2.24677 19.5851 2.24677 19.585 2.24677 19.6749H1.07844C0.539223 19.6749 1.90735e-05 19.2256 1.90735e-05 18.5965V16.4396C1.90735e-05 15.8105 0.449352 15.3611 1.07844 15.3611ZM26.8711 11.2272C26.8711 11.4968 27.1407 11.7664 27.4103 11.7664H33.6113C33.8809 11.7664 34.1505 11.4069 33.9708 11.1373L32.3532 7.63237C32.0835 7.09315 31.5443 6.64376 30.9152 6.64376H27.4103C27.1407 6.64376 26.8711 6.91341 26.8711 7.18302V11.2272Z" fill="#0D0D0D"></path>
+</svg>
+									<span>О нас</span>
+								</a>
+							</li>
+							<li>
+								<a href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b/">
+									<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0)">
+    <path d="M13 3.80859C11.74 3.80859 10.7148 4.83374 10.7148 6.09375C10.7148 7.35376 11.74 8.37891 13 8.37891C14.26 8.37891 15.2852 7.35376 15.2852 6.09375C15.2852 4.83374 14.26 3.80859 13 3.80859Z" fill="#0D0D0D"/>
+    <path d="M13 0C9.63991 0 6.90625 2.73366 6.90625 6.09375C6.90625 7.24605 7.22978 8.36859 7.84213 9.33998L13 17.5703L18.1579 9.33998C18.7702 8.36859 19.0938 7.24605 19.0938 6.09375C19.0938 2.73366 16.3601 0 13 0ZM13 9.90234C10.9001 9.90234 9.19141 8.19363 9.19141 6.09375C9.19141 3.99387 10.9001 2.28516 13 2.28516C15.0999 2.28516 16.8086 3.99387 16.8086 6.09375C16.8086 8.19363 15.0999 9.90234 13 9.90234Z" fill="#0D0D0D"/>
+    <path d="M9.29297 26H16.7048L16.1191 21.3789H9.86406L9.29297 26Z" fill="#0D0D0D"/>
+    <path d="M10.0542 19.8555H12.6397L10.4821 16.4335L10.0542 19.8555Z" fill="#0D0D0D"/>
+    <path d="M17.4602 19.8555H23.4613L21.557 15.2852H16.874L17.4602 19.8555Z" fill="#0D0D0D"/>
+    <path d="M2.53906 19.8555H8.51935L9.09064 15.2852H4.44336L2.53906 19.8555Z" fill="#0D0D0D"/>
+    <path d="M13.3604 19.8554H15.9236L15.4906 16.4773L13.3604 19.8554Z" fill="#0D0D0D"/>
+    <path d="M8.32872 21.3789H1.9041L0 26H7.75763L8.32872 21.3789Z" fill="#0D0D0D"/>
+    <path d="M24.096 21.3789H17.6553L18.2412 26H26.0001L24.096 21.3789Z" fill="#0D0D0D"/>
+  </g>
+  <defs>
+    <clipPath id="clip0">
+      <rect width="26" height="26" fill="white"/>
+    </clipPath>
+  </defs>
+</svg>
+									<span>Контакты</span>
+								</a>
+							</li>
+							<li class="li-mobile">
+								<a href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/%d0%be-%d0%ba%d0%be%d0%bc%d0%bf%d0%b0%d0%bd%d0%b8%d0%b8/">
+									<span>О компании</span>
+								</a>
+							</li>
+							<li class="li-mobile">
+								<a href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/%d0%b2%d0%b0%d0%ba%d0%b0%d0%bd%d1%81%d0%b8%d0%b8/">
+									<span>Вакансии</span>
+								</a>
+							</li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</header>
+
+<!-- Loader icon -->
+<!-- Loader icon Ends -->
+
+
+  <main class="rework">
+
+    <section class="first-screen">
+
+      <div class="first-screen__top">
+        <img class="img-desk" src="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/files/imgs/first-screen.jpg" alt="">
+        <img class="img-mobile" src="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/files/imgs/first-screen-mobile.jpg" alt="">
+        <div class="container">
+          <div class="row">
+            <div class="col-12 first-screen-titles">
+              <h1 class="first-screen__top-title">Цены</h1>
+<!--
+              <p class="first-screen__top-desc">Шиномонтаж ЮМАКС.</p>
+-->
+<!--              <p class="first-screen__top-desc">Посмотрите на <a href="/цены/">наши цены</a> и приезжайте к нам.</p>
+-->
+            </div>
+          </div>
+        </div>
+      </div>
+
+<div class="catalog-top-form">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				
+				<form onsubmit="ym(67563808,'reachGoal','Запись на шиномонтаж'); return true;">
+					<input type="text" style="display: none" data-send="form-name" value="Форма с главной страницы">
+
+					<div class="f-wrap">
+						<input required type="text" id="name-main" placeholder="Ваше имя" data-send="name">
+						<label class="main-label" for="name-main" id="label-fir">Ваше имя</label>
+					</div>
+
+					<div class="f-wrap">
+						<input required pattern="\d*" type="text" id="phone-main" placeholder="Телефон" data-send="phone">
+						<label class="main-label" for="phone-main" id="label-sec">Ваш телефон</label>
+					</div>
+<!--
+					<div class="f-wrap">
+						<textarea name="textarea" id="text-form" placeholder="Сообщение"></textarea>
+						<label class="main-label" for="phone-main" id="label-thi">Сообщение</label>
+					</div>
+-->
+
+					<div class="f-wrap">
+						<select required="" name="adress" id="adress-main" data-send="adress" required>
+							<option value="">Адрес сервиса</option>
+							<option value="Аустрина 139">ул.Аустрина, 139</option>
+							<option value="Калинина 158">ул.Калинина, 158</option>
+							<option value="Победы 96а">пр. Победы, 96а</option>
+							<option value="Победы 67">пр. Победы, 67</option>
+							<option value="Гагарина 3а">ул. Гагарина, 3а</option>
+							<option value="Гагарина 7а">ул. Гагарина, 7а</option>
+							<option value="Саранская 76">ул. Саранская, 76</option>
+						</select>
+						<label class="main-label" for="adress-main" id="label-thi">Выберите адрес</label>
+					</div>
+
+					<input type="submit" id="submit-main" class="submit-default" value="Запись на шиномонтаж">
+
+					<div class="check-rights">
+						<input required checked class="input-right" type="checkbox" id="rights" name="horns">
+						<label for="rights">Я даю согласие на обработку персональных данных</label>
+					</div>
+
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+
+    </section>
+
+  </main>
+
+
+<div id="maincontainer" class="container-fluid mrt20 mrb20 clearfix"> <!-- start header div 1, will end in footer -->
+  <div class="container"> <!-- start header div 2, will end in footer -->
+    <div class="row"> <!-- start header div 3, will end in footer -->
+      <div class="col-md-12">
+        <div class="breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#"><a href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/" rel="v:url" property="v:title">Главная</a> &raquo; <span class="current">Цены</span></div><!-- .breadcrumbs -->
+
+      </div>
+<!--
+      <a id="call-me" href="#" class="call_me_btn_right"></a>
+-->
+      
+
+<div class="col-md-12">
+	<div class="left-content" >
+			<div class="clearfix post-2266 page type-page status-publish hentry" itemscope itemtype="http://schema.org/CreativeWork">
+			<div class="content-first">
+			
+									<div class="content-second">
+						<h1 class="the-title entry-title" id="post-2266" itemprop="headline">Цены</h1>
+					</div>
+									
+				
+				<div class="content-third" itemprop="text">
+				
+					<div class="entry-content">
+						
+<div class="wp-block-kadence-tabs alignnone"><div class="kt-tabs-wrap kt-tabs-id_f3d755-ee kt-tabs-has-13-tabs kt-active-tab-1 kt-tabs-layout-vtabs kt-tabs-tablet-layout-inherit kt-tabs-mobile-layout-accordion kt-tab-alignment-left kt-create-accordion" style="max-width:none"><ul class="kt-tabs-title-list"><li id="tab-" class="kt-title-item kt-title-item-1 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-active"><a href="#tab-" data-tab="1" class="kt-tab-title kt-tab-title-1 "><span class="kt-title-text">Для легковых автомобилей</span></a></li><li id="tab-" class="kt-title-item kt-title-item-2 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-" data-tab="2" class="kt-tab-title kt-tab-title-2 "><span class="kt-title-text">Для минивенов и паркетников</span></a></li><li id="tab-" class="kt-title-item kt-title-item-3 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-" data-tab="3" class="kt-tab-title kt-tab-title-3 "><span class="kt-title-text">Для внедорожников</span></a></li><li id="tab-" class="kt-title-item kt-title-item-4 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-" data-tab="4" class="kt-tab-title kt-tab-title-4 "><span class="kt-title-text">Для прочих автосредств</span></a></li><li id="tab-" class="kt-title-item kt-title-item-5 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-" data-tab="5" class="kt-tab-title kt-tab-title-5 "><span class="kt-title-text">Ремонтные шиномонтажные работы</span></a></li><li id="tab-" class="kt-title-item kt-title-item-6 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-" data-tab="6" class="kt-tab-title kt-tab-title-6 "><span class="kt-title-text">Съём и установка + подкачка колеса</span></a></li><li id="tab-" class="kt-title-item kt-title-item-7 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-" data-tab="7" class="kt-tab-title kt-tab-title-7 "><span class="kt-title-text">Мойка колёс</span></a></li><li id="tab-" class="kt-title-item kt-title-item-8 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-" data-tab="8" class="kt-tab-title kt-tab-title-8 "><span class="kt-title-text">Прокатка дисков</span></a></li><li id="tab-" class="kt-title-item kt-title-item-9 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-" data-tab="9" class="kt-tab-title kt-tab-title-9 "><span class="kt-title-text">Дополнительные услуги</span></a></li><li id="tab-" class="kt-title-item kt-title-item-10 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-" data-tab="10" class="kt-tab-title kt-tab-title-10 "><span class="kt-title-text">Сезонное хранение шин</span></a></li><li id="tab-" class="kt-title-item kt-title-item-11 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-" data-tab="11" class="kt-tab-title kt-tab-title-11 "><span class="kt-title-text">Кондиционирование и озонирование</span></a></li><li id="tab-" class="kt-title-item kt-title-item-12 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-" data-tab="12" class="kt-tab-title kt-tab-title-12 "><span class="kt-title-text">Покраска дисков</span></a></li><li id="tab-" class="kt-title-item kt-title-item-13 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-" data-tab="13" class="kt-tab-title kt-tab-title-13 "><span class="kt-title-text">Примечание к прейскуранту</span></a></li></ul><div class="kt-tabs-content-wrap">
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-1 kt-inner-tab_2eed3c-5f"><div class="kt-tab-inner-content-inner">
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p><strong>R13</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>190</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>230</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>50</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>180</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>190</span>+<span class='umaks-cena2 umaks-math'>230</span>+<span class='umaks-cena2 umaks-math'>50</span>+<span class='umaks-cena2 umaks-math'>180</span>)</strong></span> руб.</strong></p>
+</div>
+
+
+
+<div class="wp-block-column">
+<p><strong>R14</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>220</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>260</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>50</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>220</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>220</span>+<span class='umaks-cena2 umaks-math'>260</span>+<span class='umaks-cena2 umaks-math'>50</span>+<span class='umaks-cena2 umaks-math'>220</span>)</strong></span> руб.</strong></p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p><strong>R15</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>230</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>280</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>50</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>240</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>230</span>+<span class='umaks-cena2 umaks-math'>280</span>+<span class='umaks-cena2 umaks-math'>50</span>+<span class='umaks-cena2 umaks-math'>240</span>)</strong></span> руб.</strong></p>
+</div>
+
+
+
+<div class="wp-block-column">
+<p><strong>R16</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>255</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>360</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>60</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>250</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>255</span>+<span class='umaks-cena2 umaks-math'>360</span>+<span class='umaks-cena2 umaks-math'>60</span>+<span class='umaks-cena2 umaks-math'>250</span>)</strong></span> руб.</strong></p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p><strong>R17</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>300</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>370</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>70</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>260</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>300</span>+<span class='umaks-cena2 umaks-math'>370</span>+<span class='umaks-cena2 umaks-math'>70</span>+<span class='umaks-cena2 umaks-math'>260</span>)</strong></span> руб.</strong></p>
+</div>
+
+
+
+<div class="wp-block-column">
+<p><strong>R18</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>315</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>390</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>80</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>290</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>315</span>+<span class='umaks-cena2 umaks-math'>390</span>+<span class='umaks-cena2 umaks-math'>80</span>+<span class='umaks-cena2 umaks-math'>290</span>)</strong></span> руб.</strong></p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p><strong>R19</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>330</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>450</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>85</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>310</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>330</span>+<span class='umaks-cena2 umaks-math'>450</span>+<span class='umaks-cena2 umaks-math'>85</span>+<span class='umaks-cena2 umaks-math'>310</span>)</strong></span> руб.</strong></p>
+</div>
+
+
+
+<div class="wp-block-column">
+<p><strong>R20</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>350</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>485</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>85</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>330</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>350</span>+<span class='umaks-cena2 umaks-math'>485</span>+<span class='umaks-cena2 umaks-math'>85</span>+<span class='umaks-cena2 umaks-math'>330</span>)</strong></span> руб.</strong></p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p><strong>R21</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>460</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>540</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>100</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>400</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>460</span>+<span class='umaks-cena2 umaks-math'>540</span>+<span class='umaks-cena2 umaks-math'>100</span>+<span class='umaks-cena2 umaks-math'>400</span>)</strong></span> руб.</strong></p>
+</div>
+
+
+
+<div class="wp-block-column">
+<p><strong>R22</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>520</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>640</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>100</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>490</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>520</span>+<span class='umaks-cena2 umaks-math'>640</span>+<span class='umaks-cena2 umaks-math'>100</span>+<span class='umaks-cena2 umaks-math'>490</span>)</strong></span> руб.</strong></p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p><strong>R23 и более</strong></p>
+
+
+
+<p>Звоните по телефону <a href="tel:+78412999988">+7 (8412) 99-99-88</a> и записывайтесь на шиномонтаж.</p>
+</div>
+
+
+
+<div class="wp-block-column"></div>
+</div>
+
+
+
+<p><strong>Балансировка с применением переходника (PEUGEOT, CITROEN) &#8212; <span class='umaks-cena2 umaks-math'>1200</span> руб.</strong></p>
+
+
+
+<p><strong>Высокоточная балансировка с применением переходника HAWEK &#8212; <span class='umaks-cena2 umaks-math'>100</span> руб./шт.</strong></p>
+
+
+
+<p><strong>Шиномонтаж/демонтаж шин RUN FLAT &#8212; плюс <strong><span class='umaks-cena2 umaks-math'>200</span></strong> руб./шт.</strong></p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-2 kt-inner-tab_41e727-0e"><div class="kt-tab-inner-content-inner">
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p><strong>R15</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>240</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>340</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>60</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>260</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>240</span>+<span class='umaks-cena2 umaks-math'>340</span>+<span class='umaks-cena2 umaks-math'>60</span>+<span class='umaks-cena2 umaks-math'>260</span>)</strong></span> руб.</strong></p>
+</div>
+
+
+
+<div class="wp-block-column">
+<p><strong>R16</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>290</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>360</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>60</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>290</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>290</span>+<span class='umaks-cena2 umaks-math'>360</span>+<span class='umaks-cena2 umaks-math'>60</span>+<span class='umaks-cena2 umaks-math'>290</span>)</strong></span> руб.</strong></p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p><strong>R17</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>310</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>370</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>80</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>290</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>310</span>+<span class='umaks-cena2 umaks-math'>370</span>+<span class='umaks-cena2 umaks-math'>80</span>+<span class='umaks-cena2 umaks-math'>290</span>)</strong></span> руб.</strong></p>
+</div>
+
+
+
+<div class="wp-block-column">
+<p><strong>R18</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>355</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>440</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>80</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>300</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>355</span>+<span class='umaks-cena2 umaks-math'>440</span>+<span class='umaks-cena2 umaks-math'>80</span>+<span class='umaks-cena2 umaks-math'>300</span>)</strong></span> руб.</strong></p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p><strong>R19</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>360</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>480</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>100</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>310</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>360</span>+<span class='umaks-cena2 umaks-math'>480</span>+<span class='umaks-cena2 umaks-math'>100</span>+<span class='umaks-cena2 umaks-math'>310</span>)</strong></span> руб.</strong></p>
+</div>
+
+
+
+<div class="wp-block-column">
+<p><strong>R20</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>370</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>500</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>100</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>330</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>370</span>+<span class='umaks-cena2 umaks-math'>500</span>+<span class='umaks-cena2 umaks-math'>100</span>+<span class='umaks-cena2 umaks-math'>330</span>)</strong></span> руб.</strong></p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p><strong>R21</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>390</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>630</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>100</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>380</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>390</span>+<span class='umaks-cena2 umaks-math'>630</span>+<span class='umaks-cena2 umaks-math'>100</span>+<span class='umaks-cena2 umaks-math'>380</span>)</strong></span> руб.</strong></p>
+</div>
+
+
+
+<div class="wp-block-column">
+<p><strong>R22</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>500</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>700</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>100</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>450</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>500</span>+<span class='umaks-cena2 umaks-math'>700</span>+<span class='umaks-cena2 umaks-math'>100</span>+<span class='umaks-cena2 umaks-math'>450</span>)</strong></span> руб.</strong></p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p><strong>R23 и более</strong></p>
+
+
+
+<p>Звоните по телефону <a href="tel:+78412999988">+7 (8412) 99-99-88</a> и записывайтесь на шиномонтаж.</p>
+</div>
+
+
+
+<div class="wp-block-column"></div>
+</div>
+
+
+
+<p><strong>Балансировка с применением переходника (PEUGEOT, CITROEN) &#8212; 1200 руб.</strong></p>
+
+
+
+<p><strong>Балансировка с применением переходника HAWEK &#8212; 200 руб.</strong></p>
+
+
+
+<p><strong>Шиномонтаж/демонтаж шин RUN FLAT &#8212; плюс 150 руб./шт.</strong></p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-3 kt-inner-tab_23cd10-eb"><div class="kt-tab-inner-content-inner">
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p><strong>R15</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>280</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>360</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>70</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>290</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>280</span>+<span class='umaks-cena2 umaks-math'>360</span>+<span class='umaks-cena2 umaks-math'>70</span>+<span class='umaks-cena2 umaks-math'>290</span>)</strong></span> руб.</strong></p>
+</div>
+
+
+
+<div class="wp-block-column">
+<p><strong>R16</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>290</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>370</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>80</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>310</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>290</span>+<span class='umaks-cena2 umaks-math'>370</span>+<span class='umaks-cena2 umaks-math'>80</span>+<span class='umaks-cena2 umaks-math'>310</span>)</strong></span> руб.</strong></p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p><strong>R17</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>320</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>445</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>80</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>330</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>320</span>+<span class='umaks-cena2 umaks-math'>445</span>+<span class='umaks-cena2 umaks-math'>80</span>+<span class='umaks-cena2 umaks-math'>330</span>)</strong></span> руб.</strong></p>
+</div>
+
+
+
+<div class="wp-block-column">
+<p><strong>R18</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>360</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>500</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>100</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>340</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>360</span>+<span class='umaks-cena2 umaks-math'>500</span>+<span class='umaks-cena2 umaks-math'>100</span>+<span class='umaks-cena2 umaks-math'>340</span>)</strong></span> руб.</strong></p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p><strong>R19</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>390</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>545</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>110</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>380</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>390</span>+<span class='umaks-cena2 umaks-math'>545</span>+<span class='umaks-cena2 umaks-math'>110</span>+<span class='umaks-cena2 umaks-math'>380</span>)</strong></span> руб.</strong></p>
+</div>
+
+
+
+<div class="wp-block-column">
+<p><strong>R20</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>440</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>635</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>120</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>480</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>440</span>+<span class='umaks-cena2 umaks-math'>635</span>+<span class='umaks-cena2 umaks-math'>120</span>+<span class='umaks-cena2 umaks-math'>480</span>)</strong></span> руб.</strong></p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p><strong>R21</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>470</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>695</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>120</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>540</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>470</span>+<span class='umaks-cena2 umaks-math'>695</span>+<span class='umaks-cena2 umaks-math'>120</span>+<span class='umaks-cena2 umaks-math'>540</span>)</strong></span> руб.</strong></p>
+</div>
+
+
+
+<div class="wp-block-column">
+<p><strong>R22</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>530</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>710</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>140</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>570</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>530</span>+<span class='umaks-cena2 umaks-math'>710</span>+<span class='umaks-cena2 umaks-math'>140</span>+<span class='umaks-cena2 umaks-math'>570</span>)</strong></span> руб.</strong></p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p><strong>R23</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>560</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>765</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>140</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>610</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>560</span>+<span class='umaks-cena2 umaks-math'>765</span>+<span class='umaks-cena2 umaks-math'>140</span>+<span class='umaks-cena2 umaks-math'>610</span>)</strong></span> руб.</strong></p>
+</div>
+
+
+
+<div class="wp-block-column">
+<p><strong>R24</strong></p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>590</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>870</span> руб.</p>
+
+
+
+<p>Мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>150</span> руб.</p>
+
+
+
+<p>Снятие и установка а/к с а/м: <span class='umaks-cena2 umaks-math'>640</span> руб.</p>
+
+
+
+<p><strong>Всего: <span class='umaks-math'><strong>4*(<span class='umaks-cena2 umaks-math'>590</span>+<span class='umaks-cena2 umaks-math'>870</span>+<span class='umaks-cena2 umaks-math'>150</span>+<span class='umaks-cena2 umaks-math'>640</span>)</strong></span> руб.</strong></p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p><strong>R25 и более</strong></p>
+
+
+
+<p>Звоните по телефону <a href="tel:+78412999988">+7 (8412) 99-99-88</a> и записывайтесь на шиномонтаж.</p>
+</div>
+
+
+
+<div class="wp-block-column"></div>
+</div>
+
+
+
+<p><strong>Балансировка с применением переходника (PEUGEOT, CITROEN) &#8212; 1200 руб.</strong></p>
+
+
+
+<p><strong>Балансировка с применением переходника HAWEK &#8212; 200 руб.</strong></p>
+
+
+
+<p><strong>Шиномонтаж/демонтаж шин RUN FLAT &#8212; плюс 150 руб./шт.</strong></p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-4 kt-inner-tab_746a4a-91"><div class="kt-tab-inner-content-inner">
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p><strong>Газель</strong></p>
+
+
+
+<p>Снятие и установка колеса:</p>
+
+
+
+<ul><li>Переднее: <span class='umaks-cena2 umaks-math'>500</span> руб.</li><li>Заднее: <span class='umaks-cena2 umaks-math'>600</span> руб.</li></ul>
+
+
+
+<p>Техническая мойка (обязательно): <span class='umaks-cena2 umaks-math'>100</span> руб.</p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>300</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>350</span> руб.</p>
+</div>
+
+
+
+<div class="wp-block-column">
+<p><strong>Мотоциклы и квадроциклы</strong></p>
+
+
+
+<p>Снятие и установка колеса:</p>
+
+
+
+<ul><li>Переднее: <span class='umaks-cena2 umaks-math'>250</span> руб.</li><li>Заднее: <span class='umaks-cena2 umaks-math'>250</span> руб.</li></ul>
+
+
+
+<p>Техническая мойка колеса (обязательно): <span class='umaks-cena2 umaks-math'>100</span> руб.</p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>400</span> руб.</p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>800</span> руб.</p>
+
+
+
+<p>Монтаж/демонтаж шин: <span class='umaks-cena2 umaks-math'>100</span> руб.</p>
+
+
+
+<p>Балансировка (с грузами): <span class='umaks-cena2 umaks-math'>500</span> руб.</p>
+</div>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-5 kt-inner-tab_81d0ee-f2"><div class="kt-tab-inner-content-inner">
+<figure class="wp-block-table is-style-stripes"><table><thead><tr><th>Размер</th><th class="has-text-align-center" data-align="center">Ремонт кордовым пластырем (руб.)</th><th class="has-text-align-center" data-align="center">С вулканизацией (без пластыря) (руб.)</th><th class="has-text-align-center" data-align="center">Вулканизация без варки (руб.)</th></tr></thead><tbody><tr><td>R12</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>800</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>800</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>200</span></td></tr><tr><td>R13</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>800</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>800</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>200</span></td></tr><tr><td>R14</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>800</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>800</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>200</span></td></tr><tr><td>R15</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>1000</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>1000</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>200</span></td></tr><tr><td>R16</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>1200</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>1300</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>200</span></td></tr><tr><td>R17</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>1500</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>1400</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>200</span></td></tr><tr><td>R18</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>1600</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>1400</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>200</span></td></tr><tr><td>R19</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>1700</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>1900</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>200</span></td></tr><tr><td>R20</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>1900</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>2500</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>200</span></td></tr><tr><td>R21</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>2000</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>3100</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>200</span></td></tr><tr><td>R22</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>2300</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>3800</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>200</span></td></tr><tr><td>R23</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>2700</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>4300</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>200</span></td></tr><tr><td>R24</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>3200</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>4800</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>200</span></td></tr><tr><td></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td></tr></tbody></table></figure>
+
+
+
+<figure class="wp-block-table is-style-stripes"><table><thead><tr><th>Работа</th><th>Цена (руб.)</th></tr></thead><tbody><tr><td>Ремонт бескамерной шины жгутом (временный ремонт без гарантии)</td><td>от <span class='umaks-cena2 umaks-math'>400</span> (на машине <span class='umaks-cena2 umaks-math'>500</span>)</td></tr><tr><td>Ремонт бескамерной шины заплаткой (гарантия 1 месяц)</td><td>от <span class='umaks-cena2 umaks-math'>500</span></td></tr><tr><td>Ремонт бескамерной шины грибком (гарантия 3 месяца)</td><td>от <span class='umaks-cena2 umaks-math'>750</span></td></tr><tr><td>Ремонт камеры</td><td>от <span class='umaks-cena2 umaks-math'>300</span></td></tr></tbody></table></figure>
+
+
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-6 kt-inner-tab_338f75-0b"><div class="kt-tab-inner-content-inner">
+<figure class="wp-block-table is-style-stripes"><table class="has-fixed-layout"><thead><tr><th>Размер</th><th class="has-text-align-center" data-align="center">Легковой</th><th class="has-text-align-center" data-align="center">Паркетник</th><th class="has-text-align-center" data-align="center">Внедорожник</th></tr></thead><tbody><tr><td>R12</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>300</span> руб.</td><td class="has-text-align-center" data-align="center">&#8212;</td><td class="has-text-align-center" data-align="center">&#8212;</td></tr><tr><td>R13</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>300</span> руб.</td><td class="has-text-align-center" data-align="center">&#8212;</td><td class="has-text-align-center" data-align="center">&#8212;</td></tr><tr><td>R14</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>300</span> руб.</td><td class="has-text-align-center" data-align="center">&#8212;</td><td class="has-text-align-center" data-align="center">&#8212;</td></tr><tr><td>R15</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>300</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>400</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>500</span> руб.</td></tr><tr><td>R16</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>300</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>400</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>500</span> руб.</td></tr><tr><td>R17</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>300</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>400</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>500</span> руб.</td></tr><tr><td>R18</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>350</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>400</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>500</span> руб.</td></tr><tr><td>R19</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>350</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>450</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>500</span> руб.</td></tr><tr><td>R20</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>400</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>450</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>550</span> руб.</td></tr><tr><td>R21</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>400</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>450</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>600</span> руб.</td></tr><tr><td>R22 и более</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>400</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>450</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>700</span> руб.</td></tr></tbody></table></figure>
+
+
+
+<p>Колёсные болты и гайки обязательно затягиваются усилием 120Hm &#8212; это рекомендуемое для затягивания усилие, установленное ГОСТом для а/м.</p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-7 kt-inner-tab_04d5ef-2e"><div class="kt-tab-inner-content-inner">
+<figure class="wp-block-table is-style-stripes"><table class="has-fixed-layout"><thead><tr><th>Размер</th><th class="has-text-align-center" data-align="center">Легковой</th><th class="has-text-align-center" data-align="center">Паркетник</th><th class="has-text-align-center" data-align="center">Внедорожник</th></tr></thead><tbody><tr><td>R12</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>70</span> руб.</td><td class="has-text-align-center" data-align="center">&#8212;</td><td class="has-text-align-center" data-align="center">&#8212;</td></tr><tr><td>R13</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>70</span> руб.</td><td class="has-text-align-center" data-align="center">&#8212;</td><td class="has-text-align-center" data-align="center">&#8212;</td></tr><tr><td>R14</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>70</span> руб.</td><td class="has-text-align-center" data-align="center">&#8212;</td><td class="has-text-align-center" data-align="center">&#8212;</td></tr><tr><td>R15</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>70</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>80</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>110</span> руб.</td></tr><tr><td>R16</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>80</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>80</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>110</span> руб.</td></tr><tr><td>R17</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>80</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>100</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>110</span> руб.</td></tr><tr><td>R18</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>90</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>100</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>120</span> руб.</td></tr><tr><td>R19</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>90</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>110</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>120</span> руб.</td></tr><tr><td>R20</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>100</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>110</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>130</span> руб.</td></tr><tr><td>R21</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>100</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>120</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>130</span> руб.</td></tr><tr><td>R22 и более</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>100</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>120</span> руб.</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>150</span> руб.</td></tr></tbody></table></figure>
+
+
+
+<p class="has-text-align-center"><strong>Техническая мойка &#8212; обязательная!</strong></p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-8 kt-inner-tab_701924-7e"><div class="kt-tab-inner-content-inner">
+<figure class="wp-block-table is-style-stripes"><table class="has-fixed-layout"><thead><tr><th>Размер</th><th class="has-text-align-center" data-align="center">Прокатка штампованных дисков (руб.)</th><th class="has-text-align-center" data-align="center">Прокатка литых дисков (руб.)</th><th class="has-text-align-center" data-align="center">Прокатка мотоциклетных дисков (руб.)</th></tr></thead><tbody><tr><td>R12</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>400</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>1200</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>1000</span></td></tr><tr><td>R13</td><td class="has-text-align-center" data-align="center"> <span class='umaks-cena2 umaks-math'>500</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>1200</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>1100</span></td></tr><tr><td>R14</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>600</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>1300</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>1200</span></td></tr><tr><td>R15</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>700</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>1500</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>1300</span></td></tr><tr><td>R16</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>850</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>1800</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>1600</span></td></tr><tr><td>R17</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>1000</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>2300</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>2000</span></td></tr><tr><td>R18</td><td class="has-text-align-center" data-align="center">&#8212;</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>2500</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>2200</span></td></tr><tr><td>R19</td><td class="has-text-align-center" data-align="center">&#8212;</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>3300</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>2800</span></td></tr><tr><td>R22</td><td class="has-text-align-center" data-align="center">&#8212;</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>4000</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>3100</span></td></tr><tr><td>R22</td><td class="has-text-align-center" data-align="center">&#8212;</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>4500</span></td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>4100</span></td></tr><tr><td>R22</td><td class="has-text-align-center" data-align="center">&#8212;</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>5500</span></td><td class="has-text-align-center" data-align="center">&#8212;</td></tr><tr><td>R23</td><td class="has-text-align-center" data-align="center">&#8212;</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>6000</span></td><td class="has-text-align-center" data-align="center">&#8212;</td></tr><tr><td>R24 и более</td><td class="has-text-align-center" data-align="center">&#8212;</td><td class="has-text-align-center" data-align="center"><span class='umaks-cena2 umaks-math'>7000</span></td><td class="has-text-align-center" data-align="center">&#8212;</td></tr></tbody></table></figure>
+
+
+
+<p>Устранение &#171;восьмёрки&#187; на диске от <span class='umaks-cena2 umaks-math'>1000</span> руб.</p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-9 kt-inner-tab_2d9120-70"><div class="kt-tab-inner-content-inner">
+<figure class="wp-block-table is-style-stripes price-table-modern"><table><thead><tr><th>Услуга</th><th>Цена</th></tr></thead><tbody><tr><td>Вентиль с установкой</td><td>90 руб./шт.</td></tr><tr><td>Вентиль хромированный с установкой</td><td>90 руб./шт.</td></tr><tr><td>Установка вентиля с датчиком</td><td>от 200 руб./шт.</td></tr><tr><td>Снятие вентиля с датчиком</td><td>от 200 руб./шт.</td></tr><tr><td>Обработка ступицы медной смазкой</td><td>85 руб./шт.</td></tr><tr><td>Промазка диска герметиком (гарантия 1 месяц)</td><td>200 руб./диск</td></tr><tr><td>Доплата за шиномонтаж усиленного корда / низкопрофильной резины</td><td>200 руб./колесо</td></tr><tr><td>Восстановление резьбовых соединений</td><td>от 200 руб.</td></tr><tr><td>Чистка диска от битума</td><td>от 300 руб./диск</td></tr><tr><td>Установка ремонтного шипа</td><td>20 руб./шт.</td></tr><tr><td>Упаковка колёс в пакеты</td><td>65 руб./шт.</td></tr><tr><td>Демонтаж гайки/болта с повреждёнными гранями</td><td>от 1000 руб./шт.</td></tr><tr><td>Демонтаж секретки</td><td>от 1500 руб./шт.</td></tr><tr><td>Грязевые тюнинговые колёса</td><td>250 руб./шт.</td></tr><tr><td>Мойка колпаков</td><td>от 300 руб./комплект</td></tr><tr><td>Аренда домкрата</td><td>200 руб. за одно колесо</td></tr><tr><td>Оптимизация резины относительно диска</td><td>200 руб./шт.</td></tr><tr><td>Подкачка колеса</td><td>25 руб./шт.</td></tr><tr><td>Пропись датчика давления (1 шт.)</td><td>500 руб.</td></tr><tr><td>Пропись датчика давления (4 шт.)</td><td>1500 руб.</td></tr><tr><td>Подтяжка болтов и гаек динамометрическим ключом</td><td>50 руб./шт.</td></tr><tr><td>Протяжка болтов</td><td>50 руб. за одно колесо</td></tr><tr><td>Хранение покрышки или диска</td><td>50 руб./шт. в сутки</td></tr><tr><td>Сварка аргоном (одна сторона / две стороны)</td><td>600 / 1200 руб./см.<br><em>(мин. заказ 2000 руб.)</em></td></tr><tr><td>Утилизация покрышки или диска</td><td>100 руб./шт.</td></tr><tr><td>Удаление скотча с диска</td><td>от 50 руб./шт.</td></tr><tr><td>Взрывная накачка шин бустером</td><td>150 руб./шт.</td></tr><tr><td>Монтаж камеры (+ к шиномонтажу)</td><td>50 руб.</td></tr><tr><td>Демонтаж камеры (+ к шиномонтажу)</td><td>50 руб.</td></tr><tr><td>Ремонт бескамерной шины жгутом (временный, без гарантии)</td><td>400 руб. (на машине 500 руб.)</td></tr><tr><td>Ремонт бескамерной шины заплаткой (гарантия 1 мес.)</td><td>от 500 руб.</td></tr><tr><td>Ремонт бескамерной шины грибком (гарантия 3 мес.)</td><td>от 750 руб.</td></tr><tr><td>Ремонт камеры</td><td>от 300 руб.</td></tr><tr><td>Чистка диска или резины (посадочное место)</td><td>150 руб./диск</td></tr></tbody></table></figure>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-10 kt-inner-tab_4bbd8d-8f"><div class="kt-tab-inner-content-inner">
+<p>Срок сезонного хранения &#8212; 6 месяцев.</p>
+
+
+
+<p>Хранение покрышки или диска &#8212; <span class='umaks-cena2 umaks-math'>100</span> руб./сутки (за 1 шт.)</p>
+
+
+
+<p>Утилизация покрышки или диска &#8212; <span class='umaks-cena2 umaks-math'>100</span> руб. (за 1 шт.)</p>
+
+
+
+<figure class="wp-block-table is-style-stripes"><table class="has-fixed-layout"><thead><tr><th>Размер</th><th>Цена</th></tr></thead><tbody><tr><td>R13</td><td><span class='umaks-cena2 umaks-math'>2100</span> руб.</td></tr><tr><td>R14</td><td><span class='umaks-cena2 umaks-math'>2100</span> руб.</td></tr><tr><td>R15</td><td><span class='umaks-cena2 umaks-math'>2200</span> руб.</td></tr><tr><td>R16</td><td><span class='umaks-cena2 umaks-math'>2300</span> руб.</td></tr><tr><td>R17</td><td><span class='umaks-cena2 umaks-math'>2500</span> руб.</td></tr><tr><td>R18</td><td><span class='umaks-cena2 umaks-math'>3100</span> руб.</td></tr><tr><td>R19</td><td><span class='umaks-cena2 umaks-math'>3900</span> руб.</td></tr><tr><td>R20</td><td><span class='umaks-cena2 umaks-math'>4900</span> руб.</td></tr><tr><td>R21</td><td><span class='umaks-cena2 umaks-math'>5500</span> руб.</td></tr><tr><td>R22</td><td><span class='umaks-cena2 umaks-math'>6500</span> руб.</td></tr><tr><td>R23</td><td><span class='umaks-cena2 umaks-math'>7500</span> руб.</td></tr><tr><td>R24</td><td><span class='umaks-cena2 umaks-math'>10000</span> руб.</td></tr><tr><td>Газель (6 колёс)</td><td><span class='umaks-cena2 umaks-math'>6500</span> руб.</td></tr></tbody></table></figure>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-11 kt-inner-tab_96a5a7-32"><div class="kt-tab-inner-content-inner">
+<p class="has-text-align-center"><strong>Заправка кондиционеров: создайте особый комфорт в салоне!</strong></p>
+
+
+
+<p class="has-text-align-center">Визуальный осмотр и консультация &#8212; БЕСПЛАТНО.</p>
+
+
+
+<figure class="wp-block-table is-style-stripes"><table><thead><tr><th>Услуга</th><th class="has-text-align-center" data-align="center">Цена (руб.)</th></tr></thead><tbody><tr><td>Диагностика авто-кондиционерной станцией</td><td class="has-text-align-center" data-align="center">0</td></tr><tr><td>Откачать-закачать фреон (500г) с добавлением масла (20г) с красителем (обязательно)</td><td class="has-text-align-center" data-align="center">3000</td></tr><tr><td>Фреон 100г</td><td class="has-text-align-center" data-align="center">300</td></tr><tr><td>Фреон 50г</td><td class="has-text-align-center" data-align="center">150</td></tr><tr><td>Добавление масла с красителем (20г)</td><td class="has-text-align-center" data-align="center">400</td></tr><tr><td>Поиск неисправности</td><td class="has-text-align-center" data-align="center">500</td></tr><tr><td>Поиск утечки фреона</td><td class="has-text-align-center" data-align="center">500</td></tr><tr><td>Опрессовка азотом</td><td class="has-text-align-center" data-align="center">600</td></tr><tr><td>Замена уплотнительного кольца</td><td class="has-text-align-center" data-align="center">650</td></tr><tr><td>Замена ниппеля сервисного порта</td><td class="has-text-align-center" data-align="center">400</td></tr><tr><td>Колпачок на сервисный порт</td><td class="has-text-align-center" data-align="center">300</td></tr><tr><td>Продувка радиатора (удаление шубы)</td><td class="has-text-align-center" data-align="center">300</td></tr><tr><td>Слесарные работы (1 н/ч &#8212; 1400 руб.)</td><td class="has-text-align-center" data-align="center">от 300</td></tr><tr><td>Сварка аргоном трубок кондиционера</td><td class="has-text-align-center" data-align="center">от 800</td></tr><tr><td>Озонирование ozonbox (устранение неприятных запахов в салоне автомобиля)</td><td class="has-text-align-center" data-align="center">1000</td></tr></tbody></table></figure>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-12 kt-inner-tab_c0582a-bd"><div class="kt-tab-inner-content-inner">
+<figure class="wp-block-table is-style-stripes table-R"><table><thead><tr><th>Работа</th><th class="has-text-align-center" data-align="center">R13</th><th class="has-text-align-center" data-align="center">R14</th><th class="has-text-align-center" data-align="center">R15</th><th class="has-text-align-center" data-align="center">R16</th><th class="has-text-align-center" data-align="center">R17</th><th class="has-text-align-center" data-align="center">R18</th><th class="has-text-align-center" data-align="center">R19</th><th class="has-text-align-center" data-align="center">R20</th><th class="has-text-align-center" data-align="center">R21</th><th class="has-text-align-center" data-align="center">R22</th><th class="has-text-align-center" data-align="center">R23 и болле</th></tr></thead><tbody><tr><td>Бюджетная покраска одного штампованного диска</td><td class="has-text-align-center" data-align="center">1200</td><td class="has-text-align-center" data-align="center">1300</td><td class="has-text-align-center" data-align="center">1400</td><td class="has-text-align-center" data-align="center">1500</td><td class="has-text-align-center" data-align="center">1600</td><td class="has-text-align-center" data-align="center">1700</td><td class="has-text-align-center" data-align="center">1800</td><td class="has-text-align-center" data-align="center">1900</td><td class="has-text-align-center" data-align="center">2000</td><td class="has-text-align-center" data-align="center">2100</td><td class="has-text-align-center" data-align="center">2200</td></tr><tr><td>Бюджетная покраска одного литого или кованого диска</td><td class="has-text-align-center" data-align="center">1800</td><td class="has-text-align-center" data-align="center">1800</td><td class="has-text-align-center" data-align="center">1800</td><td class="has-text-align-center" data-align="center">1800</td><td class="has-text-align-center" data-align="center">1800</td><td class="has-text-align-center" data-align="center">1800</td><td class="has-text-align-center" data-align="center">1800</td><td class="has-text-align-center" data-align="center">1800</td><td class="has-text-align-center" data-align="center">1800</td><td class="has-text-align-center" data-align="center">1800</td><td class="has-text-align-center" data-align="center">1800</td></tr><tr><td>Премиальная покраска без лака одного диска</td><td class="has-text-align-center" data-align="center">150</td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td></tr><tr><td>Премиальная покраска с лаком одного диска</td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td></tr><tr><td>Евро покраска с лаком одного диска</td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td></tr><tr><td>Премиальная покраска в бриметалл одного диска</td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td></tr><tr><td>Премиальная покраска &#171;алмазная грань&#187; одного диска</td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td></tr><tr><td>Проточка одного диска</td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td></tr><tr><td>Евро покраска с лаком одного мотоциклетного диска</td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td></tr><tr><td></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td><td class="has-text-align-center" data-align="center"></td></tr></tbody></table></figure>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p><strong>R13</strong></p>
+
+
+
+<p>Бюджетная покраска одного штампованного диска: <span class='umaks-cena2 umaks-math'>5990/4</span> руб.</p>
+
+
+
+<p>Бюджетная покраска одного литого или кованого диска: <span class='umaks-cena2 umaks-math'>5600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска без лака одного диска: <span class='umaks-cena2 umaks-math'>8500/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>10600/4</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>11600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска в бриметалл одного диска: <span class='umaks-cena2 umaks-math'>13600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска &#171;алмазная грань&#187; одного диска: <span class='umaks-cena2 umaks-math'>20300/4</span> руб.</p>
+
+
+
+<p>Проточка одного диска: <span class='umaks-cena2 umaks-math'>1500</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного мотоциклетного диска: <span class='umaks-cena2 umaks-math'>3600</span> руб.</p>
+</div>
+
+
+
+<div class="wp-block-column">
+<p><strong>R14</strong></p>
+
+
+
+<p>Бюджетная покраска одного штампованого диска: <span class='umaks-cena2 umaks-math'>5990/4</span> руб.</p>
+
+
+
+<p>Бюджетная покраска одного литого или кованого диска: <span class='umaks-cena2 umaks-math'>5600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска без лака одного диска: <span class='umaks-cena2 umaks-math'>8500/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>10600/4</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>11600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска в бриметалл одного диска: <span class='umaks-cena2 umaks-math'>13600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска &#171;алмазная грань&#187; одного диска: <span class='umaks-cena2 umaks-math'>20300/4</span> руб.</p>
+
+
+
+<p>Проточка одного диска: <span class='umaks-cena2 umaks-math'>1500</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного мотоциклетного диска: <span class='umaks-cena2 umaks-math'>3600</span> руб.</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column"></div>
+
+
+
+<div class="wp-block-column"></div>
+</div>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column"></div>
+
+
+
+<div class="wp-block-column"></div>
+</div>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column"></div>
+
+
+
+<div class="wp-block-column"></div>
+</div>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column"></div>
+
+
+
+<div class="wp-block-column"></div>
+</div>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column"></div>
+
+
+
+<div class="wp-block-column"></div>
+</div>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column"></div>
+
+
+
+<div class="wp-block-column"></div>
+</div>
+
+
+
+<div class="wp-block-kadence-tabs alignnone mt-3"><div class="kt-tabs-wrap kt-tabs-id_4a9e1c-91 kt-tabs-has-11-tabs kt-active-tab-1 kt-tabs-layout-tabs kt-tabs-tablet-layout-vtabs kt-tabs-mobile-layout-accordion kt-tab-alignment-left kt-create-accordion" style="max-width:none"><ul class="kt-tabs-title-list"><li id="tab-r13" class="kt-title-item kt-title-item-1 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-active"><a href="#tab-r13" data-tab="1" class="kt-tab-title kt-tab-title-1 "><span class="kt-title-text">R13</span></a></li><li id="tab-r14" class="kt-title-item kt-title-item-2 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-r14" data-tab="2" class="kt-tab-title kt-tab-title-2 "><span class="kt-title-text">R14</span></a></li><li id="tab-r15" class="kt-title-item kt-title-item-3 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-r15" data-tab="3" class="kt-tab-title kt-tab-title-3 "><span class="kt-title-text">R15</span></a></li><li id="tab-r16" class="kt-title-item kt-title-item-4 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-r16" data-tab="4" class="kt-tab-title kt-tab-title-4 "><span class="kt-title-text">R16</span></a></li><li id="tab-r17" class="kt-title-item kt-title-item-5 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-r17" data-tab="5" class="kt-tab-title kt-tab-title-5 "><span class="kt-title-text">R17</span></a></li><li id="tab-r18" class="kt-title-item kt-title-item-6 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-r18" data-tab="6" class="kt-tab-title kt-tab-title-6 "><span class="kt-title-text">R18</span></a></li><li id="tab-r19" class="kt-title-item kt-title-item-7 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-r19" data-tab="7" class="kt-tab-title kt-tab-title-7 "><span class="kt-title-text">R19</span></a></li><li id="tab-r20" class="kt-title-item kt-title-item-8 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-r20" data-tab="8" class="kt-tab-title kt-tab-title-8 "><span class="kt-title-text">R20</span></a></li><li id="tab-r21" class="kt-title-item kt-title-item-9 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-r21" data-tab="9" class="kt-tab-title kt-tab-title-9 "><span class="kt-title-text">R21</span></a></li><li id="tab-r22" class="kt-title-item kt-title-item-10 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-r22" data-tab="10" class="kt-tab-title kt-tab-title-10 "><span class="kt-title-text">R22</span></a></li><li id="tab-r23" class="kt-title-item kt-title-item-11 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-r23" data-tab="11" class="kt-tab-title kt-tab-title-11 "><span class="kt-title-text">R23 и более</span></a></li></ul><div class="kt-tabs-content-wrap">
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-1 kt-inner-tab_2846b8-8d"><div class="kt-tab-inner-content-inner">
+<p>Бюджетная покраска одного штампованного диска: <span class='umaks-cena2 umaks-math'>5990/4</span> руб.</p>
+
+
+
+<p>Бюджетная покраска одного литого или кованого диска: <span class='umaks-cena2 umaks-math'>5600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска без лака одного диска: <span class='umaks-cena2 umaks-math'>8500/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>10600/4</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>11600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска в бриметалл одного диска: <span class='umaks-cena2 umaks-math'>13600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска &#171;алмазная грань&#187; одного диска: <span class='umaks-cena2 umaks-math'>20300/4</span> руб.</p>
+
+
+
+<p>Проточка одного диска: <span class='umaks-cena2 umaks-math'>1500</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного мотоциклетного диска: <span class='umaks-cena2 umaks-math'>3600</span> руб.</p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-2 kt-inner-tab_2163dd-bb"><div class="kt-tab-inner-content-inner">
+<p>Бюджетная покраска одного штампованого диска: <span class='umaks-cena2 umaks-math'>5990/4</span> руб.</p>
+
+
+
+<p>Бюджетная покраска одного литого или кованого диска: <span class='umaks-cena2 umaks-math'>5600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска без лака одного диска: <span class='umaks-cena2 umaks-math'>8500/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>10600/4</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>11600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска в бриметалл одного диска: <span class='umaks-cena2 umaks-math'>13600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска &#171;алмазная грань&#187; одного диска: <span class='umaks-cena2 umaks-math'>20300/4</span> руб.</p>
+
+
+
+<p>Проточка одного диска: <span class='umaks-cena2 umaks-math'>1500</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного мотоциклетного диска: <span class='umaks-cena2 umaks-math'>3600</span> руб.</p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-3 kt-inner-tab_8c406f-6b"><div class="kt-tab-inner-content-inner">
+<p>Бюджетная покраска одного штампованого диска: <span class='umaks-cena2 umaks-math'>6800/4</span> руб.</p>
+
+
+
+<p>Бюджетная покраска одного литого или кованого диска: <span class='umaks-cena2 umaks-math'>5990/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска без лака одного диска: <span class='umaks-cena2 umaks-math'>10200/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>12300/4</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>13600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска в бриметалл одного диска: <span class='umaks-cena2 umaks-math'>15600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска &#171;алмазная грань&#187; одного диска: <span class='umaks-cena2 umaks-math'>22300/4</span> руб.</p>
+
+
+
+<p>Проточка одного диска: <span class='umaks-cena2 umaks-math'>1500</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного мотоциклетного диска: <span class='umaks-cena2 umaks-math'>4100</span> руб.</p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-4 kt-inner-tab_f696ae-6e"><div class="kt-tab-inner-content-inner">
+<p>Бюджетная покраска одного штампованого диска: <span class='umaks-cena2 umaks-math'>7200/4</span> руб.</p>
+
+
+
+<p>Бюджетная покраска одного литого или кованого диска: <span class='umaks-cena2 umaks-math'>6700/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска без лака одного диска: <span class='umaks-cena2 umaks-math'>10200/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>12300/4</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>13600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска в бриметалл одного диска: <span class='umaks-cena2 umaks-math'>15600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска &#171;алмазная грань&#187; одного диска: <span class='umaks-cena2 umaks-math'>22300/4</span> руб.</p>
+
+
+
+<p>Проточка одного диска: <span class='umaks-cena2 umaks-math'>1500</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного мотоциклетного диска: <span class='umaks-cena2 umaks-math'>4100</span> руб.</p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-5 kt-inner-tab_a60f4e-33"><div class="kt-tab-inner-content-inner">
+<p>Бюджетная покраска одного штампованого диска: <span class='umaks-cena2 umaks-math'>8600/4</span> руб.</p>
+
+
+
+<p>Бюджетная покраска одного литого или кованого диска: <span class='umaks-cena2 umaks-math'>7800/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска без лака одного диска: <span class='umaks-cena2 umaks-math'>12100/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>15200/4</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>16700/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска в бриметалл одного диска: <span class='umaks-cena2 umaks-math'>18600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска &#171;алмазная грань&#187; одного диска: <span class='umaks-cena2 umaks-math'>27100/4</span> руб.</p>
+
+
+
+<p>Проточка одного диска: <span class='umaks-cena2 umaks-math'>1500</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного мотоциклетного диска: <span class='umaks-cena2 umaks-math'>5000</span> руб.</p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-6 kt-inner-tab_ccdc9f-33"><div class="kt-tab-inner-content-inner">
+<p>Бюджетная покраска одного штампованого диска: <span class='umaks-cena2 umaks-math'>9700/4</span> руб.</p>
+
+
+
+<p>Бюджетная покраска одного литого или кованого диска: <span class='umaks-cena2 umaks-math'>8990/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска без лака одного диска: <span class='umaks-cena2 umaks-math'>13000/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>16100/4</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>18500/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска в бриметалл одного диска: <span class='umaks-cena2 umaks-math'>20800/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска &#171;алмазная грань&#187; одного диска: <span class='umaks-cena2 umaks-math'>30900/4</span> руб.</p>
+
+
+
+<p>Проточка одного диска: <span class='umaks-cena2 umaks-math'>2000</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного мотоциклетного диска: <span class='umaks-cena2 umaks-math'>5500</span> руб.</p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-7 kt-inner-tab_2c4eb6-0e"><div class="kt-tab-inner-content-inner">
+<p>Бюджетная покраска одного штампованого диска: <span class='umaks-cena2 umaks-math'>10990/4</span> руб.</p>
+
+
+
+<p>Бюджетная покраска одного литого или кованого диска: <span class='umaks-cena2 umaks-math'>10900/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска без лака одного диска: <span class='umaks-cena2 umaks-math'>14600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>17700/4</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>19800/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска в бриметалл одного диска: <span class='umaks-cena2 umaks-math'>22800/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска &#171;алмазная грань&#187; одного диска: <span class='umaks-cena2 umaks-math'>32300/4</span> руб.</p>
+
+
+
+<p>Проточка одного диска: <span class='umaks-cena2 umaks-math'>2000</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного мотоциклетного диска: <span class='umaks-cena2 umaks-math'>5800</span> руб.</p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-8 kt-inner-tab_b32c96-9b"><div class="kt-tab-inner-content-inner">
+<p>Премиальная покраска без лака одного диска: <span class='umaks-cena2 umaks-math'>16200/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>19300/4</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>22200/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска в бриметалл одного диска: <span class='umaks-cena2 umaks-math'>24700/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска &#171;алмазная грань&#187; одного диска: <span class='umaks-cena2 umaks-math'>34600/4</span> руб.</p>
+
+
+
+<p>Проточка одного диска: <span class='umaks-cena2 umaks-math'>2000</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного мотоциклетного диска: <span class='umaks-cena2 umaks-math'>6500</span> руб.</p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-9 kt-inner-tab_9bf9cf-7a"><div class="kt-tab-inner-content-inner">
+<p>Премиальная покраска без лака одного диска: <span class='umaks-cena2 umaks-math'>17800/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>20900/4</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>23600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска в бриметалл одного диска: <span class='umaks-cena2 umaks-math'>26500/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска &#171;алмазная грань&#187; одного диска: <span class='umaks-cena2 umaks-math'>36000/4</span> руб.</p>
+
+
+
+<p>Проточка одного диска: <span class='umaks-cena2 umaks-math'>2000</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного мотоциклетного диска: <span class='umaks-cena2 umaks-math'>6900</span> руб.</p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-10 kt-inner-tab_73fa0c-09"><div class="kt-tab-inner-content-inner">
+<p>Премиальная покраска без лака одного диска: <span class='umaks-cena2 umaks-math'>19500/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>22600/4</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>25200/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска в бриметалл одного диска: <span class='umaks-cena2 umaks-math'>28300/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска &#171;алмазная грань&#187; одного диска: <span class='umaks-cena2 umaks-math'>37600/4</span> руб.</p>
+
+
+
+<p>Проточка одного диска: <span class='umaks-cena2 umaks-math'>2000</span> руб.</p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-11 kt-inner-tab_f18841-40"><div class="kt-tab-inner-content-inner">
+<p class="has-text-align-center">Звоните нам по телефону <a href="tel:+78412999901">+7 (8412) 99-99-01</a> и записывайтесь на покраску дисков.</p>
+</div></div>
+</div></div></div>
+
+
+
+<div class="wp-block-kadence-tabs alignnone mt-3"><div class="kt-tabs-wrap kt-tabs-id_3f7d67-63 kt-tabs-has-11-tabs kt-active-tab-1 kt-tabs-layout-vtabs kt-tabs-tablet-layout-vtabs kt-tabs-mobile-layout-accordion kt-tab-alignment-left kt-create-accordion" style="max-width:none"><ul class="kt-tabs-title-list"><li id="tab-r13" class="kt-title-item kt-title-item-1 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-active"><a href="#tab-r13" data-tab="1" class="kt-tab-title kt-tab-title-1 "><span class="kt-title-text">R13</span></a></li><li id="tab-r14" class="kt-title-item kt-title-item-2 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-r14" data-tab="2" class="kt-tab-title kt-tab-title-2 "><span class="kt-title-text">R14</span></a></li><li id="tab-r15" class="kt-title-item kt-title-item-3 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-r15" data-tab="3" class="kt-tab-title kt-tab-title-3 "><span class="kt-title-text">R15</span></a></li><li id="tab-r16" class="kt-title-item kt-title-item-4 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-r16" data-tab="4" class="kt-tab-title kt-tab-title-4 "><span class="kt-title-text">R16</span></a></li><li id="tab-r17" class="kt-title-item kt-title-item-5 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-r17" data-tab="5" class="kt-tab-title kt-tab-title-5 "><span class="kt-title-text">R17</span></a></li><li id="tab-r18" class="kt-title-item kt-title-item-6 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-r18" data-tab="6" class="kt-tab-title kt-tab-title-6 "><span class="kt-title-text">R18</span></a></li><li id="tab-r19" class="kt-title-item kt-title-item-7 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-r19" data-tab="7" class="kt-tab-title kt-tab-title-7 "><span class="kt-title-text">R19</span></a></li><li id="tab-r20" class="kt-title-item kt-title-item-8 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-r20" data-tab="8" class="kt-tab-title kt-tab-title-8 "><span class="kt-title-text">R20</span></a></li><li id="tab-r21" class="kt-title-item kt-title-item-9 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-r21" data-tab="9" class="kt-tab-title kt-tab-title-9 "><span class="kt-title-text">R21</span></a></li><li id="tab-r22" class="kt-title-item kt-title-item-10 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-r22" data-tab="10" class="kt-tab-title kt-tab-title-10 "><span class="kt-title-text">R22</span></a></li><li id="tab-r23" class="kt-title-item kt-title-item-11 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-r23" data-tab="11" class="kt-tab-title kt-tab-title-11 "><span class="kt-title-text">R23 и более</span></a></li></ul><div class="kt-tabs-content-wrap">
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-1 kt-inner-tab_0734d1-d9"><div class="kt-tab-inner-content-inner">
+<p>Бюджетная покраска одного штампованного диска: <span class='umaks-cena2 umaks-math'>5990/4</span> руб.</p>
+
+
+
+<p>Бюджетная покраска одного литого или кованого диска: <span class='umaks-cena2 umaks-math'>5600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска без лака одного диска: <span class='umaks-cena2 umaks-math'>8500/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>10600/4</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>11600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска в бриметалл одного диска: <span class='umaks-cena2 umaks-math'>13600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска &#171;алмазная грань&#187; одного диска: <span class='umaks-cena2 umaks-math'>20300/4</span> руб.</p>
+
+
+
+<p>Проточка одного диска: <span class='umaks-cena2 umaks-math'>1500</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного мотоциклетного диска: <span class='umaks-cena2 umaks-math'>3600</span> руб.</p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-2 kt-inner-tab_400498-74"><div class="kt-tab-inner-content-inner">
+<p>Бюджетная покраска одного штампованого диска: <span class='umaks-cena2 umaks-math'>5990/4</span> руб.</p>
+
+
+
+<p>Бюджетная покраска одного литого или кованого диска: <span class='umaks-cena2 umaks-math'>5600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска без лака одного диска: <span class='umaks-cena2 umaks-math'>8500/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>10600/4</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>11600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска в бриметалл одного диска: <span class='umaks-cena2 umaks-math'>13600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска &#171;алмазная грань&#187; одного диска: <span class='umaks-cena2 umaks-math'>20300/4</span> руб.</p>
+
+
+
+<p>Проточка одного диска: <span class='umaks-cena2 umaks-math'>1500</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного мотоциклетного диска: <span class='umaks-cena2 umaks-math'>3600</span> руб.</p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-3 kt-inner-tab_298406-77"><div class="kt-tab-inner-content-inner">
+<p>Бюджетная покраска одного штампованого диска: <span class='umaks-cena2 umaks-math'>6800/4</span> руб.</p>
+
+
+
+<p>Бюджетная покраска одного литого или кованого диска: <span class='umaks-cena2 umaks-math'>5990/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска без лака одного диска: <span class='umaks-cena2 umaks-math'>10200/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>12300/4</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>13600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска в бриметалл одного диска: <span class='umaks-cena2 umaks-math'>15600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска &#171;алмазная грань&#187; одного диска: <span class='umaks-cena2 umaks-math'>22300/4</span> руб.</p>
+
+
+
+<p>Проточка одного диска: <span class='umaks-cena2 umaks-math'>1500</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного мотоциклетного диска: <span class='umaks-cena2 umaks-math'>4100</span> руб.</p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-4 kt-inner-tab_bb3952-3a"><div class="kt-tab-inner-content-inner">
+<p>Бюджетная покраска одного штампованого диска: <span class='umaks-cena2 umaks-math'>7200/4</span> руб.</p>
+
+
+
+<p>Бюджетная покраска одного литого или кованого диска: <span class='umaks-cena2 umaks-math'>6700/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска без лака одного диска: <span class='umaks-cena2 umaks-math'>10200/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>12300/4</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>13600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска в бриметалл одного диска: <span class='umaks-cena2 umaks-math'>15600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска &#171;алмазная грань&#187; одного диска: <span class='umaks-cena2 umaks-math'>22300/4</span> руб.</p>
+
+
+
+<p>Проточка одного диска: <span class='umaks-cena2 umaks-math'>1500</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного мотоциклетного диска: <span class='umaks-cena2 umaks-math'>4100</span> руб.</p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-5 kt-inner-tab_f65b3a-7d"><div class="kt-tab-inner-content-inner">
+<p>Бюджетная покраска одного штампованого диска: <span class='umaks-cena2 umaks-math'>8600/4</span> руб.</p>
+
+
+
+<p>Бюджетная покраска одного литого или кованого диска: <span class='umaks-cena2 umaks-math'>7800/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска без лака одного диска: <span class='umaks-cena2 umaks-math'>12100/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>15200/4</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>16700/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска в бриметалл одного диска: <span class='umaks-cena2 umaks-math'>18600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска &#171;алмазная грань&#187; одного диска: <span class='umaks-cena2 umaks-math'>27100/4</span> руб.</p>
+
+
+
+<p>Проточка одного диска: <span class='umaks-cena2 umaks-math'>1500</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного мотоциклетного диска: <span class='umaks-cena2 umaks-math'>5000</span> руб.</p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-6 kt-inner-tab_7abd6b-53"><div class="kt-tab-inner-content-inner">
+<p>Бюджетная покраска одного штампованого диска: <span class='umaks-cena2 umaks-math'>9700/4</span> руб.</p>
+
+
+
+<p>Бюджетная покраска одного литого или кованого диска: <span class='umaks-cena2 umaks-math'>8990/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска без лака одного диска: <span class='umaks-cena2 umaks-math'>13000/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>16100/4</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>18500/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска в бриметалл одного диска: <span class='umaks-cena2 umaks-math'>20800/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска &#171;алмазная грань&#187; одного диска: <span class='umaks-cena2 umaks-math'>30900/4</span> руб.</p>
+
+
+
+<p>Проточка одного диска: <span class='umaks-cena2 umaks-math'>2000</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного мотоциклетного диска: <span class='umaks-cena2 umaks-math'>5500</span> руб.</p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-7 kt-inner-tab_51fe0a-62"><div class="kt-tab-inner-content-inner">
+<p>Бюджетная покраска одного штампованого диска: <span class='umaks-cena2 umaks-math'>10990/4</span> руб.</p>
+
+
+
+<p>Бюджетная покраска одного литого или кованого диска: <span class='umaks-cena2 umaks-math'>10900/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска без лака одного диска: <span class='umaks-cena2 umaks-math'>14600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>17700/4</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>19800/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска в бриметалл одного диска: <span class='umaks-cena2 umaks-math'>22800/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска &#171;алмазная грань&#187; одного диска: <span class='umaks-cena2 umaks-math'>32300/4</span> руб.</p>
+
+
+
+<p>Проточка одного диска: <span class='umaks-cena2 umaks-math'>2000</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного мотоциклетного диска: <span class='umaks-cena2 umaks-math'>5800</span> руб.</p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-8 kt-inner-tab_a1d305-4a"><div class="kt-tab-inner-content-inner">
+<p>Премиальная покраска без лака одного диска: <span class='umaks-cena2 umaks-math'>16200/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>19300/4</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>22200/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска в бриметалл одного диска: <span class='umaks-cena2 umaks-math'>24700/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска &#171;алмазная грань&#187; одного диска: <span class='umaks-cena2 umaks-math'>34600/4</span> руб.</p>
+
+
+
+<p>Проточка одного диска: <span class='umaks-cena2 umaks-math'>2000</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного мотоциклетного диска: <span class='umaks-cena2 umaks-math'>6500</span> руб.</p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-9 kt-inner-tab_b85efe-dc"><div class="kt-tab-inner-content-inner">
+<p>Премиальная покраска без лака одного диска: <span class='umaks-cena2 umaks-math'>17800/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>20900/4</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>23600/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска в бриметалл одного диска: <span class='umaks-cena2 umaks-math'>26500/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска &#171;алмазная грань&#187; одного диска: <span class='umaks-cena2 umaks-math'>36000/4</span> руб.</p>
+
+
+
+<p>Проточка одного диска: <span class='umaks-cena2 umaks-math'>2000</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного мотоциклетного диска: <span class='umaks-cena2 umaks-math'>6900</span> руб.</p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-10 kt-inner-tab_06ae9d-40"><div class="kt-tab-inner-content-inner">
+<p>Премиальная покраска без лака одного диска: <span class='umaks-cena2 umaks-math'>19500/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>22600/4</span> руб.</p>
+
+
+
+<p>Евро покраска с лаком одного диска: <span class='umaks-cena2 umaks-math'>25200/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска в бриметалл одного диска: <span class='umaks-cena2 umaks-math'>28300/4</span> руб.</p>
+
+
+
+<p>Премиальная покраска &#171;алмазная грань&#187; одного диска: <span class='umaks-cena2 umaks-math'>37600/4</span> руб.</p>
+
+
+
+<p>Проточка одного диска: <span class='umaks-cena2 umaks-math'>2000</span> руб.</p>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-11 kt-inner-tab_4cf07b-d6"><div class="kt-tab-inner-content-inner">
+<p class="has-text-align-center">Звоните нам по телефону <a href="tel:+78412999901">+7 (8412) 99-99-01</a> и записывайтесь на покраску дисков.</p>
+</div></div>
+</div></div></div>
+
+
+
+<p>Примечание:</p>
+
+
+
+<ul><li>Бюджетная покраска дисков &#8212; пескоструй, порошковый грунт, порошковая краска. 1 год гарантии. Цвет на выбор: серебро (темное,металлик), графит (металлик), бронза (металлик), чёрный (матовый), чёрный (глянцевый), белый (глянцевый).</li><li>Премиальная покраска дисков &#8212; пескоструй, порошковый грунт, порошковая краска (любой цвет кроме бриметалла и кенди), 1 год гарантии.</li></ul>
+</div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-13 kt-inner-tab_fdce10-24"><div class="kt-tab-inner-content-inner">
+<ol><li><strong>На стоимость ремонта влияет</strong>:<br>а) технология ремонта;<br>б) используемый материал;<br>в) характер повреждения (место пореза, ширина, локальность).</li><li><strong>При подъеме автомобиля на домкрат</strong> (подъёмник) исполнитель не несёт ответственности за замятие порогов, днища и т.д. под тяжестью собственного веса машины по причине ветхости жестянки. Домкрат (подъёмник) устанавливается в специально предназначенные для этого заводом-изготовителем «под домкратные» места.</li><li><strong>Исполнитель не несет ответственности&nbsp;</strong>в случае срыва болта или гайки! Колёсные болты и гайки затягиваются усилием 120 Нм – это рекомендуемое для затягивания усилие, установленное ГОСТом для а/м.</li><li>Если по какой-нибудь причине Вы не приезжаете за своими, оставленными у нас колёсами, <strong>в течение 30 суток, то по истечению этого срока</strong>, шиномонтажный рабочий вправе распорядиться ими по своему усмотрению. Данное колесо, покрышка, диск <strong>переходят в собственность шиномонтажа</strong>!</li><li><strong>В случае поломки инструмента</strong> при откручивании болта или гайки, затянутых с превышением норм затяжки свыше 120 Нм,&nbsp;ответственность за сломанный инструмент несёт клиент!</li><li>Без переходника <strong>HAWEKA </strong>шиномонтаж за балансировку литых дисков ответственности не несёт!</li><li><strong>Во избежание недоразумений, уточняйте стоимость до начала производимых работ!</strong></li></ol>
+
+
+
+<p class="has-text-align-center" id="важно"><strong>Уважаемые клиенты, доводим до Вашего сведения, что шиномонтаж ЮМАКС не несёт отвественность за сорванные крепёжные элементы во время откручивания и закручивания (гайки, шпильки, секретки), так как данные элементы являются расходными материалами <em>не имеющими регламентированный срок эксплуатаци</em>, и подлежат периодической замене.</strong></p>
+</div></div>
+</div></div></div>
+					</div>
+					
+										
+				</div>
+				
+			</div>
+		</div>
+		
+		 
+		
+		
+	</div>
+</div>
+
+
+		</div> <!-- end header div 3 -->
+	</div> <!-- end header div 2 -->
+</div> <!-- end header div 1 -->
+
+
+  <footer class="footer rework" style="filter: none;">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-3 col-md-4 footer-column">
+        <a class="footer-desctop-img" href="/"><img src="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/files/imgs/logo3-white.svg" alt=""></a>
+        <a class="footer-mobile-logo" href="/"><img src="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/files/imgs/logo3-white.svg" alt=""></a>
+      </div>
+      <div class="col-lg-2 footer-column no-cont"></div>
+      <div class="col-6 col-lg-3 col-md-4 footer-column gradient">
+        <ul class="footer-menu">
+          <li><a href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/%d1%83%d1%81%d0%bb%d1%83%d0%b3%d0%b8/">Услуги</a></li>
+          <li><a href="/цены">Цены</a></li>
+          <li><a href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/%d0%b0%d0%ba%d1%86%d0%b8%d0%b8-%d0%b8-%d1%81%d0%ba%d0%b8%d0%b4%d0%ba%d0%b8/">Акции и скидки</a></li>
+        </ul>
+      </div>
+      <div class="col-6 col-lg-2 col-md-4 footer-column">
+        <ul class="footer-menu">
+          <li><a href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b/">Контакты</a></li>
+          <li><a href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/%d0%be-%d0%ba%d0%be%d0%bc%d0%bf%d0%b0%d0%bd%d0%b8%d0%b8/">О компании</a></li>
+          <li><a href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/%d0%b2%d0%b0%d0%ba%d0%b0%d0%bd%d1%81%d0%b8%d0%b8/">Вакансии</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-2 footer-column col-md-12 last-col">
+        <div class="footer-social">
+          <span class="footer-social__letter">Письмо директору</span>
+          <div class="footer-social__box">
+<!--            <a href="#"><img src="--><!--/files/imgs/i-insta.png" alt=""></a>-->
+<!--            <a href="#"><img src="--><!--/files/imgs/i-vk.png" alt=""></a>-->
+          </div>
+        </div>
+      </div>
+      <div class="col-12 copyrights mb-3">Оставляя свои личные данные, Вы принимаете
+        <a href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/%d0%bf%d0%be%d0%bb%d0%b8%d1%82%d0%b8%d0%ba%d0%b0-%d0%ba%d0%be%d0%bd%d1%84%d0%b8%d0%b4%d0%b5%d0%bd%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d1%81%d1%82%d0%b8/">Соглашение о конфиденциальности</a></div>
+    </div>
+  </div>
+
+  <div class="ours-adress">
+    <div class="ours-adress__back"></div>
+    <div class="ours-adress__box">
+      <div class="madress__exit"></div>
+      <div class="map-wrap">
+        <div id="map" style="width: 100%; height: 100%;"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal-out">
+    <div class="modal-out__back"></div>
+    <div class="modal-out__box">
+      <div class="modal-out__box-exit"></div>
+      <div class="modal-out__box-title">Заявка отправлена!</div>
+      <div class="modal-out__box-subtitle">Менеджер свяжется с Вами в ближайшее время</div>
+    </div>
+  </div>
+
+  <div class="dir-form">
+    <div class="dir-form__back"></div>
+    <div class="dir-form__box">
+      <div class="dir-form__box-exit"></div>
+      <div class="dir-form__box-title">Письмо директору</div>
+      <form onsubmit="ym(67563808,'reachGoal','написать директору'); return true;">
+
+        <input type="text" style="display: none" data-send="form-name" value="Написать директору">
+<!--
+        <div class="f-wrap">
+            <select required name="adress" id="adress-main" data-send="adress">
+              <option value="">Выберите директора автотехцентра</option>
+              <option value="Победы 96а">Директору автотехцентра ЮМАКС на пр. Победы, 96а</option>
+              <option value="Калинина 158">Директору автотехцентра на ул. Калинина</option>
+              <option value="Горная 3а">Директору шинного центра ЮМАКС на ул. Горная</option>
+            </select>
+            <label class="main-label" for="adress-main" id="label-thi">Выберите директора</label>
+        </div>
+-->
+        <div class="f-wrap">
+          <input required type="text" id="name-dir" placeholder="Ваше имя" data-send="name">
+          <label class="main-label" for="name-dir" id="label-fir-dir">Ваше имя</label>
+        </div>
+
+        <div class="f-wrap">
+          <input required pattern="\d*" type="text" id="phone-dir" placeholder="Телефон" data-send="phone">
+          <label class="main-label" for="phone-dir" id="label-sec-dir">Ваш телефон</label>
+        </div>
+
+        <div class="f-wrap f-wrap-text">
+          <textarea name="dir-text" id="dir-text" placeholder="Сообщение" data-send="text"></textarea>
+        </div>
+
+        <input type="submit" id="submit-dir" class="submit-default" value="Отправить" style="background-position: 70% center;">
+
+        <div class="check-rights">
+          <input required checked class="input-right" type="checkbox" id="rights-dir" name="horns">
+          <label for="rights-dir">Я даю согласие на обработку персональных данных</label>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  </footer>
+
+  <a id="back-to-top" href="#"><span class="fa fa-chevron-up"></span></a>
+
+
+<!--temp to footer-->
+
+<link rel="stylesheet" href="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/assets/icofont/icofont.min.css"/>
+<a href="tel:+78412999901" class="call-me-baby animated flash" data-gorod="penza"> <i class="icofont-phone d-inline-block align-items-center"></i></a>
+
+<script type='text/javascript' id='getwid-blocks-frontend-js-js-extra'>
+/* <![CDATA[ */
+var Getwid = {"settings":[],"ajax_url":"https:\/\/xn----7sbbyikmeibjb7av7f7d.xn--p1ai\/wp-admin\/admin-ajax.php","isRTL":"","nonces":{"recaptcha_v2_contact_form":"0d7cebdb27"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/getwid/assets/js/frontend.blocks.js?ver=1.8.2' id='getwid-blocks-frontend-js-js'></script>
+<script type='text/javascript' src='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/xn----7sbbyikmeibjb7av7f7d.xn--p1ai\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.4' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/js/bootstrap.js?ver=3.3.6' id='bootstrap-js'></script>
+<script type='text/javascript' src='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/js/script.js?ver=1.1.1' id='business-press-script-js'></script>
+<script type='text/javascript' id='mainjs-js-extra'>
+/* <![CDATA[ */
+var ajax_params = {"ajax_url":"https:\/\/xn----7sbbyikmeibjb7av7f7d.xn--p1ai\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/main.js' id='mainjs-js'></script>
+<script type='text/javascript' src='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/js/stickyheader.js?ver=1.1.1' id='business-press-stickyheader-js'></script>
+<script type='text/javascript' src='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/js/backtotop.js?ver=1.1.1' id='business-press-backtotop-js'></script>
+<script type='text/javascript' src='https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/plugins/kadence-blocks/dist/kt-tabs-min.js?ver=2.4.21' id='kadence-blocks-tabs-js-js'></script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(92087660, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/92087660" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(91312100, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/91312100" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179940405-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-179940405-2');
+</script>
+
+
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "2884072", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="//top-fwz1.mail.ru/counter?id=2884072;js=na" style="border:0;position:absolute;left:-9999px;" alt="" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+
+<script src="//api-maps.yandex.ru/2.0.29/?load=package.full&lang=ru-RU" type="text/javascript"></script>
+<script type="text/javascript">
+ymaps.ready(init_maps);
+
+function init_maps() {
+    map_ids = ["map", "map-xolod", "map-pokraska"];
+    map_ids.forEach((map_id) => {
+        console.log(map_id);
+        map_element = document.getElementById(map_id);
+        if (map_element != null)
+        {
+            init(map_element);
+        }
+    });
+}
+
+function init(map_element) {
+    // Создание экземпляра карты.
+
+    var myMap = new ymaps.Map(map_element, {
+        //center: [53.1951, 45.0083],
+        center: [53.190873, 44.962295],
+        zoom: 11
+    }),
+    // Эту группу добавим на карту.
+    visible = new ymaps.GeoObjectCollection(),
+    // Упорядоченные коллекции с геообъектами.
+    group1 = new ymaps.GeoObjectArray({
+        properties: {
+            id: 'group-1',
+            name: 'контакты'
+        }
+    }, {
+        iconLayout: 'default#image', iconImageHref: "/umaks.png", iconImageSize: [94, 42], iconImageOffset: [-76, -42],
+    });
+
+
+    myMap.behaviors.enable('scrollZoom');
+
+
+    //     Наполняем группы геообъектами.
+    //console.log('+++++++++++++++++++++++++++++++++++');
+    // Переезд 29-12-2021    group1.add(new ymaps.Placemark([53.211247, 44.984300], { id: 'group-1-1', balloonContent: 'г. Пенза, ул. Карпинского, 2<br>График работы 7:00-00:00<br><a href="tel:+78412427695">+7 (8412) 42-76-95</a><br><a href="tel:+78412489217">+7 (8412) 48-92-17</a>' }));
+    group1.add(new ymaps.Placemark([53.1577, 44.9900], { id: 'калинина-158', balloonContent: 'г. Пенза, ул. Калинина, 158<br>График работы 8:00-21:00<br><a href="tel:+78412290290">+7 (8412) 29-02-90</a><br><a href="tel:+78412999901">+7 (8412) 99-99-01</a>' }));
+    group1.add(new ymaps.Placemark([53.2260, 44.9468], { id: 'победы-96а', balloonContent: 'г. Пенза, Пр. Победы, 96а<br>График работы 8:00-22:00<br><a href="tel:+78412207401">+7 (8412) 207-401</a><br><a href="tel:+78412999901">+7 (8412) 99-99-01</a>' }));
+    group1.add(new ymaps.Placemark([53.2252, 44.9559], { id: 'победы-67', balloonContent: 'г. Пенза, Пр. Победы, 67<br>График работы 8:00-22:00<br><a href="tel:+78412444818">+7 (8412) 444-818</a><br><a href="tel:+78412999901">+7 (8412) 99-99-01</a>' }));
+    group1.add(new ymaps.Placemark([53.2174, 44.9994], { id: 'гагарина-3а', balloonContent: 'г. Пенза, ул. Гагарина, 3а<br>График работы 8:00–22:00<br><a href="tel:+79273816452">+7 (927) 381-64-52</a><br><a href="tel:+78412999901">+7 (8412) 99-99-01</a>' }));
+    // Убрано по просьбе Дарьи        group1.add(new ymaps.Placemark([53.2294, 45.0224], { id: 'group-1-6', balloonContent: 'г. Пенза, ул. Литвинова, 20а<br>График работы<br>Пн–Пт 8:00–17:00<br>Сб–Вс 8:00–15:00<br><a href="tel:+78412427695">+7 (8412) 42-76-95</a><br><a href="tel:+78412489217">+7 (8412) 48-92-17</a>' }));
+    group1.add(new ymaps.Placemark([53.220629, 45.000282], { id: 'гагарина-7а', balloonContent: 'г. Пенза, ул. Гагарина, 7а<br>График работы 8:00–21:00<br><a href="tel:+78412308803">+7 (8412) 30-88-03</a><br><a href="tel:+78412999901">+7 (8412) 99-99-01</a>' }));
+    //group1.add(new ymaps.Placemark([53.2237, 44.9240], { id: 'group-1-7', balloonContent: 'г. Пенза, Проспект Строителей 21а/2<br>График работы 8:00–22:00<br><a href="tel:+78412728844">+7 (8412) 72-88-44</a>' }));
+    group1.add(new ymaps.Placemark([53.245208, 45.015519], { id: 'аустрина-139', balloonContent: 'г. Пенза, Аустрина, 139<br>График работы 8:00–21:00<br><a href="tel:+78412728844">+7 (8412) 72-88-44</a><br><a href="tel:+78412999901">+7 (8412) 99-99-01</a>' }));
+    //console.log('-----------------------------------');
+
+    if (map_element.id == "map")
+    {
+      group1.add(new ymaps.Placemark([53.2250, 45.0180], { id: 'саранская-76', balloonContent: 'г. Пенза, ул. Саранская, 76<br>График работы 8:00-20:00<br><a href="tel:+79276495099">+7 (927) 649-50-99</a><br><a href="tel:+78412999901">+7 (8412) 99-99-01</a>' }))
+    }
+
+
+    // Добавляем все группы в одну коллекцию.
+    visible
+    .add(group1);
+
+    // Добавляем все группы на карту.
+    myMap.geoObjects.add(visible);
+
+    // Выставляем масштаб карты чтобы были видны все группы.
+    //    myMap.setBounds(visible.getBounds());
+
+    // Обрабатываем клики на пунктах меню.
+    jQuery('.nav-header').on('click', function (e) {
+        // Скрываем/отображаем пункты меню данной группы.
+        jQuery(this)
+        .nextUntil('.nav-header')
+        .removeClass('active')
+        .slideToggle('fast');
+
+        // Скрываем/отображаем коллекцию на карте.
+        groupToggle(this.id);
+    });
+
+    // Обрабатываем клики на пунктах меню эелементов группы.
+    jQuery('.addresses .addresses-box__link, .map-popup').on('click', function () {
+        // Отменяем основное поведение (переход по ссылке)
+        // e.preventDefault();
+
+        // jQuery('.ours-adress').slideToggle(500);
+
+        // jQuery(this)
+        // .toggleClass('active')
+        // .siblings('.active')
+        // .removeClass('active');
+
+        itemToggle(this.id);
+    });
+
+    // Ищем нужную группу и добавляем/удаляем ее с карты.
+    function groupToggle(id) {
+        // Все группы лежат внутри одной коллекции, которую мы получили из YMapsML.
+        var it, group;
+
+        // Сначала ищем в видимой на карте коллекции.
+        it = visible.getIterator();
+        while(group = it.getNext()) {
+            if(group.properties.get('id') === id) {
+                hidden.add(group);
+                return;
+            }
+        }
+
+        // Если мы сюда попали, значит коллекция уже удалена и надо искать в удаленных.
+        it = hidden.getIterator();
+        while(group = it.getNext()) {
+            if(group.properties.get('id') === id) {
+                visible.add(group);
+                return;
+            }
+        }
+    }
+
+    // Ищем нужную метку и открываем/закрываем ее балун.
+    function itemToggle(id) {
+        var it = visible.getIterator(),
+        group;
+
+        while(group = it.getNext()) {
+            for(var i = 0, len = group.getLength(); i < len; i++) {
+                var placemark = group.get(i);
+
+                if(placemark.properties.get('id') === id) {
+                    if(placemark.balloon.isOpen()) {
+                        placemark.balloon.close();
+                    }
+                    else {
+                        myMap.panTo(placemark.geometry.getCoordinates(), {
+                            delay: 0,
+                            callback: function () {
+                                placemark.balloon.open();
+                            }
+                        });
+                    }
+                    return;
+                }
+            }
+        }
+    }
+}
+</script>
+
+
+
+<script type="text/javascript" src="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/calculator.js?v=1776836807" charset="utf-8"></script>
+<script type="text/javascript" src="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/theme.js?v=1776836807" charset="utf-8"></script>
+
+<script type="text/javascript">
+    // Вставлять после <!-- /StreamWood code -->
+    window.phone_number = "+78412999988";
+</script>
+
+<script type="text/javascript" src="https://xn----7sbbyikmeibjb7av7f7d.xn--p1ai/wp-content/themes/business-press/replace_backcall.js" charset="utf-8"></script>
+
+<script src="//cdn.callibri.ru/callibri.js" type="text/javascript" charset="utf-8"></script>
+
+<!--
+<link rel="stylesheet" href="//raw.githubusercontent.com/bluzky/nice-select2/master/dist/css/nice-select2.css">
+<script src="//raw.githubusercontent.com/bluzky/nice-select2/master/dist/js/nice-select2.js" type="text/javascript" charset="utf-8"></script>
+-->
+</body>
+</html>
