@@ -378,7 +378,7 @@
             .hero-usp-row { grid-template-columns: 1fr; transform: translateY(-30px); }
             .reviews-grid { grid-template-columns: 1fr; }
             .counter-plate { flex-direction: column; gap: 15px; border-radius: 20px; width: 100%; }
-            .advantages-grid { grid-template-columns: repeat(2, 1fr); gap: 16px; }
+            .advantages-grid { grid-template-columns: 1fr; gap: 16px; }
             .storage-grid { grid-template-columns: 1fr; }
             .pricing-table-wrapper { overflow-x: auto; }
             .footer-cols { grid-template-columns: 1fr; }
@@ -813,7 +813,7 @@
 
         .storage-grid {
             display: grid;
-            grid-template-columns: repeat(3, 1fr);
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
             gap: 32px;
         }
 
@@ -1558,7 +1558,7 @@
                     <li><a href="#map">Адреса</a></li>
                     <li><a href="javascript:void(0)" onclick="openModal('acModal')">Кондиционеры</a></li>
                     <li><a href="javascript:void(0)" onclick="openModal('mobileModal')">Выезд</a></li>
-                    <li><a href="#storage">Хранение</a></li>
+                    <li><a href="javascript:void(0)" onclick="openModal('priceModal10')">Хранение</a></li>
                     <li><a href="javascript:void(0)" onclick="openModal('paintingModal')">Покраска</a></li>
                 </ul>
                 <div class="header-actions">
@@ -1590,7 +1590,7 @@
             <li><a href="#map" onclick="toggleMenu()">Адреса</a></li>
             <li><a href="javascript:void(0)" onclick="toggleMenu(); openModal('acModal')">Кондиционеры</a></li>
             <li><a href="javascript:void(0)" onclick="toggleMenu(); openModal('mobileModal')">Выезд</a></li>
-            <li><a href="#storage" onclick="toggleMenu()">Хранение</a></li>
+            <li><a href="javascript:void(0)" onclick="toggleMenu(); openModal('priceModal10')">Хранение</a></li>
             <li><a href="javascript:void(0)" onclick="toggleMenu(); openModal('paintingModal')">Покраска</a></li>
         </ul>
         <a href="tel:+78412999901" class="phone"><span class="material-symbols-outlined" style="vertical-align: middle; font-size: 1.2rem; margin-right: 4px;">call</span>8 (8412) 99-99-01</a>
@@ -1724,11 +1724,6 @@
                 <div class="service-card reveal" onclick="openModal('priceModal9')">
                     <span class="material-symbols-outlined">add_circle</span>
                     <h3>Дополнительные услуги</h3>
-                    <div class="btn-more">Подробнее <span class="material-symbols-outlined" style="font-size: 1.2rem; color: inherit; margin: 0;">arrow_forward</span></div>
-                </div>
-                <div class="service-card reveal" onclick="openModal('priceModal10')">
-                    <span class="material-symbols-outlined">inventory_2</span>
-                    <h3>Сезонное хранение шин</h3>
                     <div class="btn-more">Подробнее <span class="material-symbols-outlined" style="font-size: 1.2rem; color: inherit; margin: 0;">arrow_forward</span></div>
                 </div>
                 <div class="service-card reveal" onclick="openModal('priceModal11')">
@@ -1930,32 +1925,7 @@
         </div>
     </section>
 
-    <section id="storage" class="storage">
-        <div class="container">
-            <h2 class="reveal">Хранение шин</h2>
-            <p class="storage-subtitle">Чистое отапливаемое помещение. Ваши шины промаркированы и в безопасности.</p>
-            <div class="storage-grid">
-                <div class="storage-card">
-                    <span class="material-symbols-outlined storage-icon">inventory_2</span>
-                    <div class="storage-title">Сдали и забыли</div>
-                    <div class="storage-desc">Заберёте к следующему сезону.</div>
-                </div>
-                <div class="storage-card">
-                    <span class="material-symbols-outlined storage-icon">lock</span>
-                    <div class="storage-title">Безопасно</div>
-                    <div class="storage-desc">Промаркированные места, видеонаблюдение.</div>
-                </div>
-                <div class="storage-card">
-                    <span class="material-symbols-outlined storage-icon">savings</span>
-                    <div class="storage-title">Выгодно</div>
-                    <div class="storage-desc">от 499 Р за 6 месяцев.</div>
-                </div>
-            </div>
-            <div style="text-align: center; margin-top: 40px;">
-                <button class="btn btn-primary" onclick="openBookingModal()">Оставить шины на хранение</button>
-            </div>
-        </div>
-    </section>
+
 
     <footer>
         <div class="container">
@@ -3127,9 +3097,9 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
         </div>
     </div>
 
-    <!-- Price Modal 10: Сезонное хранение шин -->
+    <!-- Price Modal 10: Хранение шин -->
     <div id="priceModal10" class="modal full-screen-modal">
-        <div class="modal-content price-modal-content">
+        <div class="modal-content service-modal-content">
             <div class="container">
                 <div class="modal-header-nav">
                     <img src="logo.png" alt="ЮМАКС" class="modal-logo">
@@ -3140,37 +3110,66 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
                         <button class="btn-close-modal" onclick="closeModal('priceModal10')" style="position: static; font-size: 2.5rem; line-height: 1;">&times;</button>
                     </div>
                 </div>
+
                 <h1 class="modal-title-centered">Хранение шин</h1>
-                <p style="text-align: center; color: var(--text-muted); margin-bottom: 30px;">Срок сезонного хранения — 6 месяцев.</p>
-                <table class="premium-table">
-                    <thead>
+                <p class="service-description">
+                    Чистое отапливаемое помещение. Ваши шины промаркированы и в безопасности.
+                </p>
+
+                <div style="max-width: 1000px; margin: 0 auto 50px; border-radius: 20px; overflow: hidden; border: 1px solid var(--brand-amber); box-shadow: 0 15px 40px rgba(0,0,0,0.4);">
+                    <img src="./storage.jpg" alt="Хранение шин" style="width: 100%; display: block; height: 350px; object-fit: cover;">
+                </div>
+
+                <div class="usp-grid-4" style="grid-template-columns: repeat(3, 1fr); gap: 30px; margin-bottom: 60px;">
+                    <div class="new-usp-card">
+                        <span class="material-symbols-outlined" style="font-size: 3rem; color: var(--brand-amber); margin-bottom: 15px;">inventory_2</span>
+                        <h3 class="wp-type-title">Сдали и забыли</h3>
+                        <p class="wp-type-desc">Заберёте к следующему сезону.</p>
+                    </div>
+                    <div class="new-usp-card">
+                        <span class="material-symbols-outlined" style="font-size: 3rem; color: var(--brand-amber); margin-bottom: 15px;">lock</span>
+                        <h3 class="wp-type-title">Безопасно</h3>
+                        <p class="wp-type-desc">Промаркированные места, видеонаблюдение.</p>
+                    </div>
+                    <div class="new-usp-card">
+                        <span class="material-symbols-outlined" style="font-size: 3rem; color: var(--brand-amber); margin-bottom: 15px;">savings</span>
+                        <h3 class="wp-type-title">Выгодно</h3>
+                        <p class="wp-type-desc">от 499 Р за 6 месяцев.</p>
+                    </div>
+                </div>
+
+                <div style="max-width: 900px; margin: 0 auto 100px;">
+                    <h2 style="text-align: center; color: #fff; border-bottom: 1px solid var(--glass-border); padding-bottom: 15px; margin-bottom: 30px; text-transform: uppercase;">Стоимость хранения</h2>
+                    <table class="premium-table">
+                        <thead>
                             <tr style="background: rgba(255, 215, 0, 0.1); color: var(--brand-amber);">
                                 <th style="padding: 15px; text-align: left;">Размер</th>
-                                <th style="padding: 15px; text-align: right;">Цена</th>
+                                <th style="padding: 15px; text-align: right;">Цена за 6 мес.</th>
                             </tr>
                         </thead>
-                    <tbody>
-                        <tr><td>R13</td><td class="price-cell">2100 руб.</td></tr>
-                        <tr><td>R14</td><td class="price-cell">2100 руб.</td></tr>
-                        <tr><td>R15</td><td class="price-cell">2200 руб.</td></tr>
-                        <tr><td>R16</td><td class="price-cell">2300 руб.</td></tr>
-                        <tr><td>R17</td><td class="price-cell">2500 руб.</td></tr>
-                        <tr><td>R18</td><td class="price-cell">3100 руб.</td></tr>
-                        <tr><td>R19</td><td class="price-cell">3900 руб.</td></tr>
-                        <tr><td>R20</td><td class="price-cell">4900 руб.</td></tr>
-                        <tr><td>R21</td><td class="price-cell">5500 руб.</td></tr>
-                        <tr><td>R22</td><td class="price-cell">6500 руб.</td></tr>
-                        <tr><td>R23</td><td class="price-cell">7500 руб.</td></tr>
-                        <tr><td>R24</td><td class="price-cell">10000 руб.</td></tr>
-                        <tr><td>Газель (6 колёс)</td><td class="price-cell">6500 руб.</td></tr>
-                    </tbody>
-                </table>
-                <div style="color: var(--text-muted); text-align: center; margin-bottom: 40px; font-size: 1.1rem; line-height: 1.8;">
-                    <p>• Хранение покрышки или диска — 100 руб./сутки (за 1 шт.)</p>
-                    <p>• Утилизация покрышки или диска — 100 руб. (за 1 шт.)</p>
-                </div>
-                <div style="text-align: center;">
-                    <button class="btn btn-primary" style="background-color: #EF3124; padding: 20px 60px; font-size: 1.3rem;" onclick="closeModal('priceModal10'); openBookingModal();">ЗАПИСАТЬСЯ</button>
+                        <tbody>
+                            <tr><td>R13</td><td class="price-cell">2100 руб.</td></tr>
+                            <tr><td>R14</td><td class="price-cell">2100 руб.</td></tr>
+                            <tr><td>R15</td><td class="price-cell">2200 руб.</td></tr>
+                            <tr><td>R16</td><td class="price-cell">2300 руб.</td></tr>
+                            <tr><td>R17</td><td class="price-cell">2500 руб.</td></tr>
+                            <tr><td>R18</td><td class="price-cell">3100 руб.</td></tr>
+                            <tr><td>R19</td><td class="price-cell">3900 руб.</td></tr>
+                            <tr><td>R20</td><td class="price-cell">4900 руб.</td></tr>
+                            <tr><td>R21</td><td class="price-cell">5500 руб.</td></tr>
+                            <tr><td>R22</td><td class="price-cell">6500 руб.</td></tr>
+                            <tr><td>R23</td><td class="price-cell">7500 руб.</td></tr>
+                            <tr><td>R24</td><td class="price-cell">10000 руб.</td></tr>
+                            <tr><td>Газель (6 колёс)</td><td class="price-cell">6500 руб.</td></tr>
+                        </tbody>
+                    </table>
+                    <div style="color: var(--text-muted); text-align: center; margin-bottom: 40px; font-size: 1.1rem; line-height: 1.8;">
+                        <p>• Хранение покрышки или диска — 100 руб./сутки (за 1 шт.)</p>
+                        <p>• Утилизация покрышки или диска — 100 руб. (за 1 шт.)</p>
+                    </div>
+                    <div style="text-align: center; margin-top: 50px;">
+                        <button class="btn btn-primary" style="background-color: #EF3124; padding: 20px 60px; font-size: 1.3rem; text-transform: uppercase;" onclick="closeModal('priceModal10'); openBookingModal();">ОСТАВИТЬ ШИНЫ НА ХРАНЕНИЕ</button>
+                    </div>
                 </div>
             </div>
         </div>
@@ -3403,7 +3402,7 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
             function update() {
                 start += increment;
                 if (start >= target) {
-                    element.innerText = target.toLocaleString() + (id === 'reviewsCount' ? ' ★' : '+');
+                    element.innerText = target.toLocaleString() + '+';
                 } else {
                     element.innerText = Math.floor(start).toLocaleString() + '+';
                     requestAnimationFrame(update);
@@ -3414,7 +3413,7 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
         const counterObserver = new IntersectionObserver((entries) => {
             entries.forEach(entry => {
                 if (entry.isIntersecting) {
-                    animateCounter('reviewsCount', 4.9, 1500);
+                    animateCounter('reviewsCount', 2000, 1500);
                     animateCounter('clientsCount', 50000, 2000);
                     counterObserver.unobserve(entry.target);
                 }
