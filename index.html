@@ -9,6 +9,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=swap" rel="stylesheet">
     <link rel="icon" type="image/png" href="favicon.png">
     <link rel="apple-touch-icon" href="favicon.png">
+    <script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU&amp;apikey=34bec777-305c-4103-99ff-82bd7b6d0c87" type="text/javascript"></script>
     <style>
         /* Placeholder for DIN Pro - usually a local font */
         @font-face {
@@ -1678,7 +1679,7 @@
 
     <section id="pricing" class="pricing">
         <div class="container">
-            <h2 class="reveal">Цены на шиномонтаж и услуги</h2>
+            <h2 class="reveal">Цены на услуги шиномонтажа</h2>
             
             <div class="service-cards-grid">
                 <div class="service-card reveal" onclick="openModal('priceModal1')">
@@ -1698,7 +1699,12 @@
                 </div>
                 <div class="service-card reveal" onclick="openModal('priceModal4')">
                     <span class="material-symbols-outlined">local_shipping</span>
-                    <h3>Для прочих автосредств (Газелей и мотоциклов)</h3>
+                    <h3>Для прочих автосредств: Газелей, мотоциклов и квадроциклов</h3>
+                    <div class="btn-more">Подробнее <span class="material-symbols-outlined" style="font-size: 1.2rem; color: inherit; margin: 0;">arrow_forward</span></div>
+                </div>
+                <div class="service-card reveal" onclick="openModal('storagePriceModal')">
+                    <span class="material-symbols-outlined">inventory_2</span>
+                    <h3>Хранение шин</h3>
                     <div class="btn-more">Подробнее <span class="material-symbols-outlined" style="font-size: 1.2rem; color: inherit; margin: 0;">arrow_forward</span></div>
                 </div>
                 <div class="service-card reveal" onclick="openModal('priceModal5')">
@@ -1845,7 +1851,7 @@
                 </div>
             </div>
             <div class="map-wrapper">
-                <iframe src="https://yandex.ru/map-widget/v1/?ll=44.9700%2C53.2200&z=12&pt=44.948235,53.225997,pm2rdm~44.989609,53.157599,pm2rdm~44.955545,53.225349,pm2rdm~44.999412,53.217386,pm2rdm~45.018055,53.225010,pm2rdm~45.015594,53.244591,pm2rdm~45.000494,53.218578,pm2rdm" width="100%" height="500" frameborder="0"></iframe>
+                <div id="yandex-map" style="width: 100%; height: 500px;"></div>
             </div>
         </div>
     </section>
@@ -2118,19 +2124,19 @@ R22
 ________________________________________
 Хранение резины
 Размер	Цена
-R13	2100 руб.
-R14	2100 руб.
-R15	2200 руб.
-R16	2300 руб.
-R17	2500 руб.
-R18	3100 руб.
-R19	3900 руб.
-R20	4900 руб.
-R21	5500 руб.
-R22	6500 руб.
-R23	7500 руб.
-R24	10000 руб.
-Газель (6 колёс)	6500 руб.
+R13	1300 руб.
+R14	1500 руб.
+R15	1500 руб.
+R16	1700 руб.
+R17	2000 руб.
+R18	2500 руб.
+R19	3000 руб.
+R20	3500 руб.
+R21	4000 руб.
+R22	4500 руб.
+R23	5000 руб.
+R24	6000 руб.
+Газель (6 колёс)	4000 руб.
 •	Хранение покрышки или диска — 100 руб./сутки (за 1 шт.)
 •	Утилизация покрышки или диска — 100 руб. (за 1 шт.)
 ________________________________________
@@ -2229,19 +2235,19 @@ R24
 ________________________________________
 Хранение резины
 Размер	Цена
-R13	2100 руб.
-R14	2100 руб.
-R15	2200 руб.
-R16	2300 руб.
-R17	2500 руб.
-R18	3100 руб.
-R19	3900 руб.
-R20	4900 руб.
-R21	5500 руб.
-R22	6500 руб.
-R23	7500 руб.
-R24	10000 руб.
-Газель (6 колёс)	6500 руб.
+R13	1300 руб.
+R14	1500 руб.
+R15	1500 руб.
+R16	1700 руб.
+R17	2000 руб.
+R18	2500 руб.
+R19	3000 руб.
+R20	3500 руб.
+R21	4000 руб.
+R22	4500 руб.
+R23	5000 руб.
+R24	6000 руб.
+Газель (6 колёс)	4000 руб.
 •	Хранение покрышки или диска — 100 руб./сутки (за 1 шт.)
 •	Утилизация покрышки или диска — 100 руб. (за 1 шт.)
 ________________________________________
@@ -2270,10 +2276,11 @@ ________________________________________
 Взрывная накачка шин бустером (1 шт.)	150 руб.
 Оптимизация резины относительно диска (1 шт.)	200 руб.
 Установка ремонтного шипа (1 шт.)	20 руб.
-Обработка ступицы алюминиевой смазкой (посадочное место) 1 шт.	85 руб.
+Обработка ступицы алюминиевой смазкой (посадочное место) 1 шт.	75 руб.
 Чистка диска от битума	От 300 руб.
-Чистка диска (посадочное место резины)	150 руб.
-Чистка резины (посадочное место диска)	150 руб.
+Чистка диска (посадочное место резины)	50 руб.
+Чистка резины (посадочное место диска)	50 руб.
+Чистка привалочной поверхности колесного диска (1 шт.) (от руки)	50 руб.
 Нанесение герметика на обод диска (1 шт.) (гарантия 1 месяц)	200 руб.
 Доплата за шиномонтаж усиленного корда, низкопрофильной резины (1 колесо)	200 руб.
 Протяжка болтов (1 колесо)	50 руб.
@@ -2283,11 +2290,10 @@ ________________________________________
 Демонтаж гайки/болта с повреждёнными гранями (1 шт.)	От 1000 руб.
 Демонтаж секретки (1 шт.)	От 1500 руб.
 Грязевые тюнинговые колёса (1 шт.)	250 руб.
-Ремонт бескамерной шины заплаткой (гарантия 1 месяц)	500 руб.
-Ремонт бескамерной шины грибком (гарантия 3 месяца)	750 руб.
+Ремонт бескамерной шины: заплатка + ножка (гарантия 3 месяца)	700 руб.
+Ремонт бескамерной шины грибком (гарантия 3 месяца)	700 руб.
 Ремонт камеры	300 руб.
 Ремонт колеса жгутом (временный ремонт) БЕЗ ГАРАНТИИ!	400 руб. (на машине 500 руб.)
-Чистка привалочной поверхности колесного диска (1 шт.) (от руки)	150 руб.
 ________________________________________
 Съём и установка + подкачка колеса
 Легковые	Паркетники	Внедорожники
@@ -2798,7 +2804,7 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
                         <button class="btn-close-modal" onclick="closeModal('priceModal4')" style="position: static; font-size: 2.5rem; line-height: 1;">&times;</button>
                     </div>
                 </div>
-                <h1 class="modal-title-centered">Для прочих автосредств (Газелей и мотоциклов)</h1>
+                <h1 class="modal-title-centered">Для прочих автосредств: Газелей, мотоциклов и квадроциклов</h1>
                 <div class="wp-grid" style="grid-template-columns: 1fr 1fr; gap: 40px;">
                     <div class="new-price-wrapper">
                         <h3 style="margin-bottom: 20px; color: var(--brand-amber); text-align: center;">Газель</h3>
@@ -3070,10 +3076,11 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
                         <tr><td>Взрывная накачка шин бустером (1 шт.)</td><td class="price-cell">150 руб.</td></tr>
                         <tr><td>Оптимизация резины относительно диска (1 шт.)</td><td class="price-cell">200 руб.</td></tr>
                         <tr><td>Установка ремонтного шипа (1 шт.)</td><td class="price-cell">20 руб.</td></tr>
-                        <tr><td>Обработка ступицы алюминиевой смазкой (посадочное место) 1 шт.</td><td class="price-cell">85 руб.</td></tr>
+                        <tr><td>Обработка ступицы алюминиевой смазкой (посадочное место) 1 шт.</td><td class="price-cell">75 руб.</td></tr>
                         <tr><td>Чистка диска от битума</td><td class="price-cell">От 300 руб.</td></tr>
-                        <tr><td>Чистка диска (посадочное место резины)</td><td class="price-cell">150 руб.</td></tr>
-                        <tr><td>Чистка резины (посадочное место диска)</td><td class="price-cell">150 руб.</td></tr>
+                        <tr><td>Чистка диска (посадочное место резины)</td><td class="price-cell">50 руб.</td></tr>
+                        <tr><td>Чистка резины (посадочное место диска)</td><td class="price-cell">50 руб.</td></tr>
+                        <tr><td>Чистка привалочной поверхности колесного диска (1 шт.)</td><td class="price-cell">50 руб.</td></tr>
                         <tr><td>Нанесение герметика на обод диска (1 шт.) (гарантия 1 месяц)</td><td class="price-cell">200 руб.</td></tr>
                         <tr><td>Доплата за шиномонтаж усиленного корда, низкопрофильной резины (1 колесо)</td><td class="price-cell">200 руб.</td></tr>
                         <tr><td>Протяжка болтов (1 колесо)</td><td class="price-cell">50 руб.</td></tr>
@@ -3083,11 +3090,10 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
                         <tr><td>Демонтаж гайки/болта с повреждёнными гранями (1 шт.)</td><td class="price-cell">От 1000 руб.</td></tr>
                         <tr><td>Демонтаж секретки (1 шт.)</td><td class="price-cell">От 1500 руб.</td></tr>
                         <tr><td>Грязевые тюнинговые колёса (1 шт.)</td><td class="price-cell">250 руб.</td></tr>
-                        <tr><td>Ремонт бескамерной шины заплаткой (гарантия 1 месяц)</td><td class="price-cell">500 руб.</td></tr>
-                        <tr><td>Ремонт бескамерной шины грибком (гарантия 3 месяца)</td><td class="price-cell">750 руб.</td></tr>
+                        <tr><td>Ремонт бескамерной шины: заплатка + ножка (гарантия 3 месяца)</td><td class="price-cell">700 руб.</td></tr>
+                        <tr><td>Ремонт бескамерной шины грибком (гарантия 3 месяца)</td><td class="price-cell">700 руб.</td></tr>
                         <tr><td>Ремонт камеры</td><td class="price-cell">300 руб.</td></tr>
                         <tr><td>Ремонт колеса жгутом (временный ремонт) БЕЗ ГАРАНТИИ!</td><td class="price-cell">400 руб. (на машине 500 руб.)</td></tr>
-                        <tr><td>Чистка привалочной поверхности колесного диска (1 шт.)</td><td class="price-cell">150 руб.</td></tr>
                     </tbody>
                 </table>
                 <div style="text-align: center;">
@@ -3148,19 +3154,19 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
                             </tr>
                         </thead>
                         <tbody>
-                            <tr><td>R13</td><td class="price-cell">2100 руб.</td></tr>
-                            <tr><td>R14</td><td class="price-cell">2100 руб.</td></tr>
-                            <tr><td>R15</td><td class="price-cell">2200 руб.</td></tr>
-                            <tr><td>R16</td><td class="price-cell">2300 руб.</td></tr>
-                            <tr><td>R17</td><td class="price-cell">2500 руб.</td></tr>
-                            <tr><td>R18</td><td class="price-cell">3100 руб.</td></tr>
-                            <tr><td>R19</td><td class="price-cell">3900 руб.</td></tr>
-                            <tr><td>R20</td><td class="price-cell">4900 руб.</td></tr>
-                            <tr><td>R21</td><td class="price-cell">5500 руб.</td></tr>
-                            <tr><td>R22</td><td class="price-cell">6500 руб.</td></tr>
-                            <tr><td>R23</td><td class="price-cell">7500 руб.</td></tr>
-                            <tr><td>R24</td><td class="price-cell">10000 руб.</td></tr>
-                            <tr><td>Газель (6 колёс)</td><td class="price-cell">6500 руб.</td></tr>
+                            <tr><td>R13</td><td class="price-cell">1300 руб.</td></tr>
+                            <tr><td>R14</td><td class="price-cell">1500 руб.</td></tr>
+                            <tr><td>R15</td><td class="price-cell">1500 руб.</td></tr>
+                            <tr><td>R16</td><td class="price-cell">1700 руб.</td></tr>
+                            <tr><td>R17</td><td class="price-cell">2000 руб.</td></tr>
+                            <tr><td>R18</td><td class="price-cell">2500 руб.</td></tr>
+                            <tr><td>R19</td><td class="price-cell">3000 руб.</td></tr>
+                            <tr><td>R20</td><td class="price-cell">3500 руб.</td></tr>
+                            <tr><td>R21</td><td class="price-cell">4000 руб.</td></tr>
+                            <tr><td>R22</td><td class="price-cell">4500 руб.</td></tr>
+                            <tr><td>R23</td><td class="price-cell">5000 руб.</td></tr>
+                            <tr><td>R24</td><td class="price-cell">6000 руб.</td></tr>
+                            <tr><td>Газель (6 колёс)</td><td class="price-cell">4000 руб.</td></tr>
                         </tbody>
                     </table>
                     <div style="color: var(--text-muted); text-align: center; margin-bottom: 40px; font-size: 1.1rem; line-height: 1.8;">
@@ -3204,6 +3210,54 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
                 </div>
                 <div style="text-align: center; margin-top: 60px;">
                     <button class="btn btn-primary" style="background-color: #EF3124; padding: 20px 60px; font-size: 1.3rem;" onclick="closeModal('priceModal11'); openBookingModal();">ЗАПИСАТЬСЯ</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Price Modal Storage: Хранение шин (Прайс-лист) -->
+    <div id="storagePriceModal" class="modal full-screen-modal">
+        <div class="modal-content price-modal-content">
+            <div class="container">
+                <div class="modal-header-nav">
+                    <img src="logo.png" alt="ЮМАКС" class="modal-logo">
+                    <div style="display: flex; gap: 20px; align-items: center;">
+                        <button class="modal-back-btn" onclick="closeModal('storagePriceModal')">
+                            <span class="material-symbols-outlined">arrow_back</span> Назад
+                        </button>
+                        <button class="btn-close-modal" onclick="closeModal('storagePriceModal')" style="position: static; font-size: 2.5rem; line-height: 1;">&times;</button>
+                    </div>
+                </div>
+                <h1 class="modal-title-centered">СТОИМОСТЬ ХРАНЕНИЯ</h1>
+                <table class="premium-table">
+                    <thead>
+                        <tr style="background: rgba(255, 215, 0, 0.1); color: var(--brand-amber);">
+                            <th style="padding: 15px; text-align: left;">Размер</th>
+                            <th style="padding: 15px; text-align: right;">Цена за 6 мес.</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>R13</td><td class="price-cell">1300 руб.</td></tr>
+                        <tr><td>R14</td><td class="price-cell">1500 руб.</td></tr>
+                        <tr><td>R15</td><td class="price-cell">1500 руб.</td></tr>
+                        <tr><td>R16</td><td class="price-cell">1700 руб.</td></tr>
+                        <tr><td>R17</td><td class="price-cell">2000 руб.</td></tr>
+                        <tr><td>R18</td><td class="price-cell">2500 руб.</td></tr>
+                        <tr><td>R19</td><td class="price-cell">3000 руб.</td></tr>
+                        <tr><td>R20</td><td class="price-cell">3500 руб.</td></tr>
+                        <tr><td>R21</td><td class="price-cell">4000 руб.</td></tr>
+                        <tr><td>R22</td><td class="price-cell">4500 руб.</td></tr>
+                        <tr><td>R23</td><td class="price-cell">5000 руб.</td></tr>
+                        <tr><td>R24</td><td class="price-cell">6000 руб.</td></tr>
+                        <tr><td>Газель (6 колёс)</td><td class="price-cell">4000 руб.</td></tr>
+                    </tbody>
+                </table>
+                <div style="color: var(--text-muted); text-align: center; margin-bottom: 40px; font-size: 1.1rem; line-height: 1.8;">
+                    <p>• Хранение покрышки или диска — 100 руб./сутки (за 1 шт.)</p>
+                    <p>• Утилизация покрышки или диска — 100 руб. (за 1 шт.)</p>
+                </div>
+                <div style="text-align: center;">
+                    <button class="btn btn-primary" style="background-color: #EF3124; padding: 20px 60px; font-size: 1.3rem;" onclick="closeModal('storagePriceModal'); openBookingModal();">ЗАПИСАТЬСЯ</button>
                 </div>
             </div>
         </div>
@@ -3322,7 +3376,7 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
                     <div class="promo-card">
                         <span class="material-symbols-outlined promo-icon">inventory_2</span>
                         <h3>Сезонное хранение</h3>
-                        <p>Скидка 50% на хранение шин</p>
+                        <p>Первое хранение – бесплатно (6 месяцев)</p>
                     </div>
 
                     <!-- Плашка 4 -->
@@ -3337,6 +3391,20 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
                         <span class="material-symbols-outlined promo-icon">content_cut</span>
                         <h3>Удаление скотча</h3>
                         <p>Удалим скотч с литого диска без повреждений и царапин</p>
+                    </div>
+
+                    <!-- Плашка 6 -->
+                    <div class="promo-card">
+                        <span class="material-symbols-outlined promo-icon">tire_repair</span>
+                        <h3>Ремонт шин</h3>
+                        <p>Скидка 30% на ремонт б/к шины заплаткой / грибком</p>
+                    </div>
+
+                    <!-- Плашка 7 -->
+                    <div class="promo-card">
+                        <span class="material-symbols-outlined promo-icon">balance</span>
+                        <h3>Балансировка</h3>
+                        <p>Скидка 50% на балансировку (действует от 4 колес)</p>
                     </div>
                 </div>
 
@@ -3437,6 +3505,43 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
                 toast.style.opacity = '0';
                 setTimeout(() => toast.remove(), 500);
             }, 5000);
+        }
+    </script>
+    <script>
+        // Yandex Map Initialization
+        ymaps.ready(init);
+        function init() {
+            var myMap = new ymaps.Map("yandex-map", {
+                center: [53.2100, 44.9800], // Slightly adjusted center for better view
+                zoom: 12,
+                controls: ['zoomControl', 'typeSelector', 'fullscreenControl', 'routeButtonControl']
+            });
+
+            var locations = [
+                {coords: [53.225997, 44.948235], title: 'Пр. Победы, 67'},
+                {coords: [53.157599, 44.989609], title: 'ул. Калинина, 158'},
+                {coords: [53.225349, 44.955545], title: 'пр. Победы, 96а'},
+                {coords: [53.217386, 44.999412], title: 'ул. Гагарина, 3а'},
+                {coords: [53.225010, 45.018055], title: 'Гагарина, 7а'},
+                {coords: [53.244591, 45.015594], title: 'Аустрина, 139'},
+                {coords: [53.218578, 45.000494], title: 'ул. Саранская, 76'}
+            ];
+
+            locations.forEach(function(loc) {
+                var myPlacemark = new ymaps.Placemark(loc.coords, {
+                    hintContent: 'ЮМАКС: ' + loc.title,
+                    balloonContent: '<strong>ЮМАКС</strong><br>' + loc.title + '<br><a href="tel:+78412999901">8 (8412) 99-99-01</a>'
+                }, {
+                    iconLayout: 'default#image',
+                    iconImageHref: 'logo.png',
+                    iconImageSize: [46, 46], // Size of the icon
+                    iconImageOffset: [-23, -23] // Half of the size to center it
+                });
+                myMap.geoObjects.add(myPlacemark);
+            });
+            
+            // Disable scroll zoom for better UX
+            myMap.behaviors.disable('scrollZoom');
         }
     </script>
     <!-- Privacy Modal -->
