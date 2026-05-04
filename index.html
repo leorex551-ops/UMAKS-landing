@@ -147,6 +147,22 @@
             color: var(--brand-amber);
         }
 
+        nav ul li button {
+            background: none;
+            border: none;
+            color: var(--text-white);
+            font-weight: 500;
+            cursor: pointer;
+            font-size: 1rem;
+            font-family: inherit;
+            transition: color 0.2s;
+            padding: 0;
+        }
+
+        nav ul li button:hover {
+            color: var(--brand-amber);
+        }
+
         .header-actions {
             display: flex;
             align-items: center;
@@ -1102,6 +1118,22 @@
             color: var(--brand-amber);
         }
 
+        .mobile-menu ul li button {
+            background: none;
+            border: none;
+            font-size: 1.5rem;
+            color: var(--text-white);
+            font-weight: 600;
+            cursor: pointer;
+            font-family: inherit;
+            padding: 0;
+            transition: color 0.2s;
+        }
+
+        .mobile-menu ul li button:hover {
+            color: var(--brand-amber);
+        }
+
         .mobile-menu .phone {
             font-size: 1.5rem;
             margin-bottom: 24px;
@@ -1193,6 +1225,7 @@
             flex-direction: column;
             align-items: center;
             gap: 15px;
+            position: relative;
         }
         .promo-card:hover {
             transform: translateY(-10px);
@@ -1212,6 +1245,26 @@
             color: var(--text-muted);
             line-height: 1.6;
             margin: 0;
+        }
+        .promo-badge-akcia {
+            position: absolute;
+            bottom: 14px;
+            right: 14px;
+            width: 58px;
+            height: 58px;
+            background: #e53935;
+            color: #fff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.6rem;
+            font-weight: 900;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            line-height: 1.1;
+            clip-path: polygon(50% 0%,61% 20%,79% 9%,80% 30%,100% 35%,88% 50%,100% 65%,80% 70%,79% 91%,60% 80%,50% 100%,40% 80%,21% 91%,20% 70%,0% 65%,12% 50%,0% 35%,20% 30%,21% 9%,39% 20%);
+            pointer-events: none;
+            z-index: 2;
         }
 
         /* Full Screen Service Modals */
@@ -1492,6 +1545,7 @@
         }
         .modal-logo {
             height: 35px;
+            width: auto;
         }
         .modal-back-btn {
             background: none;
@@ -1815,7 +1869,7 @@
         <div class="container" style="position: relative; z-index: 3;">
             <div class="hero-grid">
                 <div class="hero-content">
-                    <div class="hero-badge">Работаем 24/7 без выходных</div>
+                    <div class="hero-badge">Работаем с 8:00 до 24:00 без выходных</div>
                     <h1 class="reveal" style="text-shadow: 0 4px 12px rgba(0,0,0,0.4);">Шиномонтаж в Пензе —<br>быстро, честно, качественно</h1>
                     <p class="subtitle">50 000 клиентов уже сменили резину у нас. Без очереди — за 40 минут.</p>
                     <div class="hero-buttons">
@@ -1950,11 +2004,7 @@
         <div class="container">
             <h2 class="reveal" style="text-align: center; letter-spacing: 2px;">Записаться</h2>
             <div class="form-container">
-                <form id="bookingForm" action="https://formsubmit.co/alexpnz@mail.ru" method="POST">
-                    <input type="hidden" name="_subject" value="Запись на шиномонтаж ЮМАКС">
-                    <input type="hidden" name="_template" value="table">
-                    <input type="hidden" name="_captcha" value="false">
-                    <input type="hidden" name="_next" value="https://leorex551-ops.github.io/UMAKS-landing/?success=true">
+                <form id="bookingForm" action="#" onsubmit="handleBookingSubmit(event, this); return false;">
                     <div class="form-row">
                         <div class="form-group">
                             <label for="name">Ваше имя*</label>
@@ -2020,7 +2070,7 @@
                     </div>
                     <div class="location-card">
                         <span class="address">📍 пр. Победы, 96а</span>
-                        <span class="hours">Круглосуточно</span>
+                        <span class="hours">с 8:00 - 24:00</span>
                         <a href="tel:+78412999901" rel="nofollow" class="phone"><span class="material-symbols-outlined" style="vertical-align: middle; font-size: 1rem; margin-right: 4px;" aria-hidden="true">call</span>8 (8412) 99-99-01</a>
                         <a href="tel:+78412207401" rel="nofollow" class="phone">8 (8412) 20-74-01</a>
                         <a href="https://yandex.ru/maps/?text=Пенза, пр. Победы, 96а" class="btn btn-secondary" style="padding: 8px 16px; font-size: 0.8rem; margin-top: 8px;" target="_blank">Маршрут</a>
@@ -2194,7 +2244,7 @@
         <div class="modal-content" style="max-width: 1000px; padding-top: 60px; position: relative;">
             <button class="btn-close-modal" onclick="closeModal('fullPriceModal')">&times;</button>
             <div style="display: flex; align-items: center; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid var(--glass-border);">
-                <img src="logo.png" alt="Логотип ЮМАКС" width="180" height="60" loading="lazy" decoding="async" style="height: 60px; margin-right: 24px;">
+                <img src="logo.png" alt="Логотип ЮМАКС" width="180" height="60" loading="eager" decoding="async" style="height: 60px; width: auto; margin-right: 24px;">
                 <h3 style="margin: 0; font-size: 1.8rem;">Полный прайс-лист</h3>
             </div>
             <div style="white-space: pre-wrap; font-family: 'Inter', sans-serif; font-size: 0.95rem; line-height: 1.6; color: var(--text-white); padding: 20px; background: rgba(0,0,0,0.2); border-radius: 8px; border: 1px solid var(--glass-border); margin-bottom: 30px;">
@@ -2536,11 +2586,7 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
             <button class="btn-close-modal" onclick="closeModal('bookingModal')">&times;</button>
             <h3 style="text-align: center;">ЗАПИСАТЬСЯ</h3>
             
-            <form id="bookingFormModal" action="https://formsubmit.co/alexpnz@mail.ru" method="POST">
-                <input type="hidden" name="_subject" value="Запись на шиномонтаж ЮМАКС (Модал)">
-                <input type="hidden" name="_template" value="table">
-                <input type="hidden" name="_captcha" value="false">
-                <input type="hidden" name="_next" value="https://leorex551-ops.github.io/UMAKS-landing/?success=true">
+            <form id="bookingFormModal" action="#" onsubmit="handleBookingSubmit(event, this); return false;">
                 
                 <div class="form-group" style="margin-bottom: 20px;">
                     <label for="modal_name">Ваше имя*</label>
@@ -2694,7 +2740,7 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
         <div class="modal-content service-modal-content">
             <div class="container">
                 <div class="modal-header-nav">
-                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="lazy" decoding="async">
+                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="eager" decoding="async">
                     <div style="display: flex; gap: 20px; align-items: center;">
                         <button class="modal-back-btn" onclick="closeModal('paintingModal')">
                             <span class="material-symbols-outlined" aria-hidden="true">arrow_back</span> Назад
@@ -2780,7 +2826,7 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
         <div class="modal-content service-modal-content">
             <div class="container">
                 <div class="modal-header-nav">
-                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="lazy" decoding="async">
+                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="eager" decoding="async">
                     <div style="display: flex; gap: 20px; align-items: center;">
                         <button class="modal-back-btn" onclick="closeModal('acModal')">
                             <span class="material-symbols-outlined" aria-hidden="true">arrow_back</span> Назад
@@ -2826,20 +2872,19 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
                             </tr>
                         </thead>
                         <tbody>
-                            <tr><td>Откачать-закачать фреон (500г) с добавлением масла (20г) с красителем (обязательно)</td><td class="price-cell">3000 р</td></tr>
-                            <tr><td>Фреон 100г</td><td class="price-cell">300 р</td></tr>
-                            <tr><td>Фреон 50г</td><td class="price-cell">150 р</td></tr>
-                            <tr><td>Добавление масла с красителем (20г)</td><td class="price-cell">400 р</td></tr>
-                            <tr><td>Поиск неисправности</td><td class="price-cell">500 р</td></tr>
-                            <tr><td>Поиск утечки фреона</td><td class="price-cell">500 р</td></tr>
-                            <tr><td>Опрессовка азотом</td><td class="price-cell">600 р</td></tr>
-                            <tr><td>Замена уплотнительного кольца</td><td class="price-cell">650 р</td></tr>
-                            <tr><td>Замена ниппеля сервисного порта</td><td class="price-cell">400 р</td></tr>
-                            <tr><td>Колпачок на сервисный порт</td><td class="price-cell">300 р</td></tr>
-                            <tr><td>Продувка радиатора (удаление шубы)</td><td class="price-cell">300 р</td></tr>
-                            <tr><td>Слесарные работы (1 н/ч — 1400 руб.)</td><td class="price-cell">от 300 р</td></tr>
-                            <tr><td>Сварка аргоном трубок кондиционера</td><td class="price-cell">от 800 р</td></tr>
-                            <tr><td>Озонирование ozonbox (устранение неприятных запахов в салоне автомобиля)</td><td class="price-cell">1000 р</td></tr>
+                            <tr><td>Диагностика кондиционерной станцией</td><td class="price-cell">0 руб.</td></tr>
+                            <tr><td>Откачать-закачать фреон с добавлением масла 20 гр. (обязательно)</td><td class="price-cell">от 1700 руб.</td></tr>
+                            <tr><td>Фреон 100 гр.</td><td class="price-cell">400 руб.</td></tr>
+                            <tr><td>Добавление масла с красителем</td><td class="price-cell">400 руб.</td></tr>
+                            <tr><td>Поиск неисправности</td><td class="price-cell">от 600 руб.</td></tr>
+                            <tr><td>Поиск утечки фреона</td><td class="price-cell">от 600 руб.</td></tr>
+                            <tr><td>Замена уплотнительных колец</td><td class="price-cell">от 600 руб.</td></tr>
+                            <tr><td>Сварка аргоном трубок кондиционера</td><td class="price-cell">от 1400 руб.</td></tr>
+                            <tr><td>Озонирование ozonbox (устранение неприятных запахов в салоне автомобиля)</td><td class="price-cell">от 1000 руб.</td></tr>
+                            <tr><td>Опрессовка азотом</td><td class="price-cell">от 1000 руб.</td></tr>
+                            <tr><td>Замена ниппеля сервисного порта</td><td class="price-cell">от 400 руб.</td></tr>
+                            <tr><td>Колпачок на сервисный порт</td><td class="price-cell">от 300 руб.</td></tr>
+                            <tr><td>Слесарные работы (частичный разбор)</td><td class="price-cell">2000 руб. (1 Н/ч)</td></tr>
                         </tbody>
                     </table>
                     <div style="text-align: center; margin-top: 50px;">
@@ -2855,7 +2900,7 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
         <div class="modal-content price-modal-content">
             <div class="container">
                 <div class="modal-header-nav">
-                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="lazy" decoding="async">
+                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="eager" decoding="async">
                     <div style="display: flex; gap: 20px; align-items: center;">
                         <button class="modal-back-btn" onclick="closeModal('priceModal1')">
                             <span class="material-symbols-outlined" aria-hidden="true">arrow_back</span> Назад
@@ -2905,7 +2950,7 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
         <div class="modal-content price-modal-content">
             <div class="container">
                 <div class="modal-header-nav">
-                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="lazy" decoding="async">
+                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="eager" decoding="async">
                     <div style="display: flex; gap: 20px; align-items: center;">
                         <button class="modal-back-btn" onclick="closeModal('priceModal2')">
                             <span class="material-symbols-outlined" aria-hidden="true">arrow_back</span> Назад
@@ -2953,7 +2998,7 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
         <div class="modal-content price-modal-content">
             <div class="container">
                 <div class="modal-header-nav">
-                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="lazy" decoding="async">
+                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="eager" decoding="async">
                     <div style="display: flex; gap: 20px; align-items: center;">
                         <button class="modal-back-btn" onclick="closeModal('priceModal3')">
                             <span class="material-symbols-outlined" aria-hidden="true">arrow_back</span> Назад
@@ -3003,7 +3048,7 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
         <div class="modal-content price-modal-content">
             <div class="container">
                 <div class="modal-header-nav">
-                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="lazy" decoding="async">
+                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="eager" decoding="async">
                     <div style="display: flex; gap: 20px; align-items: center;">
                         <button class="modal-back-btn" onclick="closeModal('priceModal4')">
                             <span class="material-symbols-outlined" aria-hidden="true">arrow_back</span> Назад
@@ -3064,7 +3109,7 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
         <div class="modal-content price-modal-content">
             <div class="container">
                 <div class="modal-header-nav">
-                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="lazy" decoding="async">
+                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="eager" decoding="async">
                     <div style="display: flex; gap: 20px; align-items: center;">
                         <button class="modal-back-btn" onclick="closeModal('priceModal5')">
                             <span class="material-symbols-outlined" aria-hidden="true">arrow_back</span> Назад
@@ -3110,7 +3155,7 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
         <div class="modal-content price-modal-content">
             <div class="container">
                 <div class="modal-header-nav">
-                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="lazy" decoding="async">
+                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="eager" decoding="async">
                     <div style="display: flex; gap: 20px; align-items: center;">
                         <button class="modal-back-btn" onclick="closeModal('priceModal6')">
                             <span class="material-symbols-outlined" aria-hidden="true">arrow_back</span> Назад
@@ -3154,7 +3199,7 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
         <div class="modal-content price-modal-content">
             <div class="container">
                 <div class="modal-header-nav">
-                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="lazy" decoding="async">
+                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="eager" decoding="async">
                     <div style="display: flex; gap: 20px; align-items: center;">
                         <button class="modal-back-btn" onclick="closeModal('priceModal7')">
                             <span class="material-symbols-outlined" aria-hidden="true">arrow_back</span> Назад
@@ -3207,7 +3252,7 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
         <div class="modal-content price-modal-content">
             <div class="container">
                 <div class="modal-header-nav">
-                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="lazy" decoding="async">
+                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="eager" decoding="async">
                     <div style="display: flex; gap: 20px; align-items: center;">
                         <button class="modal-back-btn" onclick="closeModal('priceModal8')">
                             <span class="material-symbols-outlined" aria-hidden="true">arrow_back</span> Назад
@@ -3255,7 +3300,7 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
         <div class="modal-content price-modal-content">
             <div class="container">
                 <div class="modal-header-nav">
-                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="lazy" decoding="async">
+                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="eager" decoding="async">
                     <div style="display: flex; gap: 20px; align-items: center;">
                         <button class="modal-back-btn" onclick="closeModal('priceModal9')">
                             <span class="material-symbols-outlined" aria-hidden="true">arrow_back</span> Назад
@@ -3315,7 +3360,7 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
         <div class="modal-content service-modal-content">
             <div class="container">
                 <div class="modal-header-nav">
-                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="lazy" decoding="async">
+                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="eager" decoding="async">
                     <div style="display: flex; gap: 20px; align-items: center;">
                         <button class="modal-back-btn" onclick="closeModal('priceModal10')">
                             <span class="material-symbols-outlined" aria-hidden="true">arrow_back</span> Назад
@@ -3347,7 +3392,7 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
                     <div class="new-usp-card">
                         <span class="material-symbols-outlined" style="font-size: 3rem; color: var(--brand-amber); margin-bottom: 15px;" aria-hidden="true">savings</span>
                         <h3 class="wp-type-title">Выгодно</h3>
-                        <p class="wp-type-desc">от 499 Р за 6 месяцев.</p>
+                        <p class="wp-type-desc">от 0 Р за 6 месяцев.</p>
                     </div>
                 </div>
 
@@ -3393,7 +3438,7 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
         <div class="modal-content price-modal-content">
             <div class="container">
                 <div class="modal-header-nav">
-                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="lazy" decoding="async">
+                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="eager" decoding="async">
                     <div style="display: flex; gap: 20px; align-items: center;">
                         <button class="modal-back-btn" onclick="closeModal('priceModal11')">
                             <span class="material-symbols-outlined" aria-hidden="true">arrow_back</span> Назад
@@ -3427,7 +3472,7 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
         <div class="modal-content price-modal-content">
             <div class="container">
                 <div class="modal-header-nav">
-                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="lazy" decoding="async">
+                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="eager" decoding="async">
                     <div style="display: flex; gap: 20px; align-items: center;">
                         <button class="modal-back-btn" onclick="closeModal('storagePriceModal')">
                             <span class="material-symbols-outlined" aria-hidden="true">arrow_back</span> Назад
@@ -3475,7 +3520,7 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
         <div class="modal-content service-modal-content">
             <div class="container">
                 <div class="modal-header-nav">
-                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="lazy" decoding="async">
+                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="eager" decoding="async">
                     <div style="display: flex; gap: 20px; align-items: center;">
                         <button class="modal-back-btn" onclick="closeModal('mobileModal')">
                             <span class="material-symbols-outlined" aria-hidden="true">arrow_back</span> Назад
@@ -3550,7 +3595,7 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
         <div class="modal-content service-modal-content">
             <div class="container">
                 <div class="modal-header-nav">
-                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="lazy" decoding="async">
+                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="eager" decoding="async">
                     <div style="display: flex; gap: 20px; align-items: center;">
                         <button class="modal-back-btn" onclick="closeModal('promoModal')">
                             <span class="material-symbols-outlined" aria-hidden="true">arrow_back</span> Назад
@@ -3570,48 +3615,31 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
                         <span class="material-symbols-outlined promo-icon" aria-hidden="true">featured_seasonal_and_gifts</span>
                         <h3>Пакеты для колёс</h3>
                         <p>Дарим 4 фирменных пакета при заказе комплексной услуги шиномонтажа</p>
+                        <span class="promo-badge-akcia">АКЦИЯ</span>
                     </div>
 
                     <!-- Плашка 2 -->
                     <div class="promo-card">
-                        <span class="material-symbols-outlined promo-icon" aria-hidden="true">build_circle</span>
-                        <h3>Смазка ступицы</h3>
-                        <p>Обработка алюминиевой смазкой посадочных мест</p>
+                        <span class="material-symbols-outlined promo-icon" aria-hidden="true">inventory_2</span>
+                        <h3>Сезонное хранение</h3>
+                        <p>Первое хранение – бесплатно (6 месяцев)</p>
+                        <span class="promo-badge-akcia">АКЦИЯ</span>
                     </div>
 
                     <!-- Плашка 3 -->
                     <div class="promo-card">
-                        <span class="material-symbols-outlined promo-icon" aria-hidden="true">inventory_2</span>
-                        <h3>Сезонное хранение</h3>
-                        <p>Первое хранение – бесплатно (6 месяцев)</p>
+                        <span class="material-symbols-outlined promo-icon" aria-hidden="true">tire_repair</span>
+                        <h3>Ремонт шин</h3>
+                        <p>Скидка 30% на ремонт б/к шины заплаткой / грибком</p>
+                        <span class="promo-badge-akcia">АКЦИЯ</span>
                     </div>
 
                     <!-- Плашка 4 -->
                     <div class="promo-card">
-                        <span class="material-symbols-outlined promo-icon" aria-hidden="true">bolt</span>
-                        <h3>Быстрый сервис</h3>
-                        <p>Замена за 40 минут без очереди при заказе онлайн.</p>
-                    </div>
-
-                    <!-- Плашка 5 -->
-                    <div class="promo-card">
-                        <span class="material-symbols-outlined promo-icon" aria-hidden="true">content_cut</span>
-                        <h3>Удаление скотча</h3>
-                        <p>Удалим скотч с литого диска без повреждений и царапин</p>
-                    </div>
-
-                    <!-- Плашка 6 -->
-                    <div class="promo-card">
-                        <span class="material-symbols-outlined promo-icon" aria-hidden="true">tire_repair</span>
-                        <h3>Ремонт шин</h3>
-                        <p>Скидка 30% на ремонт б/к шины заплаткой / грибком</p>
-                    </div>
-
-                    <!-- Плашка 7 -->
-                    <div class="promo-card">
                         <span class="material-symbols-outlined promo-icon" aria-hidden="true">balance</span>
                         <h3>Балансировка</h3>
                         <p>Скидка 50% на балансировку (действует от 4 колес)</p>
+                        <span class="promo-badge-akcia">АКЦИЯ</span>
                     </div>
                 </div>
 
@@ -3697,21 +3725,77 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
         const counterPlate = document.querySelector('.counter-plate');
         if (counterPlate) counterObserver.observe(counterPlate);
 
-        // Success message
-        if (new URLSearchParams(window.location.search).get('success') === 'true') {
+        // =============================================
+        // КОНФИГУРАЦИЯ VK — ЗАПОЛНИТЕ ЭТИ ДВА ПОЛЯ:
+        // Токен сообщества: Настройки сообщества ВКонтакте → Работа с API → Создать ключ
+        //   (включить права: Сообщения сообщества)
+        // Ваш ID ВКонтакте: откройте vk.com, перейдите на свою страницу — в URL будет /id12345678
+        const VK_COMMUNITY_TOKEN = 'ВСТАВЬТЕ_ТОКЕН_СООБЩЕСТВА';
+        const VK_PEER_ID = 12345678; // Замените на ваш числовой ID ВКонтакте
+        // =============================================
+
+        function showBookingToast(html, isSuccess) {
             const toast = document.createElement('div');
-            toast.innerHTML = '✅ <strong>Заявка отправлена!</strong><br>Мы перезвоним вам в ближайшее время.';
+            toast.innerHTML = html;
             Object.assign(toast.style, {
                 position: 'fixed', bottom: '30px', left: '50%', transform: 'translateX(-50%)',
-                background: '#4CAF50', color: 'white', padding: '16px 32px', borderRadius: '12px',
+                background: isSuccess ? '#4CAF50' : '#c0392b',
+                color: 'white', padding: '16px 32px', borderRadius: '12px',
                 zIndex: '10000', textAlign: 'center', boxShadow: '0 10px 40px rgba(0,0,0,0.3)',
-                animation: 'slideUp 0.5s ease-out'
+                maxWidth: '90vw', fontFamily: 'Inter, sans-serif', fontSize: '1rem'
             });
             document.body.appendChild(toast);
-            setTimeout(() => {
-                toast.style.opacity = '0';
-                setTimeout(() => toast.remove(), 500);
-            }, 5000);
+            setTimeout(() => { toast.style.opacity = '0'; setTimeout(() => toast.remove(), 500); }, 5000);
+        }
+
+        async function handleBookingSubmit(event, form) {
+            event.preventDefault();
+            const btn = form.querySelector('button[type="submit"]');
+            const originalText = btn.textContent;
+            btn.textContent = 'Отправляем...';
+            btn.disabled = true;
+
+            const fd = new FormData(form);
+            const name = fd.get('name') || '';
+            const phone = fd.get('phone') || '';
+            const countryCode = fd.get('country_code') || '+7';
+            const location = fd.get('location') || '';
+            const dateStr = new Date().toLocaleString('ru-RU', { timeZone: 'Europe/Moscow' });
+
+            const message =
+                '🔔 НОВАЯ ЗАПИСЬ — Шиномонтаж ЮМАКС\n' +
+                '━━━━━━━━━━━━━━━━━━━━━\n' +
+                '👤 Имя: ' + name + '\n' +
+                '📞 Телефон: ' + countryCode + ' ' + phone + '\n' +
+                '📍 Адрес: ' + location + '\n' +
+                '━━━━━━━━━━━━━━━━━━━━━\n' +
+                '🕐 ' + dateStr;
+
+            try {
+                const params = new URLSearchParams({
+                    access_token: VK_COMMUNITY_TOKEN,
+                    peer_id: VK_PEER_ID,
+                    message: message,
+                    random_id: Date.now(),
+                    v: '5.131'
+                });
+                const resp = await fetch('https://api.vk.com/method/messages.send', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+                    body: params.toString()
+                });
+                const result = await resp.json();
+                if (result.error) throw new Error(result.error.error_msg);
+
+                form.reset();
+                closeModal('bookingModal');
+                showBookingToast('✅ <strong>Заявка отправлена!</strong><br>Мы перезвоним вам в ближайшее время.', true);
+            } catch (err) {
+                showBookingToast('❌ Ошибка отправки. Позвоните нам: <strong>8 (8412) 99-99-01</strong>', false);
+            } finally {
+                btn.textContent = originalText;
+                btn.disabled = false;
+            }
         }
     </script>
     <script>
@@ -3756,7 +3840,7 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
         <div class="modal-content price-modal-content">
             <div class="container">
                 <div class="modal-header-nav">
-                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="lazy" decoding="async">
+                    <img src="logo.png" alt="Логотип ЮМАКС" class="modal-logo" width="120" height="40" loading="eager" decoding="async">
                     <div style="display: flex; gap: 20px; align-items: center;">
                         <button class="modal-back-btn" onclick="closeModal('privacyModal')">
                             <span class="material-symbols-outlined" aria-hidden="true">arrow_back</span> Назад
