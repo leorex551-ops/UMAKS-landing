@@ -39,9 +39,9 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=swap" rel="stylesheet">
-    <link rel="icon" type="image/png" href="/favicon.png">
-    <link rel="shortcut icon" type="image/png" href="/favicon.png">
-    <link rel="apple-touch-icon" href="/favicon.png">
+    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="shortcut icon" type="image/png" href="favicon.png">
+    <link rel="apple-touch-icon" href="favicon.png">
     <meta name="theme-color" content="#af101a">
     <script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU&amp;apikey=34bec777-305c-4103-99ff-82bd7b6d0c87" type="text/javascript"></script>
     <style>
@@ -901,6 +901,42 @@
             font-size: 0.9rem;
         }
 
+        .autotec-crossell {
+            background: #1a1a1a;
+            padding: 32px 0;
+            border-top: 1px solid rgba(255,255,255,0.08);
+            border-bottom: 1px solid rgba(255,255,255,0.08);
+            text-align: center;
+        }
+
+        .autotec-crossell__text {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: var(--text-white);
+            margin: 0 0 4px;
+            line-height: 1.4;
+        }
+
+.autotec-crossell__btn {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 12px 28px;
+            background: var(--brand-amber);
+            color: #1a1a1a;
+            font-family: 'Inter', sans-serif;
+            font-weight: 700;
+            font-size: 1rem;
+            text-decoration: none;
+            border-radius: 8px;
+            letter-spacing: 0.03em;
+            transition: all 0.2s;
+        }
+
+        .autotec-crossell__btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 24px rgba(255, 215, 0, 0.4);
+        }
+
         footer {
             background: var(--bg-dark);
             padding: 40px 0 20px;
@@ -1174,6 +1210,7 @@
             
             .footer-cols { grid-template-columns: 1fr; gap: 30px; }
             .footer-cta h3 { font-size: 1.2rem; }
+            .autotec-crossell__text { font-size: 1.2rem; }
             .footer-bottom { font-size: 0.8rem; }
             
             .form-row { flex-direction: column; gap: 16px; margin-bottom: 16px; }
@@ -1838,10 +1875,10 @@
         </div>
     </header>
 
-    <div class="mobile-menu" id="mobileMenu">
+    <div class="mobile-menu" id="mobileMenu" aria-hidden="true">
         <div style="position: absolute; top: 20px; left: 20px; right: 20px; display: flex; justify-content: space-between; align-items: center; z-index: 10;">
             <a href="#" style="margin: 0; text-decoration: none;" onclick="toggleMenu()">
-                <img src="./logo.png" alt="Логотип ЮМАКС" width="80" height="35" loading="eager" decoding="async" style="height: 35px; filter: drop-shadow(0 0 4px rgba(255,255,255,0.2));">
+                <img src="logo.png" alt="Логотип ЮМАКС" width="80" height="35" loading="eager" decoding="async" style="height: 35px; filter: drop-shadow(0 0 4px rgba(255,255,255,0.2));">
             </a>
             <button style="font-size: 3rem; color: #fff; background: none; border: none; cursor: pointer; padding: 0; line-height: 1;" onclick="toggleMenu()">&times;</button>
         </div>
@@ -1863,8 +1900,8 @@
 
     <main id="main-content">
     <section class="hero">
-        <video autoplay muted loop playsinline preload="metadata" aria-label="Видео работы шиномонтажа ЮМАКС" class="hero-video">
-            <source src="./hero.mp4" type="video/mp4">
+        <video autoplay muted loop playsinline preload="metadata" poster="OG.jpg" aria-label="Видео работы шиномонтажа ЮМАКС" class="hero-video">
+            <source src="hero.mp4" type="video/mp4">
         </video>
         <div class="container" style="position: relative; z-index: 3;">
             <div class="hero-grid">
@@ -2190,6 +2227,19 @@
 
     </main>
 
+    <section class="autotec-crossell">
+        <div class="container">
+            <p class="autotec-crossell__text">Кузовной ремонт, покраска авто, диагностика, замена масла</p>
+            <p class="autotec-crossell__text">и другие работы в нашем автотехцентре</p>
+            <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin-top: 20px;">
+                <img src="logo.png" alt="ЮМАКС" width="180" height="80" loading="lazy" decoding="async" style="height: 80px; margin-bottom: 20px;">
+                <a href="https://xn--80auew5d.xn--80asehdb/" target="_blank" rel="noopener" class="autotec-crossell__btn" style="margin-top: 0;">
+                    Перейти на сайт автотехцентра →
+                </a>
+            </div>
+        </div>
+    </section>
+
     <footer>
         <div class="container">
             <div class="footer-cta">
@@ -2202,7 +2252,7 @@
             </div>
             <div class="footer-cols">
                 <div class="footer-col">
-                    <img src="logo.png" alt="ЮМАКС — сеть шиномонтажей в Пензе" width="120" height="40" loading="lazy" decoding="async" style="height: 40px; margin-bottom: 16px;">
+                    <img src="logo.png" alt="ЮМАКС — сеть шиномонтажей в Пензе" width="180" height="80" loading="lazy" decoding="async" style="height: 80px; margin-bottom: 16px;">
                     <p>Сеть шиномонтажей</p>
                     <div class="social-icons" style="margin-top: 12px;">
                         <a href="https://vk.com/umakspnz" target="_blank" rel="noopener noreferrer" title="ВКонтакте" aria-label="ЮМАКС ВКонтакте">
@@ -2476,7 +2526,7 @@ R22
 •	Итог за одно колесо: 1950 руб.
 •	Итог за четыре колеса: 7800 руб.
 R23
-•	Снятие и установка а/к с а/м: 610 руб.
+•	Снятие and установка а/к с а/м: 610 руб.
 •	Мойка колеса (обязательно): 140 руб.
 •	Монтаж/демонтаж шин: 560 руб.
 •	Балансировка (с грузами): 765 руб.
@@ -2571,7 +2621,6 @@ R12–15 — 70 руб.	R15–16 — 80 руб.	R15–17 — 110 руб.
 R16–17 — 80 руб.	R17–18 — 100 руб.	R18–19 — 120 руб.
 R18–19 — 90 руб.	R19–20 — 110 руб.	R20–21 — 130 руб.
 R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
-
 
 </div>
             <div class="modal-footer" style="flex-wrap: wrap; flex-direction: column;">
@@ -3665,11 +3714,15 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
 
         // Modal Functions
         function openModal(modalId) {
-            document.getElementById(modalId).style.display = 'block';
+            const modal = document.getElementById(modalId);
+            modal.style.display = 'block';
+            modal.setAttribute('aria-hidden', 'false');
             document.body.style.overflow = 'hidden';
         }
         function closeModal(modalId) {
-            document.getElementById(modalId).style.display = 'none';
+            const modal = document.getElementById(modalId);
+            modal.style.display = 'none';
+            modal.setAttribute('aria-hidden', 'true');
             // Only restore scroll if NO other full-screen modals are open
             const openModals = Array.from(document.querySelectorAll('.modal')).filter(m => m.style.display === 'block' || m.style.display === 'flex');
             if (openModals.length === 0) {
@@ -3689,11 +3742,14 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
             const modal = document.getElementById('imageModal');
             document.getElementById('modalFullImage').src = src;
             modal.style.display = 'flex';
+            modal.setAttribute('aria-hidden', 'false');
             document.body.style.overflow = 'hidden';
         }
         function toggleMenu() {
-            document.getElementById('mobileMenu').classList.toggle('active');
+            const menu = document.getElementById('mobileMenu');
+            const isActive = menu.classList.toggle('active');
             document.querySelector('.burger').classList.toggle('active');
+            menu.setAttribute('aria-hidden', !isActive);
         }
 
         // Animated counters
@@ -3725,15 +3781,6 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
         const counterPlate = document.querySelector('.counter-plate');
         if (counterPlate) counterObserver.observe(counterPlate);
 
-        // =============================================
-        // КОНФИГУРАЦИЯ VK — ЗАПОЛНИТЕ ЭТИ ДВА ПОЛЯ:
-        // Токен сообщества: Настройки сообщества ВКонтакте → Работа с API → Создать ключ
-        //   (включить права: Сообщения сообщества)
-        // Ваш ID ВКонтакте: откройте vk.com, перейдите на свою страницу — в URL будет /id12345678
-        const TG_TOKEN = 'YOUR_BOT_TOKEN';
-        const TG_CHAT_ID = 'YOUR_CHAT_ID';
-        // =============================================
-
         function showBookingToast(html, isSuccess) {
             const toast = document.createElement('div');
             toast.innerHTML = html;
@@ -3748,6 +3795,9 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
             setTimeout(() => { toast.style.opacity = '0'; setTimeout(() => toast.remove(), 500); }, 5000);
         }
 
+        // =============================================
+        // ОБРАБОТКА ФОРМЫ (Yandex Cloud Function)
+        // =============================================
         async function handleBookingSubmit(event, form) {
             event.preventDefault();
             const btn = form.querySelector('button[type="submit"]');
@@ -3756,34 +3806,27 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
             btn.disabled = true;
 
             const fd = new FormData(form);
-            const name = fd.get('name') || '';
-            const phone = fd.get('phone') || '';
-            const countryCode = fd.get('country_code') || '+7';
-            const location = fd.get('location') || '';
-            const dateStr = new Date().toLocaleString('ru-RU', { timeZone: 'Europe/Moscow' });
-
-            const message =
-                '🔔 НОВАЯ ЗАПИСЬ — Шиномонтаж ЮМАКС\n' +
-                '━━━━━━━━━━━━━━━━━━━━━\n' +
-                '👤 Имя: ' + name + '\n' +
-                '📞 Телефон: ' + countryCode + ' ' + phone + '\n' +
-                '📍 Адрес: ' + location + '\n' +
-                '━━━━━━━━━━━━━━━━━━━━━\n' +
-                '🕐 ' + dateStr;
+            const data = Object.fromEntries(fd.entries());
+            
+            // Добавляем техническую информацию
+            data.date = new Date().toLocaleString('ru-RU', { timeZone: 'Europe/Moscow' });
+            data.source = window.location.hostname;
+            data.form_type = 'booking';
 
             try {
-                const resp = await fetch('https://api.telegram.org/bot' + TG_TOKEN + '/sendMessage', {
+                const resp = await fetch('https://functions.yandexcloud.net/d4ettidar0fr90o7rqub', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ chat_id: TG_CHAT_ID, text: message })
+                    body: JSON.stringify(data)
                 });
-                const result = await resp.json();
-                if (!result.ok) throw new Error(result.description);
+
+                if (!resp.ok) throw new Error('Ошибка сервера');
 
                 form.reset();
-                closeModal('bookingModal');
+                if (typeof closeModal === 'function') closeModal('bookingModal');
                 showBookingToast('✅ <strong>Заявка отправлена!</strong><br>Мы перезвоним вам в ближайшее время.', true);
             } catch (err) {
+                console.error('Submission error:', err);
                 showBookingToast('❌ Ошибка отправки. Позвоните нам: <strong>8 (8412) 99-99-01</strong>', false);
             } finally {
                 btn.textContent = originalText;
