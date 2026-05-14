@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://юмакс-шиномонтаж.рф/sitemap.xml
+Sitemap: https://leorex551-ops.github.io/UMAKS-landing/sitemap.xml
