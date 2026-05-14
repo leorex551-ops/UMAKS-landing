@@ -3730,8 +3730,8 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
         // Токен сообщества: Настройки сообщества ВКонтакте → Работа с API → Создать ключ
         //   (включить права: Сообщения сообщества)
         // Ваш ID ВКонтакте: откройте vk.com, перейдите на свою страницу — в URL будет /id12345678
-        const VK_COMMUNITY_TOKEN = 'ВСТАВЬТЕ_ТОКЕН_СООБЩЕСТВА';
-        const VK_PEER_ID = 12345678; // Замените на ваш числовой ID ВКонтакте
+        const TG_TOKEN = 'YOUR_BOT_TOKEN';
+        const TG_CHAT_ID = 'YOUR_CHAT_ID';
         // =============================================
 
         function showBookingToast(html, isSuccess) {
@@ -3772,20 +3772,13 @@ R20–22 — 100 руб.	R21–22 — 120 руб.	R22 — 150 руб.
                 '🕐 ' + dateStr;
 
             try {
-                const params = new URLSearchParams({
-                    access_token: VK_COMMUNITY_TOKEN,
-                    peer_id: VK_PEER_ID,
-                    message: message,
-                    random_id: Date.now(),
-                    v: '5.131'
-                });
-                const resp = await fetch('https://api.vk.com/method/messages.send', {
+                const resp = await fetch('https://api.telegram.org/bot' + TG_TOKEN + '/sendMessage', {
                     method: 'POST',
-                    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-                    body: params.toString()
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ chat_id: TG_CHAT_ID, text: message })
                 });
                 const result = await resp.json();
-                if (result.error) throw new Error(result.error.error_msg);
+                if (!result.ok) throw new Error(result.description);
 
                 form.reset();
                 closeModal('bookingModal');
